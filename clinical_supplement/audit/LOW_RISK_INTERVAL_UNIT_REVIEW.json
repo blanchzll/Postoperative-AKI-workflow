@@ -1,0 +1,31 @@
+{
+  "issue": "Original operation records include repeated patient groups; all rate denominators must distinguish operations from patients",
+  "operation_patient_counts": [
+    {
+      "context": "geography_preop",
+      "operation_records": 1159,
+      "distinct_patient_groups": 1149,
+      "positive_operation_records": 72
+    },
+    {
+      "context": "geography_paired",
+      "operation_records": 1158,
+      "distinct_patient_groups": 1148,
+      "positive_operation_records": 72
+    },
+    {
+      "context": "temporal_preop",
+      "operation_records": 1683,
+      "distinct_patient_groups": 1681,
+      "positive_operation_records": 66
+    },
+    {
+      "context": "temporal_paired",
+      "operation_records": 1011,
+      "distinct_patient_groups": 1009,
+      "positive_operation_records": 36
+    }
+  ],
+  "action": "Preserve point estimates and existing patient-group bootstrap. CS2A uses group-bootstrap95% intervals for event-containing groups; only zero/9 unique-person group uses Wilson. Other Wilson columns remain descriptive binomial summaries, not cluster-adjusted inference.",
+  "RRT_association": "Endpoint incorporation explicitly stated; not independent hard-outcome validation"
+}

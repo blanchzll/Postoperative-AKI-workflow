@@ -1,0 +1,20 @@
+{
+  "id": "clinical-llm-py312-torch260-cu118-peft018-20261028-v1",
+  "kind": "isolated_override_environment_readonly_registered_clinical_torch_backend",
+  "interpreter": "/home/lei/codex-workspaces/shared-python-envs/envs/clinical-llm-py312-torch260-cu118-peft018-20261028-v1/bin/python",
+  "readonly_backend": "/home/lei/codex-workspaces/shared-python-envs/envs/clinical-dl-py312-torch260-cu118-20261016-v1/lib/python3.12/site-packages",
+  "consumer": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot",
+  "purpose": "Authorized Llama3/BioMedLM/MedGemma structured-input AKI task PEFT supplement",
+  "extra_requirements": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/llm_supplement_20261028_v1/EXTRA_REQUIREMENTS.txt",
+  "extra_requirements_sha256": "e786d23eec1256b60aef55c62a4cd9165911c209d01989c1013fa282c25f9825",
+  "inventory": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/llm_supplement_20261028_v1/INSTALLED_DISTRIBUTIONS.txt",
+  "import_qualification": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/llm_supplement_20261028_v1/IMPORT_QUALIFICATION.json",
+  "backend_files_unchanged": {
+    "/home/lei/codex-workspaces/shared-python-envs/envs/clinical-dl-py312-torch260-cu118-20261016-v1/lib/python3.12/site-packages/torch/version.py": "efd6a22255217054928ea425122fe020de7f089546d7ef5aca26ae430a98ab84",
+    "/home/lei/codex-workspaces/shared-python-envs/envs/clinical-dl-py312-torch260-cu118-20261016-v1/lib/python3.12/site-packages/transformers/__init__.py": "aa8cb54da488cf43ba37b9955bb6c0d84d2000db0306f6a5f1c20b6842482d04",
+    "/home/lei/codex-workspaces/shared-python-envs/envs/clinical-dl-py312-torch260-cu118-20261016-v1/lib/python3.12/site-packages/accelerate/__init__.py": "a479388e26b653f219788e744c45e73d0c172f021d441725ff2af89bf6ee7a8f"
+  },
+  "backend_mutated": false,
+  "actual_GPU_training_qualified": false,
+  "not_scientific_or_clinical_acceptance": true
+}

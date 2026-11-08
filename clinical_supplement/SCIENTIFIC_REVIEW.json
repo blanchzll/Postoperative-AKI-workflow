@@ -1,0 +1,44 @@
+{
+  "status": "PASS_REVIEWED_WITH_RETAINED_IDENTIFIABILITY_LIMITS",
+  "reviewed_Asia_Shanghai": "2026-11-08T13:31:30.129196+08:00",
+  "reviewer": "Codex; alternative numeric implementations; no independent human expert panel",
+  "request_sha256": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+  "protocol_sha256": "5317bfe92b528e6aa3eb536fa41654178bc09d62f445555165a163deb66e6db3",
+  "reviewed_axes": [
+    "source identity and frozen labels",
+    "same-cost budget semantics and paired uncertainty",
+    "development thresholds and prior evaluation exposure",
+    "daily observed-date proxy and double counting",
+    "center sparse/zero-event precision",
+    "SCr criteria timing and complete KDIGO distinction",
+    "hard-outcome source/timezero/confounding",
+    "measurement-driven ascertainment and low-risk safety",
+    "WorkBuddy current baseline and optimism/band scope"
+  ],
+  "remediation_receipts": [
+    "audit/OBSERVATION_IMPLEMENTATION_REPAIR.json",
+    "audit/INDEX_DEATH_DEFINITION_REPAIR.json",
+    "audit/SCIENTIFIC_REVIEW_REMEDIATIONS.json",
+    "audit/ZERO_EVENT_CENTER_PRECISION_REPAIR.json",
+    "audit/NUMERIC_GUARD_AND_PLOT_REPAIRS.json",
+    "audit/LOW_RISK_INTERVAL_UNIT_REVIEW.json"
+  ],
+  "numeric_verification": [
+    "audit/INDEPENDENT_NUMERIC_VERIFICATION.json",
+    "audit/EXTRA_INDEPENDENT_VERIFICATION.json",
+    "audit/REUSED_RESULT_VERIFICATION.json"
+  ],
+  "new_predictive_fits": 0,
+  "association_regressions": "unadjusted prognostic GLM only, separately verified; not new mortality models or causal effects",
+  "limitations_retained": [
+    "Clinical test indications, actual field availability/release and intervention outcomes needed for diagnostic-test recommendations",
+    "Exact operative-end and field-release clocks, actual protocol actions required for real-time trigger qualification",
+    "Actual arrival/action-completion timestamps, shift rosters, measured task times and complete service-volume coverage absent",
+    "No new blind LOCO; local-adaptation effect would require separately designed fitting/validation, unsupported with sparse events",
+    "Actual model-availability time and Chinese/MIMIC surgery clocks; timed urine output and full KDIGO ascertainment missing",
+    "Implementation exposure/common timezero/indications/confounding/rescue/positivity and complete dated followup missing",
+    "Unmeasured counterfactual events and effect of changed monitoring on care/labels unavailable"
+  ],
+  "operation_patient_units": "Rates and captures per eligible operation record; intervals resample patient groups; counts in results/COHORT_OPERATION_PATIENT_COUNTS.csv",
+  "all_7_questions_reviewed": true
+}

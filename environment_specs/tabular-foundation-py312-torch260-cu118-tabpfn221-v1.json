@@ -1,0 +1,27 @@
+{
+  "id": "tabular-foundation-py312-torch260-cu118-tabpfn221-v1",
+  "kind": "isolated_override_env_reusing_readonly_registered_torch_backend",
+  "interpreter": "/home/lei/codex-workspaces/shared-python-envs/envs/tabular-foundation-py312-torch260-cu118-tabpfn221-v1/bin/python",
+  "prefix": "/home/lei/codex-workspaces/shared-python-envs/envs/tabular-foundation-py312-torch260-cu118-tabpfn221-v1",
+  "python": "3.12.3",
+  "versions": {
+    "tabpfn": "2.2.1",
+    "tabpfn-common-utils": "0.1.9",
+    "torch": "2.6.0+cu118",
+    "numpy": "1.26.4",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.5.2",
+    "einops": "0.8.2",
+    "huggingface-hub": "0.36.2",
+    "pydantic": "2.13.4",
+    "pydantic-settings": "2.15.0"
+  },
+  "readonly_backend": "/home/lei/codex-workspaces/liri/analysis_cross_species_fam129b_20260827/.venv/lib/python3.12/site-packages",
+  "consumer": "/home/lei/codex-workspaces/aki-prediction-manuscript",
+  "qualification": "PASS P40 synthetic fit/predict and 10 bounded clinical-data inference routes; statistical comparisons are exploratory supplement, not clinical deployment validation",
+  "smoke_receipt": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/tabpfn_benchmark_20261025_v1/SMOKE.json",
+  "shared_backend_mutated": false,
+  "unrelated_inherited_packages_not_qualified": true,
+  "benchmark_receipt": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/tabpfn_benchmark_20261025_v1/ACCEPTANCE.json"
+}

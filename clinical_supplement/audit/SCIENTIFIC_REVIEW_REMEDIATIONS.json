@@ -1,0 +1,24 @@
+{
+  "at": "2026-11-08T05:07:02.220685+00:00",
+  "reviewer": "Codex single reviewer with independent numeric implementations; not human/external independent panel",
+  "issues": [
+    {
+      "issue": "Potential summing alternative base and updated reviews as primary daily demand",
+      "action": "Use one final-policy review as primary; summed baseline+updated reviews remain explicitly conditional hypothetical sequence; recompute time scenarios from final reviews"
+    },
+    {
+      "issue": "Empty MIMIC temporal low-risk stratum produced100% reduction CI by denominator guard",
+      "action": "Undefined intervals set missing; no threshold change or group substitution"
+    },
+    {
+      "issue": "Zero empirically lost events can give degenerate bootstrap interval",
+      "action": "Add Wilson interval using original known-event denominator; do not imply zero possible future loss"
+    },
+    {
+      "issue": "Single/fewer5 hard outcome events yield spuriously tight conditional bootstrap AUC intervals",
+      "action": "Retain point/count/valid replicates, suppress inferential AUC CI with<5 events; no replacement algorithm"
+    }
+  ],
+  "original_tables_preserved": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/audit/pre_scientific_review_repairs",
+  "no_source_or_frozen_result_change": true
+}

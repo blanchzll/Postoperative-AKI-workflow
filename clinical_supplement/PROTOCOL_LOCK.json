@@ -1,0 +1,77 @@
+{
+  "task_id": "AKI_CLINICAL_SUPPLEMENT_20261108_V1",
+  "version": "1.0",
+  "locked_Asia_Shanghai": "2026-11-08T12:48:06.426901+08:00",
+  "request_sha256": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+  "baseline_acceptance_sha256": "fafbe4e36eb5b715d44343c195103af3fd28a47dc72c60e08d28afe6f3ba6244",
+  "status": "LOCKED_BEFORE_NEW_TARGET_OUTCOME_COMPUTATION",
+  "study_role": "Posthoc exploratory extension; previously exposed geographic and temporal evaluation sets; no new blind validation",
+  "frozen_source": "full_data_20261025_postslot/outputs/v4_development_inputs_20261018/SOURCE_LOCK.json",
+  "source_sha256": "afa0e1224717aee6b86a8ba3598c9214b24fc02028ebc8e7b4869dbcaf0874d3",
+  "unchanged": "All raw inputs, labels, fits, feature lists, seeds, original policies and original acceptances retained. No new prediction model fitting.",
+  "primary": "Geographic and temporal fixed calibrated champion routes; 9to27 preop and 27to38 paired analyzed separately; cannot chain different cohorts/model families as patient benefit.",
+  "uncertainty": {
+    "seed": 20261108,
+    "B": 2000,
+    "unit": "patient group within evaluation context; paired resampling for comparisons; centers are described individually, not randomized hospital samples",
+    "type": "percentile 95% intervals conditional on fixed fits/rules; does not correct selection optimism",
+    "random_comparator": "one predeclared SHA256 patient-priority seed20261108, plus 200-seed randomization distribution separately from patient CI",
+    "daily": "observed calendar spans incl zeros and active operation days separately; 7day block bootstrap for mean/p95; no invented shift clocks"
+  },
+  "Q1": {
+    "rules": [
+      "existing 25% selective capacity and individual rules, 50% sensitivity",
+      "base-risk highest25%",
+      "base-risk nearest existing development training_capacity20 threshold25%",
+      "seeded random25%",
+      "no collection",
+      "all collection",
+      "base capacity expansion"
+    ],
+    "primary_budget": "review capacity20% plus upgrade25% at collection/review cost ratio0.1; exact integer realized budget. Cost ratio0,.05,.1,.25 sensitivity; base expansion and full collection review capacity consume same budget. Data-field completion only, not diagnostic-test recommendation.",
+    "outputs": "paired event captures/losses, capture transitions, missing fields vs already recorded fields, 9/27/38 record alignment and availability audit"
+  },
+  "Q2": {
+    "candidate_rule": "reuse development-locked gate at25%, nearest frozen development threshold25%, highest-risk25%; evaluate all without target winner selection",
+    "thresholds": "unchanged development training_sensitivity80 and training_capacity20 for final review; fixed training_capacity20 primary; top20% retrospective capacity supportive",
+    "comparators": "no update/all update/random/existing selective and cost sensitivity",
+    "deployability": "no claim of real-time readiness absent feature-release/end-of-operation clocks"
+  },
+  "Q3": {
+    "estimand": "surgery-date-indexed potential demand under fixed per-person thresholds; actual operation dates are not actual alert arrival dates",
+    "daily": "per center and calendar day incl zeros; unique patient groups, potential repeated stage reviews, upgrade requests, total requests; capacities5/10/20 per day; estimate quantiles/overload; action completion unobserved",
+    "costs": "separate review minutes5/10/15, chart field completion0.25/1 minute per missing nonlab field, new sample/result0/5/10 minutes per missing lab; personnel substitution remains scenario only"
+  },
+  "Q4": {
+    "metrics": "per line/cohort/stage/center fixed-route n/events, prevalence, Brier, O/E, offset intercept, slope and AUROC when identified; review fraction/capture at frozen training thresholds with CIs",
+    "adaptation": "no local recalibration reused as external validity; audit LOCO inputs and prior evaluation exposure; no outcome-driven center exclusion"
+  },
+  "Q5": {
+    "audit": "original Chinese date/SCr window source; INSPIRE surgery start/end/lab first-criterion evidence and known release-time gap; MIMIC exact chart/store times and procedure-date limitation",
+    "supportive_MIMIC": "exact decimal 0.3mg/dL absolute rise from previous48h and 1.5x previous7day measured SCr at day1..7; separate current frozen59 calendar-ratio events; no relabel/refit; report clock availability, baseline interval and discharge truncation",
+    "leadtime": "only true model-availability timestamp to criterion if all required clocks available; otherwise reuse recorded landmark interval with explicit label; do not infer KDIGO urine component"
+  },
+  "Q6": {
+    "sources": "audit registry meanings and INSPIRE death/RRT/discharge source; hard-outcome associations using frozen risk scores, not optimized labels",
+    "eligible_analysis": "fixed risk per doubling (logit units if score saturates), AUROC/Brier for binary hard outcomes with event counts; LOS Spearman and medians, in-hospital death separated; descriptive low/high fixed training threshold contrasts with patient bootstrap",
+    "causal": "implementation treatment/action/time-zero/confounding/positivity absent => no implementation causal effect; no fabricated IV/RRR"
+  },
+  "Q7": {
+    "low_risk": "p below frozen development training_sensitivity80; training_capacity20 sensitivity; report event rate/capture misses with Wilson and patient bootstrap",
+    "observation": "MIMIC per day1..7 SCr availability counts; delete alternate-calendar-day measurements and first-per-day/first48h sensitivity using retained source ratio endpoint; report lost observed events, measured testing savings and detection lag; unknown events never imputed zero",
+    "bounds": "missed known events lower bound; event rate among unmonitored unknown; no stopping-safety claim"
+  },
+  "additional_review": {
+    "MIMIC_Brier": "verify current759/59 and existing target-rate null comparator; apparent null vs fixed source constant distinguished",
+    "bands": "verify existing original-grid max-deviation band semantics and source matches; no finite-sample exact guarantee",
+    "optimism": "audit nested procedure-selected predictions vs fixed-route outer CV; no full selection bootstrap fabricated; no massive full refits without estimand benefit"
+  },
+  "resources": {
+    "environment": "reuse registered clinical-stats Python if dependency probe passes, or registered AKI legacy runtime for compatibility",
+    "expected_peak_RAM_GiB": 4,
+    "expected_new_storage_MiB": 200,
+    "GPU": "small fixed-score summaries/optimization and resampling CPU NumPy; GPU transfer/precision change not justified; no model fitting",
+    "OS_headroom": "at least max(4GiB,25% actual available); finite processes exit"
+  },
+  "implementation": "Scientific integration/statistical estimands require Codex-led implementation; no unrelated local-model residency reload. Independent scalar/alternative numeric implementation required, no human independent-review claim."
+}

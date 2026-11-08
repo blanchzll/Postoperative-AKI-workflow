@@ -1,0 +1,9 @@
+line,observed_post_Cr_n,N,events,rate,mean_predicted_risk,Brier,AUROC,meaning
+geography,1,141,2,0.014184397163120567,0.05938257645843391,0.019776986553866765,0.5683453237410072,observation-associated subgroup; not causal detection effect
+geography,2to3,185,3,0.016216216216216217,0.0853066395600501,0.027673331086875162,0.7179487179487178,observation-associated subgroup; not causal detection effect
+geography,4to6,206,11,0.05339805825242718,0.09898010459228011,0.068242426223178,0.489044289044289,observation-associated subgroup; not causal detection effect
+geography,7plus,227,43,0.1894273127753304,0.0973400287087588,0.17235487491210585,0.5752022244691608,observation-associated subgroup; not causal detection effect
+temporal,1,141,2,0.014184397163120567,0.07375571934571253,0.018604041446616367,0.5971223021582733,observation-associated subgroup; not causal detection effect
+temporal,2to3,185,3,0.016216216216216217,0.08913527718266953,0.021674975856251836,0.6584249084249084,observation-associated subgroup; not causal detection effect
+temporal,4to6,206,11,0.05339805825242718,0.09339471437893655,0.05811987774668443,0.5468531468531468,observation-associated subgroup; not causal detection effect
+temporal,7plus,227,43,0.1894273127753304,0.09734693935135155,0.16665299495373212,0.5726744186046512,observation-associated subgroup; not causal detection effect

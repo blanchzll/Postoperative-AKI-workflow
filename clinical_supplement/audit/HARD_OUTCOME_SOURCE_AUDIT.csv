@@ -1,0 +1,7 @@
+population_model,N,source_sheet,90d_followup_dates_available,RRT_start_stop_available,implementation_exposure_available,RRT_incorporated_into_AKI_endpoint,in_hospital_death_recorded_n,death_outside_index_admission_n,all_recorded_inhospital_death_timestamps,exact_operation_end_available,selection_on_Cr_observation,blank_death_meaning,RRT_prior_positive_n
+Chinese_geography_9,1159,Sheet1+accepted_overlay+date_duration_confirmations; RRT from accepted confirmed acute-postop flag,False,False,False,True,,,,,,,
+Chinese_geography_27,1159,Sheet1+accepted_overlay+date_duration_confirmations; RRT from accepted confirmed acute-postop flag,False,False,False,True,,,,,,,
+Chinese_temporal_9,1683,Sheet1+accepted_overlay+date_duration_confirmations; RRT from accepted confirmed acute-postop flag,False,False,False,True,,,,,,,
+Chinese_temporal_27,1683,Sheet1+accepted_overlay+date_duration_confirmations; RRT from accepted confirmed acute-postop flag,False,False,False,True,,,,,,,
+INSPIRE_geography_6,6043,locked INSPIRE first-operation profile6043,,,False,,10.0,36.0,46.0,True,True,"no recorded index-admission death timestamp; later institutional deaths retained separately, external followup incomplete",3.0
+INSPIRE_temporal_6,6043,locked INSPIRE first-operation profile6043,,,False,,10.0,36.0,46.0,True,True,"no recorded index-admission death timestamp; later institutional deaths retained separately, external followup incomplete",3.0

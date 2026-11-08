@@ -1,0 +1,10 @@
+{
+  "implementation_treatment_recorded": false,
+  "actual_action_and_stop_times": false,
+  "common_implementation_time_zero": false,
+  "indications_and_rescue_rules": false,
+  "time_varying_confounding_observed_for_action": false,
+  "positivity_for_implementation_treatment_assessable": false,
+  "implementation_effect_estimated": false,
+  "valid_answer": "frozen AKI-score prognostic associations; no clinical implementation effect; no IV invented"
+}

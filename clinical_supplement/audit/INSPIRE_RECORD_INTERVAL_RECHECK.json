@@ -1,0 +1,8 @@
+{
+  "all_recorded_events": 253,
+  "median_hours": 42.916666666666664,
+  "Q1_hours": 20.5,
+  "Q3_hours": 86.66666666666667,
+  "prediction_release_timestamp_present": false,
+  "label": "fixed surgery-start landmark to first recorded SCr-criterion interval"
+}

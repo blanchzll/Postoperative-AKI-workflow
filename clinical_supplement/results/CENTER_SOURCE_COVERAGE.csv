@@ -1,0 +1,6 @@
+center,source_records,source_patient_groups,eligible_preop_records,eligible_paired_records,preop_source_record_coverage,paired_source_record_coverage,paired_among_preop,preop_events,paired_events,coverage_meaning
+1,765,765,740,0,0.9673202614379085,0.0,0.0,43,0,historical eligibility/field presence; not prospective availability or care coverage
+2,802,795,798,797,0.9950124688279302,0.9937655860349127,0.9987468671679198,53,53,historical eligibility/field presence; not prospective availability or care coverage
+3,985,976,984,983,0.9989847715736041,0.9979695431472081,0.9989837398373984,66,66,historical eligibility/field presence; not prospective availability or care coverage
+4,1286,1286,1013,473,0.7877138413685848,0.3678071539657854,0.46692991115498517,37,13,historical eligibility/field presence; not prospective availability or care coverage
+5,175,174,175,175,1.0,1.0,1.0,6,6,historical eligibility/field presence; not prospective availability or care coverage

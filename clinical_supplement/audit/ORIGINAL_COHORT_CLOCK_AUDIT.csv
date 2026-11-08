@@ -1,0 +1,5 @@
+context,N,surgery_date_nonmissing,surgery_date_with_nonmidnight_time,op_duration_recorded_n,operation_start_end_separate_fields,SCr_result_release_clocks,postop_sampling_exact_clock
+geography_preop,1159,1159,0,1159,False,False,False
+geography_paired,1158,1158,0,1158,False,False,False
+temporal_preop,1683,1683,0,1012,False,False,False
+temporal_paired,1011,1011,0,1011,False,False,False

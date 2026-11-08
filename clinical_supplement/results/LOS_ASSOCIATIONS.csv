@@ -1,0 +1,11 @@
+population_model,outcome,N,missing_or_negative_n,median_days,Q1_days,Q3_days,median_lo,median_hi,Spearman_rho,rho_lo,rho_hi,death_competing_risk,implementation_benefit
+Chinese_geography_9,total_LOS_days,1159,0,18.0,14.0,22.0,17.0,18.0,0.29061406069342205,0.23220887136993545,0.3435251355780616,not modelled; shorter death stays may distort LOS,False
+Chinese_geography_9,postoperative_LOS_days,1159,0,10.0,9.0,13.0,10.0,10.0,0.19812343786260386,0.14320125288349728,0.2549480872160914,not modelled; shorter death stays may distort LOS,False
+Chinese_geography_27,total_LOS_days,1159,0,18.0,14.0,22.0,17.0,18.0,0.41398561428244535,0.36395180327767984,0.46385927382219166,not modelled; shorter death stays may distort LOS,False
+Chinese_geography_27,postoperative_LOS_days,1159,0,10.0,9.0,13.0,10.0,10.0,0.19521467859502648,0.13921747654803057,0.25236560492706095,not modelled; shorter death stays may distort LOS,False
+Chinese_temporal_9,total_LOS_days,1683,0,16.0,13.0,20.0,16.0,16.0,0.13697640551821855,0.09049719513505551,0.184631202013883,not modelled; shorter death stays may distort LOS,False
+Chinese_temporal_9,postoperative_LOS_days,1683,0,10.0,9.0,12.0,10.0,10.0,0.12243978164030844,0.07580572308988114,0.1715437111609831,not modelled; shorter death stays may distort LOS,False
+Chinese_temporal_27,total_LOS_days,1683,0,16.0,13.0,20.0,16.0,16.0,0.2943562321615887,0.2498718980864986,0.34166616385535703,not modelled; shorter death stays may distort LOS,False
+Chinese_temporal_27,postoperative_LOS_days,1683,0,10.0,9.0,12.0,10.0,10.0,0.09148379170753376,0.04484019014135147,0.14008592005816645,not modelled; shorter death stays may distort LOS,False
+INSPIRE_geography_6,operation_end_to_discharge_days,6043,0,7.368055555555555,5.569444444444445,9.166666666666668,7.340277777777778,7.40625,0.11295283481568233,0.08722958060639079,0.1362860802286762,not modelled; shorter death stays may distort LOS,False
+INSPIRE_temporal_6,operation_end_to_discharge_days,6043,0,7.368055555555555,5.569444444444445,9.166666666666668,7.340277777777778,7.40625,0.10750349560100413,0.08237112475786851,0.13084251359366328,not modelled; shorter death stays may distort LOS,False

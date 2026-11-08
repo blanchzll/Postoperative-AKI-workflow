@@ -1,0 +1,13 @@
+# 给原写作对话的分析交接
+
+本轮AKI_CLINICAL_SUPPLEMENT_20261108_V1已完成授权范围内的可行计算、来源匹配、替代数值实现核对、科学审读与整改。未修改原始数据、冻结模型、原20图、全文或投稿包。
+
+先读ACCEPTANCE.json、SCIENCE_CONCLUSION_MATRIX.csv、ANALYSIS_RESULTS_AND_REVIEW_ZH.md。七问逐项状态在QUESTION_EVIDENCE_ANALYSIS_MATRIX.csv；source CSV、指标、分母、区间、代码和图分面已逐主张绑定。
+
+可直接取用的分析交接文本为eMETHODS_FOR_WRITING_EN.md、eRESULTS_FOR_WRITING_EN.md，图例为FIGURE_LEGENDS_FOR_WRITING.md。TABLE_INDEX.csv列25张结果表。3幅新增图/8独立分面PDF是补充候选，不要求增加主图或原图重画；写作侧自行编号并维持3000词/5主图限制。
+
+必须保留的重要反证：选择性采集同成本增量不稳定；全采集有不利情景；固定阈值的复核量与同预算比较不同；MIMIC基率Brier不佳、时间性差异区间跨零；低风险仍有事件，删测会失去已知事件；中心稀疏且既往评价暴露；完整开发选择乐观度未校正。27→38还伴随锁定模型族变化，不能解释为纯字段数量效应。
+
+实际日期索引结果只代表本研究队列，不能当医院每日/班次到达或已完成临床动作。SCr测量组分/记录间隔不能改名为完整KDIGO或真实预警提前量。硬结局仅为冻结AKI分数预后关联，RRT与原目标定义有重叠；无实施因果获益或停监测安全证据。
+
+交接压缩包排除private/、具体日期需求明细及WorkBuddy原文，仅含聚合表、代码、图源与审读记录。原写作对话负责全文、投稿材料和用户指定GitHub仓库；本分析分支不发布/推送。

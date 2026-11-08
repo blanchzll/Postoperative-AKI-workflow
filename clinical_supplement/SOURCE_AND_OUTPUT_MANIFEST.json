@@ -1,0 +1,709 @@
+{
+  "task_id": "AKI_CLINICAL_SUPPLEMENT_20261108_V1",
+  "at": "2026-11-08T13:33:57.111959+08:00",
+  "request_sha256": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+  "protocol_sha256": "5317bfe92b528e6aa3eb536fa41654178bc09d62f445555165a163deb66e6db3",
+  "unchanged_owning_source_hashes": {
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/PROTOCOL_LOCK.json": "5317bfe92b528e6aa3eb536fa41654178bc09d62f445555165a163deb66e6db3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/REQUEST.json": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/probabilistic_integration_20261105_v1/package/PROBABILISTIC_INTEGRATION_ACCEPTANCE.json": "fafbe4e36eb5b715d44343c195103af3fd28a47dc72c60e08d28afe6f3ba6244",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/SOURCE_LOCK.json": "afa0e1224717aee6b86a8ba3598c9214b24fc02028ebc8e7b4869dbcaf0874d3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/RESAMPLING_EVENT_COUNTS.csv": "55fb957ce0aa4c90e879bedd8ab73b42144b95a17be2fdae93da3ac815120eed",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/paired_preop_features.csv": "d4b67c15d57b03b23963af51aec25df2f5250f31a16d5bf86b4a872c1e3525ee",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/full_source_endop_features.csv": "4dcc8fd387cb23d3abd3bc54160133cc92fb28ef645642db612f43abcb9ae6bd",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/preop_preop_noALT_features.csv": "5991068fb876e3f9bfa5b80f6d7d8cba449b25a642f66a4092565718b0bb80c4",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/geography_preop_resampling.json": "4b0a2393bc13c41c115aabe5accb741545d2ec2f9fd65907e77d3bb69fb713f9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/paired_endop_features.csv": "ad7f8069d475251132c9182d27b34ee240a20037f24cd80c9586e8a8de2ba13a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/paired_preop_noALT_features.csv": "cc7dbd82becdac6b40efbcabbab17eb7c5947b49dcf8c164d99e142a321bcd0e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/SURGICAL_TEXT_RECOVERY_LEDGER.csv": "c24ce1ff1a77572bd2190658bf7d19547587a587d9299c489a049cee48b9bf75",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/temporal_preop_resampling.json": "45400580415fada788e5f932d44ec2b2d77981950402b17c15df3d1ba350d801",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/FEATURE_SPECS.json": "8acfde01d4da4ede55fcd9e9a7f54da5e675a9fa74abcd2ea0defbb0a24b194c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/INPUT_ACCEPTANCE.json": "e375f1708607fe85dec9fad42046d52704ffd43a38772fedf5a46988b25e711b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/geography_paired_resampling.json": "c705e4a14cf3e6e27293aaab25c96581c5cb9a8f4bd950f5788b3cf166955f20",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/paired_endop_noALT_features.csv": "6b4cf8ca0cbccab06b6c766e2ca942d3e853b69bdac42d6e6947e3797af61113",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/paired_metadata.csv": "27386452748a8b75bbb1d1def7c3c2425daba6be234fc1c38f6f01781739dc94",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/temporal_paired_resampling.json": "4bb2356690648aa13eaac30fd76bb35ffe9ef454b7b0f22f198280d7d5cc091d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/preop_preop_features.csv": "26481bbc0297d629b096b798feb95260cfe0107a2183811a85e7b0aaf6f83b64",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/v4_development_inputs_20261018/preop_metadata.csv": "87c1f3ea704bb23df23176c6e4136becc11081323129e9f01651c915b59b74e5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/full_data_audit_20261025_v1/candidate_release/MANIFEST.json": "247db6391888284e7cf5a5570b3370395407372b22f998acde4b62b624c3cd51",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/full_data_audit_20261025_v1/candidate_release/clinical/preop_cohort.csv": "ee83d8d12f51c83fe2ccc1ee75d2314fc2869d825202ed831d8b555c7c551d98",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/full_data_audit_20261025_v1/candidate_release/clinical/paired_cohort.csv": "1456b4526c8ade277c2f83db15f0e3e833c886edf6faa4771048dba4d1b7c0c5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/full_data_audit_20261025_v1/candidate_release/SOURCE_VALUE_OVERLAY.csv": "e85184cf17fee272a046412d4250f2315a1d2681655c57c7545b8d90093d8bfb",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/REPORT_SHA256.json": "495e9b57f42d8b3bb95827d914ad7c9f4c1f19ddfece65b4f73dd7825dcac0dd",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/07_增补_编辑必改项落地方案.md": "904f5597dbdae371983fb93c6ed2149a5437a1d9ac1c2cb8bf0c25b85abbbb65",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/05_模拟评审_统计学.md": "74de1df9f5aeabb65a381d5e0a60e4976e97d05f13c29d97c06393adb404be83",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/06_模拟评审_编辑综合诊断.md": "4d91e1e193d36690bff014455aaa1637d68b1b57022f6f3226e23c2143286ca9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/03_排版审查_JNO格式与TRIPOD合规.md": "c1ab11f683c4aef3e9702aa203f59e7a49415133a548fd1b7198ab7a73df1b46",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/04_模拟评审_方法学.md": "693673da7f05211b68f992bac8cba4224489337fe6e407efc3dc20dcc976dcb3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/01_写作润色_逐段体检.md": "0fa4f20b3875fea471c8a8fc4eddf63355ddeda67af2c93788361408ce922cd5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/02_引文核对_参考文献报告.md": "5300e83edbdbbb9588c2f4454f1f08851b53af98037736ecd84bd95df99b3cf7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports/00_总汇编_AKI初稿修改交付包.md": "3a59dfc73afb18c07b98150b104e26e1408967eb869f5a7c9c3fb644f64520f1",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/STAGE_MODEL_LOCK_ACCEPTANCE.json": "896e787e474cd703a17525324a905ab3f0e314c551058fec0038af285170619a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/endop/full/champion/LR/MODEL_LOCK.json": "2b96261d044e3c7b9faeadc2c7783ca701db6dcfad20102c7e14cb3bbc7350ed",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/endop/full/reference/LR/MODEL_LOCK.json": "9d7567a90775f79c20bcd7fb57a4ab67a5b2bb90090b451d3f9f147add550a61",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/endop/full/reference/Voting/MODEL_LOCK.json": "f7b63d04fa5fb346e45c58603d5f7ea389fd16711cfd288b38e8a249080aade1",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/preop/full/champion/Voting/MODEL_LOCK.json": "0955265aa317b7ad228ac4a5326b4468b8769a8e0f5526fb521c8703b94bbb7d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/preop/full/reference/LR/MODEL_LOCK.json": "bb699c26e89314ef55c7edb4187a996571a6f910c25a000c5241925f4a4724c7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/preop/full/reference/Voting/MODEL_LOCK.json": "12a3134a3056a8b3b31ded4f4f9ed90d1673c136fceb8b022aed9e2335af03e7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/compact/champion/LR/MODEL_LOCK.json": "a8b56af9de711bc8a4c42588b0dc8e5026750fbbb8c407d26a38eb55f4422a55",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/private_predictions/preop_compact_champion_LR/COMPLETE.json": "7337ab30a98b60b3e15a4edb2d094cf0823105d205d8720cc53b7afb63042baf",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/private_predictions/preop_compact_champion_LR/PREDICTIONS.csv": "03dba7fb56a48b2b1bbca27812c8d0104de55f56dab2faab4b2c01212592548f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/compact/champion/LR/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "7da0bcb9bee320576a8f5bc1fb093ab35d74a615c2a94b68455756a7ae41f206",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/compact/reference/LR/MODEL_LOCK.json": "9b75723bf917afca278d5c437802413fe917ea78fcbb2466e89f862110590357",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/full/champion/LR/MODEL_LOCK.json": "d1b7b947b3000943181178af859d44a2734503999b51cd0528d05322d0334111",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/private_predictions/preop_full_champion_LR/COMPLETE.json": "b324705d46b1d9cbece24a74d0422134f18355a24168b710c9daded249e16e8e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/private_predictions/preop_full_champion_LR/PREDICTIONS.csv": "ddd701b33c7346596b266a1e3c5372b20239403fcbe588cf170a6c373ec0394c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/full/champion/LR/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "947f12f6ceed016bd2ca3fb4f8a1d9911a0cc688efddc564d07b7a718c5e1996",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/full/reference/LR/MODEL_LOCK.json": "95dd5e63f582ea1ef45b99dfe0cac9f2aa2b1672cb7a8a8814f94318239d280a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/selected/champion/LR/MODEL_LOCK.json": "8ef09a8f9092df38aa536e6700c5d641d2295e19f211adce407948e666e46131",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/preop/preop/selected/reference/LR/MODEL_LOCK.json": "4b4b1b0ec0f112049740ff2748c5e9b7c2c5f6a69ee00b7c3a0eb2047491905b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/endop/full/champion/Voting/MODEL_LOCK.json": "c040c5d5f1101b953bfaa517e513ea2237aec37fe21c8562d40205a1bbdb6762",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/endop/full/reference/LR/MODEL_LOCK.json": "4506758502cab0658f0be192533365ad1b450ecfe47d1f75532d519e8fe6dc31",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/endop/full/reference/SGBT/MODEL_LOCK.json": "17101439186ae9a86534613f37b8f85a136ad37486b79e056ca46a6ffa99b7c1",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/endop/full/reference/Voting/MODEL_LOCK.json": "d60af9cd2874d11ece5c4c320e92770d7a1c483da6e622ca17a461ea01de923c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/preop/full/champion/SGBT/MODEL_LOCK.json": "8ccc2c50042d2346444095a33dbfd37efe32fa75c3623c837596f59f96427e2e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/preop/full/reference/LR/MODEL_LOCK.json": "795162597c507c480666abcbb3cdb80659aad1f69c265595b273bea306a72a5d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/preop/full/reference/SGBT/MODEL_LOCK.json": "c01d641b83ca568957bf92a65b55db98b9c406921693a6660a67b8589d03c20d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/preop/full/reference/Voting/MODEL_LOCK.json": "b207c12c129e18b9764e317ed3e9eeb9b52eb3e6c4c4cf01ab8ee6557a58cf8f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/compact/champion/Voting/MODEL_LOCK.json": "ed65fa524a35f290726baf250a7d411a7d0451fceac72ec0b5f65efe18383b73",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/compact/reference/LR/MODEL_LOCK.json": "839607cecbedfcd0b1f7d59a0181e52af2e701c81c7a48e2d66c89f1a22b2c78",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/full/champion/Voting/MODEL_LOCK.json": "54908af14395e6d05793ea773e52cc47634b67e9f1ad84d4a88e6473eb11c455",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/full/reference/LR/MODEL_LOCK.json": "5d9f1ce715e1943624ad4368dc77faf8e9fb9b102e6ee42a241aa2bfe8b411c3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/selected/champion/SGBT/MODEL_LOCK.json": "11a84c9243a7260776d01861a5dad6685785555b7853326c6215eddf722c7076",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/selected/reference/LR/MODEL_LOCK.json": "821b05031b34d061a2ea3b3310ef490a70adb20b8a1b2b1dbaa0c9708f7a2898",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/geography/preop/0.25/capacity/selective/POLICY_LOCK.json": "7efd51c5a16a4f27c571c1d5ad2b4761ff507c66d89ca057110b6399f9fda334",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/policy_0.25_capacity_selective_PRIVATE.csv": "fb8a2d9a33318447706e6fd789f03a5d74adef41d13a9b9e84938654f8be86a8",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_preop/policy_0.25_individual_selective_PRIVATE.csv": "e817d194540f388ac8e86c6e25c1bd3eb0a1ae5e5f6efee42adac2283a1987bf",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/geography/preop/0.25/individual/selective/POLICY_LOCK.json": "973be4b1403d34dbf415412228c89417ecf7f82f9f8210b22750d8d3aec5fdbf",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/private_predictions/endop_full_champion_LR/COMPLETE.json": "77b3f17a1fa8e11b8d3a349a5af145179b9709b0da22b5f7638af8b9fe4436d3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/private_predictions/endop_full_champion_LR/PREDICTIONS.csv": "5aa99171c9aabcb110a1c7e1a6730b579d4808f27651c2487ab1823e5fcbd31b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/endop/full/champion/LR/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "51496bd3465253a8307b97c1f1ab9f3545669e3c16b6369dba31365ad845226a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/private_predictions/preop_full_champion_Voting/COMPLETE.json": "0511fba40ec5c2c316558a897410896707cf1acf85edbba9a7c79ef6b52c963c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/private_predictions/preop_full_champion_Voting/PREDICTIONS.csv": "a9c755e07040fe46d13948adff56d793154826674b68739e48df36158cb33354",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/geography/paired/preop/full/champion/Voting/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "c94ab3c1e85b5967cb5d5431f1337a0e1d4c95b27643cfcb52cc970c6decdc9a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/geography/paired/0.25/capacity/selective/POLICY_LOCK.json": "03e9e4f448cf282ccc4af91508d6dc37f02c092c02ce3359cbabb9343605296c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/policy_0.25_capacity_selective_PRIVATE.csv": "aeab296b0be14ed2c008968c6d80fc6d763c9e41765dc19e8a4451cb7b3c543b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/geography_paired/policy_0.25_individual_selective_PRIVATE.csv": "3b41542239f3aba0551649de1f9b84e8b97fc78570479ab93000e66b4a4b01df",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/geography/paired/0.25/individual/selective/POLICY_LOCK.json": "490ecd026d9a030d8de1761ffd3ceaf12491bf60a97ed2f9693ef432da9eff83",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/private_predictions/preop_compact_champion_Voting/COMPLETE.json": "ca270229f6cb7c32b3a3405e9fcccbdfb82f8af6c8e405f51e382ff8c99dd47b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/private_predictions/preop_compact_champion_Voting/PREDICTIONS.csv": "a9e2be91d7d34830545ee8711b96a8db47c48619421096f7847a8fc4198b664a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/compact/champion/Voting/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "5a040879cc8fb4ab6fd1c7f63d4a53f1d583aef57f52f06eb232541aaae72a24",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/private_predictions/preop_full_champion_Voting/COMPLETE.json": "2cdb5d1a24d7218e50384502bed0033edce8e6ec0f4c0e1b78377c84257d63aa",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/private_predictions/preop_full_champion_Voting/PREDICTIONS.csv": "dde7387e7e7eb9969fa123529f4069ad2a84286b542fb4d6b636aec76f266ffb",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/preop/preop/full/champion/Voting/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "89596e5fd9b56a56a0e2e1a8a496b33f4ed709e7e425b657980c599de9290e30",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/temporal/preop/0.25/capacity/selective/POLICY_LOCK.json": "fdb0fda2df9409c1a81e9055bfa1c1bea6c4434a2d46234f6221e00079497e0c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/policy_0.25_capacity_selective_PRIVATE.csv": "cb401bd653625fbbede5ae75f42bd583df0b891435fad6c3bcd18a681ff8eaa5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_preop/policy_0.25_individual_selective_PRIVATE.csv": "48c1333024d0606de14ffbcab35839b1ea7dd072f1b4ac5cda7c3e2236263427",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/temporal/preop/0.25/individual/selective/POLICY_LOCK.json": "c8eb51a7ab3ed71d2e64b6bf65d4833b4f7160490ba86764242592d9f93b957a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/private_predictions/endop_full_champion_Voting/COMPLETE.json": "4d1fd065c5cbc3e105ae1a0aff105e441f943b350b14f15187767bdae6e6e214",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/private_predictions/endop_full_champion_Voting/PREDICTIONS.csv": "97209558c8b7cab1878810b68a405b586b8d5893b80683987e4fdc0d5cafda82",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/endop/full/champion/Voting/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "27e8c88b727e322aab3c43ab42731763ccd637fbe220fbf594530b106c66bd7a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/private_predictions/preop_full_champion_SGBT/COMPLETE.json": "6f7645f240facbd81453ad6c9fbef4751c6f7de35dff3c5e6b8ee2e7acc8a6ad",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/private_predictions/preop_full_champion_SGBT/PREDICTIONS.csv": "60ba97582c28852f9c3745efc3ac67fbbc2fa44a86e6d1210054495823b050bc",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/model_lock_20261022_v1/locked_routes/temporal/paired/preop/full/champion/SGBT/PRIVATE_TRAINING_THRESHOLD_SCORES.csv": "3a54f50c1b5b97e14313463e8e863bddc0afc7dc34a5e964ff0e8580d9dad73e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/temporal/paired/0.25/capacity/selective/POLICY_LOCK.json": "992f0646099de747e01746bb04d245d77a81aea5841b4d75daa987969f95d1a6",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/policy_0.25_capacity_selective_PRIVATE.csv": "7d0b9d904d02457c1370487ac5b1bd81a10a27795db02905d899f7b578da997a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/formal_evaluation_20261023_v1/temporal_paired/policy_0.25_individual_selective_PRIVATE.csv": "9f32fe2ffd1ebaad58b30fc1a6bfba75a81afec1fc672c7945105b40cee6d93f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/selective_policy_lock_20261023_v1/locked_policies/temporal/paired/0.25/individual/selective/POLICY_LOCK.json": "24c798f7337de9bc844fb3ac5ecc43acd894f2e98390f5bde3e668e41c386c6b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/code/analyze_patient_policies.py": "8a61cbb040795bebaddd53ca1af5fa8960a02805809d043e9a11d5cd2f8503b8",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/mimic_calendar_v2/INPUT_QUALIFICATION.json": "2370e431158423e1270073b0dcb87228d56be872230641b4c78bacac9a975f48",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/mimic_calendar_v2/PRIVATE_COMMON6_FEATURES.csv": "a8b0236f4eab4439d1cc0a75c2287b6234145ff261bcdaa24bd7e7c58782a9ba",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/mimic_calendar_v2/PRIVATE_METADATA.csv": "6ed79a968f267364f7c3fa50d1b2c6668baf5662e4b85faf96f9164df99a7523",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/mimic_calendar_v2/PRIVATE_SELECTED_LAB_EVENTS.csv": "0071cfa6086c9d876797fae095c23d350beee871c5bb920e719b4d24d47270ce",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/raw/inter3.xlsx": "cfa4eb87a6a1d8612762521d1f60d3c79dc9ed2d55265aa81fda7b462461dc3b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/corrected_support_sources/CONFIRMED_ADDITIONAL_DATE_RULES.json": "8e2ac313cfa68327b885fe09106b52703fa31d514561e8bec96c4205a5128955",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/public_eligibility_refinement_20261022_v1/PRIVATE_FIRST_OPERATION_PROFILE.csv": "a97b3ee671592edd43888816a0798e002e86fb8bd205b29e7a1e4906ee01a3da",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/public_eligibility_refinement_20261022_v1/PRIVATE_COMMON6_METADATA.csv": "68370cd72f5fdb6c010ba16692d6cebf83c7dbb1f7da992aa75b423d9726305b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/benchmark_and_leadtime_20261024_v1/PRIVATE_LEADTIME_JOIN.csv": "becf55a9da8ce444a3eb09b51bcb698ce8b24df8e0b97fc7e1bf081b07de39e7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/common6_public_evaluation_20261024_v1/geography/PRIVATE_PREDICTIONS.csv": "f51c09a72e9a214416f3def698bd3a5f0bd633a14ece6cc5f334b3469651739d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/common6_public_evaluation_20261024_v1/temporal/PRIVATE_PREDICTIONS.csv": "bf3cf81c0c62340e2545e29bc0e03cae172c8b70ba726f0991462236109ab019",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/code/analyze_observation_outcomes.py": "ef9b962d6896569fd6859477570ac4354db26aa83716ed539a5f1145c7d29ec5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/ANALYSIS_PROTOCOL_LOCK.json": "1afa3e481704e2ea993b2ea4bd44ba13866c13843e4218e2895a624f583edb10",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/method_stats_revision_20261106_v1/resource_analysis_v2/resource_analysis_v2.csv": "a48f1393948e9ffd3cb4c6dcdf6eb3de2a0b20f057996e4d15073a5c513fcf94",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_preop_BOOTSTRAP_WEIGHTS_PRIVATE.npz": "dfe76bf24961f76062adee3aa80bf89c86a0e8d8659a9e0431776a9253b13a30",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_preop_PREDICTION_CACHE_PRIVATE.npz": "2d94a77ff7bdcfb6f31669fdeda3abb35ba7497d4e650b21cbaae5a7066e457b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_9v27_champ__calibrated_NEW_FUNCTION_SAMPLES_PRIVATE.npz": "cce8bf9510749df35234b5d109ecd1472bee140aa06f4f5097acbdab3f365691",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_9v27_champ__calibrated_GRID.csv": "6d5fabebea4d319896c2d66a872c5f47d0c5c277c1edc3c65dfba9d58b535e6c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_preop_BOOTSTRAP_WEIGHTS_PRIVATE.npz": "b4bb9b2c2af6cd62356070ccd0f7eda239a27c111432cc836be6447124ab9c60",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_preop_PREDICTION_CACHE_PRIVATE.npz": "7d329cfe5529b8c720fff2f42533d39ec1f7d8aa536542545c2e62bf871b6089",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_9v27_champ__calibrated_NEW_FUNCTION_SAMPLES_PRIVATE.npz": "d83b9267097ec922c24a96c0dd376cd058ca30c1afc8d060ab052d56ef415fc6",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_9v27_champ__calibrated_GRID.csv": "61141b240c0769335e0c2d7c398ba190725f5e9299f4335815c9126b6bad6ab9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_paired_BOOTSTRAP_WEIGHTS_PRIVATE.npz": "4e0b79e4e6c33537ddcc09ae4ed2a6c08736816b18e2b69234d2706ed66d191b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_paired_PREDICTION_CACHE_PRIVATE.npz": "fd1e10ccfb017d3e14f1d7857432ebd4a8055d1209a96d557bed38a0166d7a2b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_27v38_champ__calibrated_NEW_FUNCTION_SAMPLES_PRIVATE.npz": "f37c9cf947caf47e66543ffd6da78064bb5ce83db986d3b69e72d8069f5764d7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/geography_27v38_champ__calibrated_GRID.csv": "aaeab440bc5a03d27ab1c9ee12d4c0884b348836a5c39ee7e069bc1a2248ae31",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_paired_BOOTSTRAP_WEIGHTS_PRIVATE.npz": "b2d04c5ad3f6862c1a5f72f55d86d42b970fb11062527604568836e11a6319e2",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_paired_PREDICTION_CACHE_PRIVATE.npz": "50231719c983580d3565dc0ceb03c4e0ce97f442e1d2732c26c3214c867ffaac",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_27v38_champ__calibrated_NEW_FUNCTION_SAMPLES_PRIVATE.npz": "90caf2bd611110ad21cbf34b96d3a2b1b7d7d37a06116bcbe207a436e0364e4e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/resource_comparison/temporal_27v38_champ__calibrated_GRID.csv": "b04fc19710345e9a54d10a31cd0f4c6e53459ba5224678caf65267ca64442085",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/novelty_strengthening_20261101_v1/mimic_calendar_v2/BOOTSTRAP_INPUT_PRIVATE.npz": "dc38fd2cc5f5f96884f537804720e88675555d5212cc6a5bd84f7e11f04340ab",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/method_stats_revision_20261106_v1/mimic_analysis/SOURCE_CONSTANTS.csv": "fc41459ea17fbfa9ed5fdf83db8c9e8c44b7129532504983c5ae99af7d4b6a33",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/method_stats_revision_20261106_v1/mimic_analysis/NULL_BRIER_BSS.csv": "6de5b779e20cbefaea8b5234598c1a559785582d0bbf000075d4411f36c6f644",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/method_stats_revision_20261106_v1/mimic_analysis/PERFORMANCE.csv": "44a74cf95d91f6c4cc244b2862ff131a671bcc4c793b21e36812632c6a0f9c8f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_calibration_20261020_v1/calibrated_internal/PRIVATE_INNER_SELECTED_CALIBRATED_PREDICTIONS.csv": "1ab64003733d168acded81233c0378376227f2d3d3e90c7698578394f88ecd8b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/conditional_stability_20261024_v1/references/geography_preop_preop_compact/predictions.npz": "18d023fa43df2410c58af4969a72054f3022e3a2daf24006552d4d46a36e6d3c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_0/COMPLETE.json": "e7f3685448abcb56893a715a87825a69a11b6850332662bdf7ffe22547c42963",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_0/LR_calibrated_outer.csv": "ffa11dde287f17ae85afd9ced57533817857d864bb01034dbf60a267d49155fa",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_1/COMPLETE.json": "36d1ddba159201df2a0e46517b200ff302f48fa61d9f17142e38141d74aa6514",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_1/LR_calibrated_outer.csv": "29116eab1b831a4c4dc10c5c5137ccb6e1b5a1c8dc7ca5fcb175dae085685f3e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_2/COMPLETE.json": "accc4e321af397ac0bb750402ff92fa9b36f0724a12da8a43ffbfc60495a9fab",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_2/LR_calibrated_outer.csv": "615ccdc6266baaadc9894a28ca7101923050addee70bf9e833f07393ea79b0de",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_3/COMPLETE.json": "abcf3da3142edb2d5abf0032d3476d90bad6abe4fa3f6a4b48158145ad67c5fb",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_3/LR_calibrated_outer.csv": "4fd7ac3358437e5c28fc5f2f126b79a09580608fd30ae13b98ce0a9abe5f14f6",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_4/COMPLETE.json": "fa93956e52b97414d6326c016bbc7e596eab7ed8d24b940f3291ecbc0c403f54",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/compact/outer_4/LR_calibrated_outer.csv": "1284cc5bfc48c3f9c1e1b757ea040e2dc70c6dfa338320e2bf5215e905ff99a7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/conditional_stability_20261024_v1/references/geography_preop_preop_full/predictions.npz": "2fd88784a6f72277285cca88eb39d47a959b5381abb2ac068e6281e5e03daa8a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_0/COMPLETE.json": "b47e03c02dcef1ded7e69fef9dde16ce5d7c36526d24c42ffbb6870682f8ac13",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_0/LR_calibrated_outer.csv": "dd4bccf1d77f97e0c4f32f153830e7d20751431e8379620a2f04ac29aa9ce9ad",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_1/COMPLETE.json": "f21e9310494afce190a36f26e19e8c8b9d06f687c6f7410a6f775d0f95bb206d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_1/LR_calibrated_outer.csv": "3675d2563d795eac10785bc29b5732a1477934a98578915dff4976c1c08112db",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_2/COMPLETE.json": "fc9076578ef0485695dde82056cb675cd17960a548eec526389943177bc5725e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_2/LR_calibrated_outer.csv": "febd7a61602272bf8f1bde3abda895cb322b208f15e6f6ed1ac8e78a8e544548",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_3/COMPLETE.json": "d6079bee03d1493ee3ed4804ccd04398359fe60e8fa24c62c2ce37905c64f864",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_3/LR_calibrated_outer.csv": "8127bb3450f69a4b291037497677ed6257693cc235ea26e3aada232488e93533",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_4/COMPLETE.json": "894733405b574bb58c52ba4cb0395c9afdfa5bbbf530e6c5f08d12a1a0b7e998",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/full_data_20261025_postslot/outputs/ensemble_continuation_20261018_v1/ensemble_results/geography/preop/preop/full/outer_4/LR_calibrated_outer.csv": "e66244ed6f7493070d48dac43f54c2008a3f0088951b5d29057af49a1b177690"
+  },
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "a11e9a5044d88a2b9886f310ee02450c73f5f6187667b023fba93ea65a699e9d",
+      "bytes": 662,
+      "bundle_included": true
+    },
+    {
+      "path": "REQUEST.json",
+      "sha256": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+      "bytes": 1667,
+      "bundle_included": true
+    },
+    {
+      "path": "PROTOCOL_LOCK.json",
+      "sha256": "5317bfe92b528e6aa3eb536fa41654178bc09d62f445555165a163deb66e6db3",
+      "bytes": 7046,
+      "bundle_included": true
+    },
+    {
+      "path": "QUESTION_EVIDENCE_ANALYSIS_MATRIX.csv",
+      "sha256": "5e1f5cb96971b87868d0498f8f718d5e617a13616ce56d9143cb704fa19398e4",
+      "bytes": 2584,
+      "bundle_included": true
+    },
+    {
+      "path": "SCIENCE_CONCLUSION_MATRIX.csv",
+      "sha256": "9b06f2465dd04eed66d44977b9221b7a97b29e7ec133882cfc6a6384a527e472",
+      "bytes": 9210,
+      "bundle_included": true
+    },
+    {
+      "path": "WORKBUDDY_ANALYSIS_DISPOSITIONS.csv",
+      "sha256": "8e4e14f6f71c5d507d25aefdf08d69144fea52f84d48e654872cf03446c5b9ef",
+      "bytes": 3382,
+      "bundle_included": true
+    },
+    {
+      "path": "SCIENTIFIC_REVIEW.json",
+      "sha256": "3a2c0d73a4e7752e21ffd27d9540159e2fe223f2e05aaed5a19a46876be8621a",
+      "bytes": 2688,
+      "bundle_included": true
+    },
+    {
+      "path": "ANALYSIS_RESULTS_AND_REVIEW_ZH.md",
+      "sha256": "70ba180d0b7d411eb77281e287e69acf0363f50a95efab341ab6c8b3c0ae3ff6",
+      "bytes": 4284,
+      "bundle_included": true
+    },
+    {
+      "path": "eMETHODS_FOR_WRITING_EN.md",
+      "sha256": "a37fb32e366e3070fa0758a6796b60da48008d42b9947e7eb936c602acec890b",
+      "bytes": 3867,
+      "bundle_included": true
+    },
+    {
+      "path": "eRESULTS_FOR_WRITING_EN.md",
+      "sha256": "2200ea3e2795b3839bfa786cd49c98af4b187f61e9a503c989e782fb781f3f86",
+      "bytes": 3487,
+      "bundle_included": true
+    },
+    {
+      "path": "FIGURE_LEGENDS_FOR_WRITING.md",
+      "sha256": "31f825d4aec71422bd8a88d16e4c2af8dc32a8adcd50d8b0d871c4e3423620fa",
+      "bytes": 2134,
+      "bundle_included": true
+    },
+    {
+      "path": "TABLE_INDEX.csv",
+      "sha256": "155543b55cffdfca6e544e70597e777a1ec98451f023bacaf94fa78e48842b67",
+      "bytes": 2442,
+      "bundle_included": true
+    },
+    {
+      "path": "README_ZH.md",
+      "sha256": "964cc8b2ca340f18c2a285b2c72911dc705bf5b4ffc23f12db0977047e10f52a",
+      "bytes": 1852,
+      "bundle_included": true
+    },
+    {
+      "path": "MANUSCRIPT_HANDOFF_ZH.md",
+      "sha256": "d4ec0b7881c69d1b1f969f494543d85d57bb81f8daa3a98bfec37a9b4553e0d7",
+      "bytes": 1780,
+      "bundle_included": true
+    },
+    {
+      "path": "docs/current-handoff.md",
+      "sha256": "2386d3900b2749dc895a7c9684fed7b7f92307aba8bf39192769697855e1465a",
+      "bytes": 1167,
+      "bundle_included": true
+    },
+    {
+      "path": "code/analyze_observation_outcomes.py",
+      "sha256": "ef9b962d6896569fd6859477570ac4354db26aa83716ed539a5f1145c7d29ec5",
+      "bytes": 20943,
+      "bundle_included": true
+    },
+    {
+      "path": "code/analyze_patient_policies.py",
+      "sha256": "8a61cbb040795bebaddd53ca1af5fa8960a02805809d043e9a11d5cd2f8503b8",
+      "bytes": 21028,
+      "bundle_included": true
+    },
+    {
+      "path": "code/audit_reused_results.py",
+      "sha256": "3bcf0036ac6bb32b37f1c9a3094663510cc3c8a48cd4903cc84504bef8c8663c",
+      "bytes": 9636,
+      "bundle_included": true
+    },
+    {
+      "path": "code/build_handoff.py",
+      "sha256": "b5759775dd93bb93130e813073a08b56df85e108fcc4ba6999c0a658a39421ce",
+      "bytes": 34615,
+      "bundle_included": true
+    },
+    {
+      "path": "code/coverage_and_window_sensitivity.py",
+      "sha256": "6a5d8c69f1862e5887f556c5f9cec7b52515fe322f6b4c987ec560c452040c45",
+      "bytes": 4047,
+      "bundle_included": true
+    },
+    {
+      "path": "code/extra_verify.py",
+      "sha256": "4aa4ab89e8c8da3e22a42ac23f9ae1601f02f73ef6635e4cf31a57f0ee204bd7",
+      "bytes": 5638,
+      "bundle_included": true
+    },
+    {
+      "path": "code/figure_reference.py",
+      "sha256": "561ea5e7a91ef7701d80c603d71195274e58e34baccc319eeb92da6d0813b26a",
+      "bytes": 2478,
+      "bundle_included": true
+    },
+    {
+      "path": "code/finalize_delivery.py",
+      "sha256": "cee36e1781faa400ecff78f69055b487cdd6f1aff6de6dbbae6da980355a19cc",
+      "bytes": 11997,
+      "bundle_included": true
+    },
+    {
+      "path": "code/independent_verify.py",
+      "sha256": "e404693c6cde8eb85a42bef62475ede02634cb88fe9f4ab509fa6e4c15bab396",
+      "bytes": 10251,
+      "bundle_included": true
+    },
+    {
+      "path": "code/plot_supplement.py",
+      "sha256": "26f6a1bdf803bb1150b23271623e10a9b0bf0a285d5589355687de99e3a6e079",
+      "bytes": 8008,
+      "bundle_included": true
+    },
+    {
+      "path": "code/qualify_pdfs.py",
+      "sha256": "f10f07b4fefcca534ecbac9b20c7e7467cdf36315f07fb0001a86bc9dc8312d9",
+      "bytes": 1804,
+      "bundle_included": true
+    },
+    {
+      "path": "code/review_repairs.py",
+      "sha256": "81513b6d7f0ea7d174bd22f9656183d0bfb6626fb1c4049f866f4f273fe6a925",
+      "bytes": 5878,
+      "bundle_included": true
+    },
+    {
+      "path": "results/CAPTURE_TRANSITIONS.csv",
+      "sha256": "401854bc684afe3cc389efa7261e15368b21c4061d65143786e4329a71e0c5b8",
+      "bytes": 1483,
+      "bundle_included": true
+    },
+    {
+      "path": "results/CENTER_METRICS.csv",
+      "sha256": "45e84f0e73b579c25ee5030c83d3b143df7f84771e60de5f52df1a6bbf3c6935",
+      "bytes": 37917,
+      "bundle_included": true
+    },
+    {
+      "path": "results/CENTER_SOURCE_COVERAGE.csv",
+      "sha256": "668ce7b69a24fbdde431cc2efa0b826c61b22b64b2d78f784235c96f2f9c3009",
+      "bytes": 967,
+      "bundle_included": true
+    },
+    {
+      "path": "results/COHORT_OPERATION_PATIENT_COUNTS.csv",
+      "sha256": "6f8094d35eb6b497a9adbd3903a63c63088a2af3e0eada781c9d475175370fa7",
+      "bytes": 193,
+      "bundle_included": true
+    },
+    {
+      "path": "results/DAILY_POTENTIAL_DEMAND.csv",
+      "sha256": "d87525e222d54eaff08696de6e20f62a738f75c9d4087c4b5a3c017e561d0b3b",
+      "bytes": 1486284,
+      "bundle_included": false
+    },
+    {
+      "path": "results/DAILY_SUMMARY.csv",
+      "sha256": "dc93cb91f20d8436a89bd53df8b8b2ca19293bba3214667d4e992d345e413c6e",
+      "bytes": 37998,
+      "bundle_included": true
+    },
+    {
+      "path": "results/DAILY_TIME_SCENARIOS.csv",
+      "sha256": "bdd006f94bcc59d7ec4a06e22df3d293c9c4f438a48cc0ce9ce029b59174fab5",
+      "bytes": 78285,
+      "bundle_included": true
+    },
+    {
+      "path": "results/DEVELOPMENT_OPTIMISM_AUDIT.csv",
+      "sha256": "f6083c65f540e8f46058a4f5b1d29b35e9e1681ebe572bcd441058519052bada",
+      "bytes": 526,
+      "bundle_included": true
+    },
+    {
+      "path": "results/FIELD_COMPLETION.csv",
+      "sha256": "f0f813fec7ce2ce98a7f7247eadf70f8ec37354becf7234cb0e05421881a39cd",
+      "bytes": 30814,
+      "bundle_included": true
+    },
+    {
+      "path": "results/FIXED_TRIGGER_COMPARISONS.csv",
+      "sha256": "22a0ff86939e98e163e1c095ed4dd0fc3fd4bacf7340622a0a7bf67e8d5177c2",
+      "bytes": 2459,
+      "bundle_included": true
+    },
+    {
+      "path": "results/HARD_OUTCOME_ASSOCIATIONS.csv",
+      "sha256": "9fd03e28781d4ecb69e4ea1ca05be4ad23a1bbb49f072d5c160157aafd4b8087",
+      "bytes": 4571,
+      "bundle_included": true
+    },
+    {
+      "path": "results/HARD_OUTCOME_DISCRIMINATION.csv",
+      "sha256": "ee23a0242bbb1cc4edcc20426876a9732005ff9fa4f1acbd5a7572b807dd694a",
+      "bytes": 6156,
+      "bundle_included": true
+    },
+    {
+      "path": "results/LOS_ASSOCIATIONS.csv",
+      "sha256": "aca9a16bc83ea007d4f714624e4b45a4b386e4d26ef198955bcb13c800bd41b5",
+      "bytes": 2161,
+      "bundle_included": true
+    },
+    {
+      "path": "results/LOW_RISK_EVENTS.csv",
+      "sha256": "58bed4f0608653df47a2a9240816d85e1ea71976564df6aef8c681bbf61c08e5",
+      "bytes": 3492,
+      "bundle_included": true
+    },
+    {
+      "path": "results/MIMIC_BRIER_REVERIFIED.csv",
+      "sha256": "2e186e0b6c786b80585ab244f2d32e535f58298c170a958df9169887650b3a5d",
+      "bytes": 5746,
+      "bundle_included": true
+    },
+    {
+      "path": "results/MIMIC_DAILY_OBSERVATION.csv",
+      "sha256": "bb3c5c48bd09d98d2d4107d92202c9ad06e122e66c78547b01422519c0d3607f",
+      "bytes": 189,
+      "bundle_included": true
+    },
+    {
+      "path": "results/MIMIC_DELETION_SENSITIVITY.csv",
+      "sha256": "aea26a2a372366a8bcbda2ad86fd6fbe822ff1445ebf1c5ba430ae08007e70ab",
+      "bytes": 5025,
+      "bundle_included": true
+    },
+    {
+      "path": "results/MIMIC_LOW_RISK_EVENTS.csv",
+      "sha256": "25115b2169155394cdb9c478305fd02631de27aaaecb24d061d4b7e211e7bb89",
+      "bytes": 482,
+      "bundle_included": true
+    },
+    {
+      "path": "results/MIMIC_OBSERVATION_INTENSITY.csv",
+      "sha256": "54717cba17c0387836ae9a3351802ba1ea446aaea2f1e64803fb93ddff9ddb06",
+      "bytes": 1363,
+      "bundle_included": true
+    },
+    {
+      "path": "results/ORIGINAL_GRID_BANDS_REVERIFIED.csv",
+      "sha256": "264851f9a8169617b4a134d7a9928a274e0f6fd1303e76db358b7018d5473aab",
+      "bytes": 2805,
+      "bundle_included": true
+    },
+    {
+      "path": "results/ORIGINAL_WINDOW_DELETION.csv",
+      "sha256": "d9ac35ec9c6beda7cb0013eeb3eb4b3f10a6ce160d61a37f2d640c51bbd13a5d",
+      "bytes": 3229,
+      "bundle_included": true
+    },
+    {
+      "path": "results/POLICY_EQUAL_BUDGET.csv",
+      "sha256": "8d328182df24e091069f5e15b3e1f865466cbe5d057ff515fd350904363f346c",
+      "bytes": 26965,
+      "bundle_included": true
+    },
+    {
+      "path": "results/POLICY_PAIRED_DIFFERENCES.csv",
+      "sha256": "e0af34fac202cb5266dd1d4ea836f8bd140729716929540822c2b53ace8c5594",
+      "bytes": 12030,
+      "bundle_included": true
+    },
+    {
+      "path": "results/PREDICTION_SOURCE_AUDIT.csv",
+      "sha256": "6522f3a0253a7e37291be1dd6ea49d93a0f817db0b28f14d7d304e1b3d4ca50c",
+      "bytes": 573,
+      "bundle_included": true
+    },
+    {
+      "path": "results/RANDOMIZATION_200.csv",
+      "sha256": "ff4bddb4a0d5e7343c82cc22222605ab529d43400ea183c5181f5fdf8d968b8a",
+      "bytes": 28851,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS2_monitoring_dependence.pdf",
+      "sha256": "b2b35215f39dfc2a06236e3fcc03561791d4ae0c6bf7eca2c47b52bcc4405e33",
+      "bytes": 25993,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS3_daily_demand.png",
+      "sha256": "cd3a3058764dd0aec9fb882b47cd127b1452c4bd17c52666b6108ced4bb7f534",
+      "bytes": 170524,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS2_monitoring_dependence.png",
+      "sha256": "ea189dc8d064c59a35cb3ae54e0daa12f5a6d6d49f5579a70cfeab53d555853a",
+      "bytes": 149605,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS1_same_budget_policy.pdf",
+      "sha256": "5d809377db140bb1d6794fd5df15af8d62cb3deb0e5cc0ec7b384ca1b8b946ee",
+      "bytes": 23422,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS1_same_budget_policy.png",
+      "sha256": "8f991b7813e2dcfe06b28fff752d3ff21d9c2025c6a6637e231dd38339796f57",
+      "bytes": 217313,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/FIGURE_SOURCE_MANIFEST.json",
+      "sha256": "f06752e5e88dd39544faac0c76529c00f856971e3512d949eaa6b2b0ba246918",
+      "bytes": 2534,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/CS3_daily_demand.pdf",
+      "sha256": "6f12ab2a0ae4652e8714d4c605b40bdb64807b054ef366f8f69aa8a80570022b",
+      "bytes": 23905,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS3_daily_demand_B.pdf",
+      "sha256": "2b358f584c368db1a0fe6cd4e771ba2147d951aeebeec452fef7290b8fcd33b3",
+      "bytes": 21823,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_D.pdf",
+      "sha256": "ae0dd18929775bb2eeca83ddeb806f381a4c672914e47006cc0906282ef6f7fd",
+      "bytes": 20202,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_B.pdf",
+      "sha256": "bb786d3cc8ab5d95219f305a53d0e58a33666e222d21df62322d73cbb53f6ae6",
+      "bytes": 19844,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS3_daily_demand_A.pdf",
+      "sha256": "f84b358fe4863e7d92e6db0a19686711828e20845b5f0027fb102e31748574b4",
+      "bytes": 20549,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS2_monitoring_dependence_B.png",
+      "sha256": "a4cae79cb02ce37d44616fdfb8c4265311f83ab89cd0e7de17b80107a9d1bfc5",
+      "bytes": 58076,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_C.pdf",
+      "sha256": "203753748d15073299a26a18c49b6760c2786123e10a984d5883d73d2cadd01f",
+      "bytes": 20202,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS2_monitoring_dependence_A.pdf",
+      "sha256": "0c680be1eeefcd86976c24cce68b7766b1202ecb72ef10bd99ee76ee269e2936",
+      "bytes": 17397,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_A.pdf",
+      "sha256": "b645a46d8458f515b88991913c5b0923f450c2fd935c1340aa2068e60d260e32",
+      "bytes": 19876,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_A.png",
+      "sha256": "0a53c0be93104b1a0e1fa06ebff02ddf0b2e8fc22a3ae705149c48fb157eac1e",
+      "bytes": 47016,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_B.png",
+      "sha256": "6e897c506a149a55a888c2590faa88af03bb9640100fac352a1889fd34b08ad0",
+      "bytes": 46426,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_C.png",
+      "sha256": "ba75355ae8ce2c9ee2f43a60e7f8b7a06b7516411c304f5505e81e98cce7c2b0",
+      "bytes": 47331,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS2_monitoring_dependence_A.png",
+      "sha256": "b089900c779fb5f9733173f287778bf9a78c51b3d01a850f03e77f866d39be08",
+      "bytes": 61159,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS1_same_budget_policy_D.png",
+      "sha256": "cb9a46f54383cde1a54eb6a6ad5dbe103a8407a132049e22b8e1a391f87b98e5",
+      "bytes": 46675,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS3_daily_demand_B.png",
+      "sha256": "7d022b59566d634ce41d20d7f5399b43196313b34d757b157591aef97cf94041",
+      "bytes": 81764,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS3_daily_demand_A.png",
+      "sha256": "bec8ade6b89bf73f96e2276cc783a84225fcef95158ba94ab210b4978e8306e1",
+      "bytes": 57380,
+      "bundle_included": true
+    },
+    {
+      "path": "figures/subpanels/CS2_monitoring_dependence_B.pdf",
+      "sha256": "9e1c8f87c6d26586790bbfb4f9b7e025f13c8f1b2d930f2d5e7524bf8ec82fe0",
+      "bytes": 21876,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/INDEPENDENT_NUMERIC_VERIFICATION.json",
+      "sha256": "10b25998d7d22c9fbf2f8b1471dc5f9697a94fa354d9b5e10de6602c54566896",
+      "bytes": 1604,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/EXTRA_INDEPENDENT_VERIFICATION.json",
+      "sha256": "9d423162ca5da91a53068c76f17e617f91ea9d94b75b52f04ca3a58bc01cbe50",
+      "bytes": 455,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/REUSED_RESULT_VERIFICATION.json",
+      "sha256": "9db3082efe1cd4246f0f4b5b8b4e62ad47baf11566c407ec7bc8b107d525204c",
+      "bytes": 229,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/FIGURE_PDF_QUALIFICATION.json",
+      "sha256": "a7b09c7dbeec3b37a5436a4b47572f9c6ef0b1047101d1eeb14cff31891723f9",
+      "bytes": 6176,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/OWNED_PROCESS_CLOSURE.json",
+      "sha256": "ad15e11fe65d78f708f3210fde65db66d93e427d370e4206853ad144371517d2",
+      "bytes": 1996,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/PUBLIC_EVIDENCE_VERIFICATION.json",
+      "sha256": "9f51d42dee3d8fba789a32736fc0f6d31201eee11404be2dd8404f07d7809e14",
+      "bytes": 1636,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/API_DRAFT_METHOD_REVIEW.json",
+      "sha256": "d60b7a335117628c4c8d11f7fed13a9d581ed4e048767064b5557a35ed823a83",
+      "bytes": 595,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/LOW_RISK_INTERVAL_UNIT_REVIEW.json",
+      "sha256": "074a01744b9c391dcd4e359869c7a6258edc347697a765eab466770e1a42f7dd",
+      "bytes": 1205,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/MIMIC_KDIGO_CLOCK_AUDIT.json",
+      "sha256": "308b70fccc4d4fc855fe8618bea46f59c7e2848bc33850eca0ed66f99e31bf6a",
+      "bytes": 682,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/CAUSAL_IDENTIFIABILITY.json",
+      "sha256": "0497e19e26e2413b940cf9751405dbea4c7ee59ccdd21cd0016dc73e049752a7",
+      "bytes": 452,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/INSPIRE_RECORD_INTERVAL_RECHECK.json",
+      "sha256": "56d2733a041658df28ba45632bf2148b76dbec96537ff9d5b04a5a0e39abc8e2",
+      "bytes": 256,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/ORIGINAL_COHORT_CLOCK_AUDIT.csv",
+      "sha256": "918ea630402883e8b9841d96edbad05d5a537358534f90f6ccead14318cff652",
+      "bytes": 386,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/HARD_OUTCOME_SOURCE_AUDIT.csv",
+      "sha256": "2992e20d29789f710c4b0e81ca93235fd10f8cebee74b5573c9ea942532de0fb",
+      "bytes": 1431,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/SCIENTIFIC_REVIEW_REMEDIATIONS.json",
+      "sha256": "c14e55ed22f5369e8b300e4543793a172677e9047a39acaf3c4d7f6bf1258433",
+      "bytes": 1367,
+      "bundle_included": true
+    },
+    {
+      "path": "audit/ZERO_EVENT_CENTER_PRECISION_REPAIR.json",
+      "sha256": "5f5ae87eceeea2004a59b939f7327a50ad8f4a1ec8bb7cbcc9616ffab7fc1b17",
+      "bytes": 240,
+      "bundle_included": true
+    }
+  ]
+}

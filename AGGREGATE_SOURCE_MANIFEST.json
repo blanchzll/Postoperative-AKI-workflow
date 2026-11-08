@@ -1,0 +1,17 @@
+[
+  {
+    "path": "aggregate_data/tables/Table_S13_CLINICAL_COUNTS_AT_CAPACITY.csv",
+    "sha256": "de741093cb207c60ca4417c5083ae088e287a8506af8cd894c17738ba2be7323",
+    "scope": "Previously accepted public aggregate table; no patient-level rows"
+  },
+  {
+    "path": "aggregate_data/tables/Table_S13_MARGIN_SENSITIVITY.csv",
+    "sha256": "226d398c9d08439d74b0f797cad77a2f75e53c36bba06fcf157b79a5715137e7",
+    "scope": "Previously accepted public aggregate table; no patient-level rows"
+  },
+  {
+    "path": "aggregate_data/tables/Table_S13_CROSS_CONTEXT_SENSITIVITY.csv",
+    "sha256": "b8f4d05d2951e0abe0cd4e889df172a98f626d623ae6779f8db205b89a778df1",
+    "scope": "Previously accepted public aggregate table; no patient-level rows"
+  }
+]

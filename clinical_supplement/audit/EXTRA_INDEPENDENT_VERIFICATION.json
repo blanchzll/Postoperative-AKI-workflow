@@ -1,0 +1,10 @@
+{
+  "status": "PASS_ALTERNATIVE_SOURCE_MATCHED_IMPLEMENTATIONS",
+  "association_OR_and_cluster_covariance_checks": 42,
+  "LOS_rank_correlation_and_summary_checks": 50,
+  "hard_outcome_rank_point_checks": 60,
+  "Chinese_window_checks": 80,
+  "seconds": 2.5789794921875,
+  "methods": "likelihood-score root solver + hand cluster sandwich; rank correlation; exact fraction window criteria; expanded bootstrap ratios",
+  "not_independent_human_review": true
+}

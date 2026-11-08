@@ -1,0 +1,12 @@
+{
+  "logical_interpreter": "/home/lei/codex-workspaces/bmjopen-2026-125572-final-revision-20260914/envs/document-rebuild-20261011/bin/python",
+  "consumer": "/home/lei/codex-workspaces/bmjopen-2026-125572-final-revision-20260914",
+  "status": "legacy path reused without changes; imports verified",
+  "packages": {
+    "python-docx": "1.2.0",
+    "pypdf": "6.20.0",
+    "reportlab": "5.0.1",
+    "pillow": "12.3.0",
+    "lxml": "6.1.3"
+  }
+}

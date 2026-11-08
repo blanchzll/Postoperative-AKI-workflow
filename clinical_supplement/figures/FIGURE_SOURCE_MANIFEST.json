@@ -1,0 +1,65 @@
+{
+  "new_figures": 3,
+  "independent_subpanels": 8,
+  "panels": [
+    {
+      "figure": "CS1_same_budget_policy",
+      "panel": "A",
+      "pdf": "figures/subpanels/CS1_same_budget_policy_A.pdf",
+      "png": "figures/subpanels/CS1_same_budget_policy_A.png"
+    },
+    {
+      "figure": "CS1_same_budget_policy",
+      "panel": "B",
+      "pdf": "figures/subpanels/CS1_same_budget_policy_B.pdf",
+      "png": "figures/subpanels/CS1_same_budget_policy_B.png"
+    },
+    {
+      "figure": "CS1_same_budget_policy",
+      "panel": "C",
+      "pdf": "figures/subpanels/CS1_same_budget_policy_C.pdf",
+      "png": "figures/subpanels/CS1_same_budget_policy_C.png"
+    },
+    {
+      "figure": "CS1_same_budget_policy",
+      "panel": "D",
+      "pdf": "figures/subpanels/CS1_same_budget_policy_D.pdf",
+      "png": "figures/subpanels/CS1_same_budget_policy_D.png"
+    },
+    {
+      "figure": "CS2_monitoring_dependence",
+      "panel": "A",
+      "pdf": "figures/subpanels/CS2_monitoring_dependence_A.pdf",
+      "png": "figures/subpanels/CS2_monitoring_dependence_A.png"
+    },
+    {
+      "figure": "CS2_monitoring_dependence",
+      "panel": "B",
+      "pdf": "figures/subpanels/CS2_monitoring_dependence_B.pdf",
+      "png": "figures/subpanels/CS2_monitoring_dependence_B.png"
+    },
+    {
+      "figure": "CS3_daily_demand",
+      "panel": "A",
+      "pdf": "figures/subpanels/CS3_daily_demand_A.pdf",
+      "png": "figures/subpanels/CS3_daily_demand_A.png"
+    },
+    {
+      "figure": "CS3_daily_demand",
+      "panel": "B",
+      "pdf": "figures/subpanels/CS3_daily_demand_B.pdf",
+      "png": "figures/subpanels/CS3_daily_demand_B.png"
+    }
+  ],
+  "source_csvs": {
+    "results/POLICY_PAIRED_DIFFERENCES.csv": "e0af34fac202cb5266dd1d4ea836f8bd140729716929540822c2b53ace8c5594",
+    "results/LOW_RISK_EVENTS.csv": "58bed4f0608653df47a2a9240816d85e1ea71976564df6aef8c681bbf61c08e5",
+    "results/MIMIC_DELETION_SENSITIVITY.csv": "aea26a2a372366a8bcbda2ad86fd6fbe822ff1445ebf1c5ba430ae08007e70ab",
+    "results/DAILY_SUMMARY.csv": "dc93cb91f20d8436a89bd53df8b8b2ca19293bba3214667d4e992d345e413c6e"
+  },
+  "code": "26f6a1bdf803bb1150b23271623e10a9b0bf0a285d5589355687de99e3a6e079",
+  "matplotlib": "3.11.2",
+  "original_20_figures_unchanged": true,
+  "SFL_reference": "Read-only forest-family search; no template selected, materialized, or executed; Python figures written from aggregate tables",
+  "inference": "All new policy/monitoring comparisons are posthoc; no intervention effects or actual alert-arrival workflow measured"
+}

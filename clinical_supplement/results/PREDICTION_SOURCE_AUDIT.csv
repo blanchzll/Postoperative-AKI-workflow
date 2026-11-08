@@ -1,0 +1,5 @@
+context,N,events,base_family,upgrade_family,input_counts,dev_n,evaluation_exposure,prediction_alignment,feature_release_clocks_available
+geography_preop,1159,72,LR,LR,9to27,2551,previously exposed,exact labels/groups/rows; same cohort,False
+geography_paired,1158,72,Voting,LR,27to38,1270,previously exposed,exact labels/groups/rows; same cohort,False
+temporal_preop,1683,66,Voting,Voting,9to27,2024,previously exposed,exact labels/groups/rows; same cohort,False
+temporal_paired,1011,36,SGBT,Voting,27to38,1414,previously exposed,exact labels/groups/rows; same cohort,False

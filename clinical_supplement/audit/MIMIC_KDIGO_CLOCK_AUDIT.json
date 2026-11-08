@@ -1,0 +1,16 @@
+{
+  "population": 759,
+  "frozen_calendar_events": 59,
+  "absolute_03_within48h_measured": 121,
+  "relative15_prior7d_measured": 99,
+  "strict_measured_scr_component": 148,
+  "strict_and_calendar": 55,
+  "strict_outside_calendar": 93,
+  "calendar_without_strict": 4,
+  "baseline_more7days_before_procedure_day0": 313,
+  "pre_day0_component_known_prior48h": 12,
+  "post_store_missing_n": 0,
+  "post_negative_store_delay_n": 0,
+  "true_warning_leadtime_identified": false,
+  "reason": "Procedure billing date only, no incision/end clock; fixed6 inputs not9/27/38, release timestamps incomplete for all fields; no urine output validation; windows differ, preserved original labels."
+}

@@ -1,0 +1,5 @@
+context,review_capacity_percent,n,events,full27_model,compact9_model,reviewed_each,full27_captured,compact9_captured,full27_missed,compact9_missed,full27_false_alerts,compact9_false_alerts,full27_PPV,compact9_PPV,full27_sensitivity,compact9_sensitivity,full27_capture_per1000,compact9_capture_per1000
+geography_preop,20,1159,72.0,preop_full_champion_LR,preop_compact_champion_LR,232,34,32,38,40,198,200,0.146551724137931,0.1379310344827586,0.4722222222222222,0.4444444444444444,29.33563416738568,27.610008628127694
+geography_preop,10,1159,72.0,preop_full_champion_LR,preop_compact_champion_LR,116,26,24,46,48,90,92,0.2241379310344827,0.2068965517241379,0.3611111111111111,0.3333333333333333,22.433132010353752,20.707506471095773
+temporal_preop,20,1683,66.0,preop_full_champion_Voting,preop_compact_champion_Voting,337,38,35,28,31,299,302,0.1127596439169139,0.1038575667655786,0.5757575757575758,0.5303030303030303,22.5787284610814,20.7961972667855
+temporal_preop,10,1683,66.0,preop_full_champion_Voting,preop_compact_champion_Voting,169,26,26,40,40,143,143,0.1538461538461538,0.1538461538461538,0.3939393939393939,0.3939393939393939,15.4486036838978,15.4486036838978

@@ -1,0 +1,32 @@
+{
+  "retrieved_Asia_Shanghai": "2026-11-08T13:31:30.129196+08:00",
+  "queries": [
+    "site.kdigo.org 2012 acute kidney injury 0.3 mg/dl 48 hours 1.5 times 7 days urine output guideline pdf",
+    "site.mimic.mit.edu labevents storetime charttime",
+    "site.mimic.mit.edu procedures_icd chartdate",
+    "INSPIRE perioperative database 5 minute laboratory values surgical times death Physionet"
+  ],
+  "sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4089654/",
+      "PMID": "25018916",
+      "DOI": "10.1038/kisup.2012.7",
+      "supports": "SCr absolute48h/relative7day and urine components; individualized monitoring is distinct from a model risk threshold"
+    },
+    {
+      "url": "https://mimic.mit.edu/docs/iv/modules/hosp/procedures_icd.html",
+      "supports": "Billed procedure table chartdate is DATE, not surgical incision/end clock"
+    },
+    {
+      "url": "https://mimic.mit.edu/docs/iv/modules/hosp/labevents.html",
+      "supports": "Separate charttime and storetime laboratory timestamp fields"
+    },
+    {
+      "url": "https://doi.org/10.1038/s41597-024-03517-4",
+      "supports": "INSPIRE source descriptor; operation timing,5-minute records and data protection; owning local files/hashes govern this analysis"
+    }
+  ],
+  "BioMCP_paper_search_tools_exposed_in_this_chat": false,
+  "fallback": "Official KDIGO, MIMIC and original INSPIRE descriptor browsed directly; no claim BioMCP or comprehensive literature search executed",
+  "reward_API": "One explicitly public/synthetic methods checklist;1127tokens; no patient/private/protocol upload; source/method review retained by Codex"
+}

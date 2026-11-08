@@ -1,0 +1,17 @@
+context,population,window_deleted,N,all_frozen_AKI_events,known_relative_SCr_positive_AKI_events,lost_known_relative_confirmation,lost_known_relative_fraction,lost_fraction_lo,lost_fraction_hi,observed_window_values_removed,no_SCr_window_remaining,AKI_events_not_explained_by_available_relative_windows,unknown_events_or_diagnostic_timing,stopping_safe
+geography_preop,all_evaluation,POD1,1159,72,42,15,0.35714285714285715,0.21951219512195122,0.5111111111111111,1130,23,30,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_preop,all_evaluation,POD2_or3,1159,72,42,16,0.38095238095238093,0.22714646464646465,0.5348837209302325,1136,29,30,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_preop,source_defined_base_low_risk,POD1,335,10,5,2,0.4,0.0,1.0,327,9,5,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_preop,source_defined_base_low_risk,POD2_or3,335,10,5,1,0.2,0.0,0.6666666666666666,326,8,5,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_paired,all_evaluation,POD1,1158,72,42,15,0.35714285714285715,0.21428571428571427,0.5128205128205128,1129,23,30,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_paired,all_evaluation,POD2_or3,1158,72,42,16,0.38095238095238093,0.23809523809523808,0.5277908805031446,1135,29,30,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_paired,source_defined_base_low_risk,POD1,9,0,0,0,,,,9,0,0,not inferred; RRT/clinical label retained; window category not48hclock,False
+geography_paired,source_defined_base_low_risk,POD2_or3,9,0,0,0,,,,9,0,0,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_preop,all_evaluation,POD1,1683,66,40,20,0.5,0.35135135135135137,0.6666666666666666,1655,405,26,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_preop,all_evaluation,POD2_or3,1683,66,40,16,0.4,0.24444444444444444,0.55,1278,28,26,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_preop,source_defined_base_low_risk,POD1,739,13,11,5,0.45454545454545453,0.14285714285714285,0.7779761904761894,727,209,2,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_preop,source_defined_base_low_risk,POD2_or3,739,13,11,5,0.45454545454545453,0.125,0.75,530,12,2,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_paired,all_evaluation,POD1,1011,36,18,8,0.4444444444444444,0.21428571428571427,0.6875,998,228,18,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_paired,all_evaluation,POD2_or3,1011,36,18,8,0.4444444444444444,0.2,0.6666666666666666,783,13,18,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_paired,source_defined_base_low_risk,POD1,625,13,8,3,0.375,0.0,0.75,615,163,5,not inferred; RRT/clinical label retained; window category not48hclock,False
+temporal_paired,source_defined_base_low_risk,POD2_or3,625,13,8,4,0.5,0.14285714285714285,0.875,462,10,5,not inferred; RRT/clinical label retained; window category not48hclock,False

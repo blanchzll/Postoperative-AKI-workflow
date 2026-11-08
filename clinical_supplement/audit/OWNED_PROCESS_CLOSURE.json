@@ -1,0 +1,57 @@
+{
+  "at": "2026-11-08T13:33:57.111959+08:00",
+  "owned_units": {
+    "aki-clinical-supplement-patient-20261108-v1": {
+      "MainPID": "0",
+      "Result": "success",
+      "ExecMainStatus": "0",
+      "ActiveState": "inactive"
+    },
+    "aki-clinical-supplement-observation-20261108-v1": {
+      "MainPID": "0",
+      "Result": "exit-code",
+      "ExecMainStatus": "1",
+      "ActiveState": "failed"
+    },
+    "aki-clinical-supplement-observation-20261108-v1-r1": {
+      "MainPID": "0",
+      "Result": "exit-code",
+      "ExecMainStatus": "1",
+      "ActiveState": "failed"
+    },
+    "aki-clinical-supplement-outcomes-20261108-v1-r2": {
+      "MainPID": "0",
+      "Result": "success",
+      "ExecMainStatus": "0",
+      "ActiveState": "inactive"
+    },
+    "aki-clinical-supplement-independent-20261108-v1": {
+      "MainPID": "0",
+      "Result": "exit-code",
+      "ExecMainStatus": "1",
+      "ActiveState": "failed"
+    },
+    "aki-clinical-supplement-independent-20261108-v1-r1": {
+      "MainPID": "0",
+      "Result": "exit-code",
+      "ExecMainStatus": "1",
+      "ActiveState": "failed"
+    },
+    "aki-clinical-supplement-independent-20261108-v1-r2": {
+      "MainPID": "0",
+      "Result": "success",
+      "ExecMainStatus": "0",
+      "ActiveState": "inactive"
+    }
+  },
+  "locks": {
+    "PATIENT_STAGE.lock": "free; check acquired then released",
+    "OBSERVATION_STAGE.lock": "free; check acquired then released",
+    "INDEPENDENT_STAGE.lock": "free; check acquired then released"
+  },
+  "all_owned_stage_MainPID_zero": true,
+  "worker_pool_shutdown_joined": true,
+  "other_jobs_services_and_models_modified": false,
+  "memory_now": "               total        used        free      shared  buff/cache   available\nMem:     67276222464 11220434944  3175469056   104558592 53679276032 56055787520\nSwap:     8589930496  2277793792  6312136704\n",
+  "GPU_now_read_only": "index, memory.free [MiB], memory.total [MiB], utilization.gpu [%]\n0, 21964 MiB, 23040 MiB, 75 %\n"
+}

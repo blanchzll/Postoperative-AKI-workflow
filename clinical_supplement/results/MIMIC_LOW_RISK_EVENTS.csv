@@ -1,0 +1,3 @@
+line,population,inputs,N,events,threshold,threshold_origin,low_risk_n,low_risk_events,low_risk_rate,wilson_lo,wilson_hi,patient_lo,patient_hi,NPV_not_stopping_safety
+geography,MIMIC_current_calendar759,6,759,59,0.036590382041223966,source training_sensitivity80,258,11,0.04263565891472868,0.0239712299672586,0.07472001219538932,0.019918342503003856,0.06779980812280138,True
+temporal,MIMIC_current_calendar759,6,759,59,0.05654012207638371,source training_sensitivity80,0,0,,,,,,True

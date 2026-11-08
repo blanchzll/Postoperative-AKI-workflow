@@ -1,0 +1,21 @@
+{
+  "task_id": "AKI_CLINICAL_SUPPLEMENT_20261108_V1",
+  "source_thread": "01a192de-cc29-7d52-9dfa-42603428fc4e",
+  "analysis_title": "预测模型新补充",
+  "objective": "接续WorkBuddy评审并执行现有数据可支持的七个临床问题补充分析，使用t630 Python运行、核查、审读后交回本写作对话",
+  "questions": [
+    "哪些患者应优先追加检查及信息，能否识别个体增量价值",
+    "术毕更新触发阈值的开发侧选择与锁定评价",
+    "每日或每班复核人数、实际工作量与过载",
+    "医院之间的迁移表现及中心级校准",
+    "提前识别KDIGO AKI的可验证时钟和标准",
+    "死亡、透析、住院等结局的预测、关联及实施效果可识别性",
+    "低风险患者降低监测强度的风险、漏事件及可识别性"
+  ],
+  "baseline": "writing_runs/probabilistic_integration_20261105_v1/package",
+  "baseline_acceptance_sha256": "fafbe4e36eb5b715d44343c195103af3fd28a47dc72c60e08d28afe6f3ba6244",
+  "workbuddy_reports": "outputs/workbuddy_revision_20261106_v1/inputs/workbuddy_reports",
+  "method_review": "writing_runs/method_stats_revision_20261106_v1",
+  "virtual_workflow": "correction_runs/virtual_clinical_workflow_20261107_v1",
+  "execution": "Preserve frozen fits and raw data. Source/version/eligibility and availability-time audit first. Lock new exploratory protocol before new target-outcome calculations. Use compatible registered Python. Do not duplicate active owners. Retain harmful, null and undefined findings. No invented data or simulated clinical effectiveness. Return request-bound acceptance and complete question/evidence matrix."
+}

@@ -1,0 +1,213 @@
+{
+  "status": "PASS_3_COMBINED_8_STANDALONE_PDFS",
+  "files": [
+    {
+      "file": "figures/CS1_same_budget_policy.pdf",
+      "pages": 1,
+      "text_chars": 1619,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/BPMHGC+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/DQIFZV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "5d809377db140bb1d6794fd5df15af8d62cb3deb0e5cc0ec7b384ca1b8b946ee"
+    },
+    {
+      "file": "figures/CS2_monitoring_dependence.pdf",
+      "pages": 1,
+      "text_chars": 956,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/GSZTRW+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/EEZAWI+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "b2b35215f39dfc2a06236e3fcc03561791d4ae0c6bf7eca2c47b52bcc4405e33"
+    },
+    {
+      "file": "figures/CS3_daily_demand.pdf",
+      "pages": 1,
+      "text_chars": 1113,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/CLDSOP+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/CPUQYB+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "6f12ab2a0ae4652e8714d4c605b40bdb64807b054ef366f8f69aa8a80570022b"
+    },
+    {
+      "file": "figures/subpanels/CS1_same_budget_policy_A.pdf",
+      "pages": 1,
+      "text_chars": 404,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/EKGJEH+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/DQIFZV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "b645a46d8458f515b88991913c5b0923f450c2fd935c1340aa2068e60d260e32"
+    },
+    {
+      "file": "figures/subpanels/CS1_same_budget_policy_B.pdf",
+      "pages": 1,
+      "text_chars": 403,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/PAKZKH+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/DQIFZV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "bb786d3cc8ab5d95219f305a53d0e58a33666e222d21df62322d73cbb53f6ae6"
+    },
+    {
+      "file": "figures/subpanels/CS1_same_budget_policy_C.pdf",
+      "pages": 1,
+      "text_chars": 405,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/BILXMT+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/DQIFZV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "203753748d15073299a26a18c49b6760c2786123e10a984d5883d73d2cadd01f"
+    },
+    {
+      "file": "figures/subpanels/CS1_same_budget_policy_D.pdf",
+      "pages": 1,
+      "text_chars": 404,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/EYVYTV+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/DQIFZV+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "ae0dd18929775bb2eeca83ddeb806f381a4c672914e47006cc0906282ef6f7fd"
+    },
+    {
+      "file": "figures/subpanels/CS2_monitoring_dependence_A.pdf",
+      "pages": 1,
+      "text_chars": 507,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/GQVCSU+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "0c680be1eeefcd86976c24cce68b7766b1202ecb72ef10bd99ee76ee269e2936"
+    },
+    {
+      "file": "figures/subpanels/CS2_monitoring_dependence_B.pdf",
+      "pages": 1,
+      "text_chars": 449,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/DRTSIL+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/EEZAWI+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "9e1c8f87c6d26586790bbfb4f9b7e025f13c8f1b2d930f2d5e7524bf8ec82fe0"
+    },
+    {
+      "file": "figures/subpanels/CS3_daily_demand_A.pdf",
+      "pages": 1,
+      "text_chars": 464,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/UVISWX+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/CPUQYB+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "f84b358fe4863e7d92e6db0a19686711828e20845b5f0027fb102e31748574b4"
+    },
+    {
+      "file": "figures/subpanels/CS3_daily_demand_B.pdf",
+      "pages": 1,
+      "text_chars": 648,
+      "fonts": [
+        {
+          "name": "/F1",
+          "base_font": "/EVRACO+DejaVuSans",
+          "embedded": true
+        },
+        {
+          "name": "/F2",
+          "base_font": "/CPUQYB+DejaVuSans",
+          "embedded": true
+        }
+      ],
+      "outside_page_words": 0,
+      "sha256": "2b358f584c368db1a0fe6cd4e771ba2147d951aeebeec452fef7290b8fcd33b3"
+    }
+  ],
+  "QA_interpreter": "/home/lei/codex-workspaces/shared-python-envs/envs/upar-structure-docking-py312-cpu-20261104-v1/bin/python",
+  "QA_environment": "registered upar-structure-docking shared runtime reused only for compatible pypdf/PyMuPDF readers; no package changes or docking/model execution",
+  "visual_review": "Codex visually inspected all3 combined figure PNGs and all8 standalone figure PNGs; titles,units,legends and intervals checked. PDF text/fonts/page-bound checks passed; actual PDF raster previews saved for review. Actual PDF raster previews forCS1A,CS2B andCS3B were also inspected; axes/labels/intervals remained legible. CS2A intervals were subsequently aligned to patient-group units with zero/9 Wilson exception documented in LOW_RISK_INTERVAL_UNIT_REVIEW.json.",
+  "prior_20_figures_unchanged": true
+}

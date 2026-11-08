@@ -1,0 +1,86 @@
+{
+  "id": "aki-tabular-py312-xgb214-cuda-legacy-v1",
+  "kind": "registered_legacy_composite_runtime",
+  "status": "REGISTERED_IN_PLACE_NO_RELOCATION",
+  "interpreter": "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu/bin/python",
+  "prefix": "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu",
+  "base_prefix": "/usr",
+  "python_version": "3.12.3",
+  "purpose": "AKI tabular prediction, train-only imputation orchestration, grouped validation and plotting",
+  "backend": "CPU and supported XGBoost CUDA on Tesla P40",
+  "key_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.5.2",
+    "scipy": "1.13.1",
+    "xgboost": "2.1.4",
+    "statsmodels": "0.15.0",
+    "joblib": "1.6.0",
+    "matplotlib": "3.9.4"
+  },
+  "xgboost_build_info": {
+    "BUILTIN_PREFETCH_PRESENT": true,
+    "CUDA_VERSION": [
+      12,
+      8
+    ],
+    "DEBUG": false,
+    "GCC_VERSION": [
+      10,
+      3,
+      1
+    ],
+    "MM_PREFETCH_PRESENT": true,
+    "NCCL_VERSION": [
+      2,
+      25,
+      1
+    ],
+    "THRUST_VERSION": [
+      2,
+      7,
+      0
+    ],
+    "USE_CUDA": true,
+    "USE_DLOPEN_NCCL": true,
+    "USE_FEDERATED": true,
+    "USE_NCCL": true,
+    "USE_OPENMP": true,
+    "USE_RMM": false,
+    "libxgboost": "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu/lib/python3.12/site-packages/xgboost/lib/libxgboost.so"
+  },
+  "consumer_projects": [
+    "/home/lei/codex-workspaces/aki-prediction-manuscript"
+  ],
+  "site_package_paths": [
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu/lib/python3.12/site-packages",
+    "/home/lei/codex-workspaces/aki/envs/cd45_identity_py312_20261007/lib/python3.12/site-packages"
+  ],
+  "dependency_inventory": "/home/lei/codex-workspaces/shared-python-envs/specs/aki-tabular-py312-xgb214-cuda-legacy-v1/installed-distributions.txt",
+  "inventory_sha256": "7f97fc9b2116950c42d971a4b7d8ed0601e374576336c40f802e4960c6a224af",
+  "qualification": "completed six-by-nine development benchmark and paired geographic/endop fits; actual cuda:0 training canary verified. Not a universal compatibility assertion.",
+  "reproduction": "installed distribution inventory and exact existing prefix/overlay references, not a freshly solver-resolved lock",
+  "original_prefix_preserved": true,
+  "physical_relocation": false,
+  "package_changes": false,
+  "upgrade_policy": "immutable while consumers/frozen models depend on it; conflicting requirements require new versioned shared environment",
+  "registered_China": "2026-10-16T19:19:54.684590+08:00",
+  "required_legacy_prefixes": [
+    {
+      "prefix": "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu",
+      "interpreter": "/home/lei/codex-workspaces/aki-prediction-manuscript/envs/prediction_gpu/bin/python",
+      "consumer": "aki-tabular-py312-xgb214-cuda-legacy-v1"
+    },
+    {
+      "prefix": "/home/lei/codex-workspaces/aki/envs/cd45_identity_py312_20261007",
+      "interpreter": "/home/lei/codex-workspaces/aki/envs/cd45_identity_py312_20261007/bin/python",
+      "consumer": "aki-tabular-py312-xgb214-cuda-legacy-v1"
+    }
+  ],
+  "cleanup_guard": "Both own prefix and referenced readonly dependency prefixes remain required by running/frozen AKI analyses; registry addition is not a consumer switch or relocation.",
+  "frozen_consumer_artifact_roots": [
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/reanalysis_sheet1_20261015_verified/six_by_nine",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/preop_comparison_20261016",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/next_validations_20261016"
+  ]
+}

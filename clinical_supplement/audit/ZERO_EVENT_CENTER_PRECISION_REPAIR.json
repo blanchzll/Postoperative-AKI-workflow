@@ -1,0 +1,4 @@
+{
+  "reason": "zero-event patient-bootstrap O/E intervals degenerate at zero",
+  "action": "retain O/E descriptive point, suppress zero-event O/E interval; add Wilson prevalence limits to every center. No labels/thresholds/model changes."
+}

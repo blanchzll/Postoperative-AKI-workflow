@@ -1,0 +1,55 @@
+{
+  "status": "PASS_INDEPENDENT_NUMERIC_IMPLEMENTATIONS",
+  "contexts": [
+    {
+      "context": "geography_preop",
+      "replicates_rebuilt": 2000,
+      "policies": 6,
+      "equal_budget_primary_point_and_CI": "PASS_expanded_records",
+      "center_rows_checked": 12,
+      "counts_checked": 18,
+      "new_fits": 0
+    },
+    {
+      "context": "geography_paired",
+      "replicates_rebuilt": 2000,
+      "policies": 6,
+      "equal_budget_primary_point_and_CI": "PASS_expanded_records",
+      "center_rows_checked": 12,
+      "counts_checked": 18,
+      "new_fits": 0
+    },
+    {
+      "context": "temporal_preop",
+      "replicates_rebuilt": 2000,
+      "policies": 6,
+      "equal_budget_primary_point_and_CI": "PASS_expanded_records",
+      "center_rows_checked": 24,
+      "counts_checked": 18,
+      "new_fits": 0
+    },
+    {
+      "context": "temporal_paired",
+      "replicates_rebuilt": 2000,
+      "policies": 6,
+      "equal_budget_primary_point_and_CI": "PASS_expanded_records",
+      "center_rows_checked": 20,
+      "counts_checked": 18,
+      "new_fits": 0
+    }
+  ],
+  "MIMIC": {
+    "records": 759,
+    "numeric_checks": 14421,
+    "strict_48h_7d_criteria": "PASS_alternative_dataframe_fraction_replay",
+    "deletion_masks": "PASS_all5_schemes_all759records"
+  },
+  "other": {
+    "low_risk_point_and_Wilson_checks": 64,
+    "daily_table_summary_scalar_checks": 1040,
+    "hard_outcome_rank_point_checks": 48,
+    "INSPIRE_leadtime": "PASS_recorded_interval_only"
+  },
+  "seconds": 20.205643892288208,
+  "same_reviewer_alternative_algorithms_not_independent_human_review": true
+}

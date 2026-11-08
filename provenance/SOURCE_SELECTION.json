@@ -1,0 +1,95 @@
+{
+  "included": 722,
+  "omitted": [
+    {
+      "source": "work/albumin_continuous_20261024_v2/analysis.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_continuous_20261024_v2/continuous_support.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_continuous_20261024_v2/restore_continuous_base.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_continuous_20261024_v2/review.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_continuous_20261024_v2/sensitivity.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_modifier_display_20261029_v1/derive_existing_curves.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/albumin_reference_display_20261029_v1/render_current_rcs.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/fixed_flow_sensitivity_evaluation_20261024_v1/evaluate.py",
+      "reason": "Prior exact-source classification retains this file privately"
+    },
+    {
+      "source": "work/fixed_flow_sensitivity_evaluation_20261024_v1/qualify.py",
+      "reason": "Prior exact-source classification retains this file privately"
+    },
+    {
+      "source": "work/fixed_flow_sensitivity_evaluation_current_20261030_r1/run_correction.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    },
+    {
+      "source": "work/fixed_flow_sensitivity_review_20261024_v1/review.py",
+      "reason": "Prior exact-source classification retains this file privately"
+    },
+    {
+      "source": "work/llm_supplement_20261028_v1/download_biomedlm_assets.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/llm_supplement_20261028_v1/resume_medgemma_assets.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/llm_supplement_20261028_v1/resume_medgemma_tail_parallel_v2.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/reanalysis_control/secondary_albumin.py",
+      "reason": "Outside this manuscript content or asset-acquisition utility"
+    },
+    {
+      "source": "work/study_package_scope_20261030_v1/diagnose_fixed_flow_exclusion.py",
+      "reason": "Prior exact-source classification retains this file privately"
+    },
+    {
+      "source": "work/study_package_scope_20261030_v1/replay_portable_locked_routes.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    },
+    {
+      "source": "work/study_package_scope_20261030_v1/replay_portable_pod1.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    },
+    {
+      "source": "work/study_package_scope_20261030_v1/replay_portable_sensitivity.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    },
+    {
+      "source": "work/study_package_scope_20261030_v1/replay_private_policies.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    },
+    {
+      "source": "work/supporting_analysis_delivery_20261029_v1/render_supporting.py",
+      "reason": "Current source does not match the exact reviewed version",
+      "resolution": "Included current bytes with a fresh source-only inspection; original receipt is not reused as current-hash acceptance"
+    }
+  ]
+}

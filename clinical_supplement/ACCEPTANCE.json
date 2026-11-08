@@ -1,0 +1,53 @@
+{
+  "task_id": "AKI_CLINICAL_SUPPLEMENT_20261108_V1",
+  "status": "PASS_FEASIBLE_SEVEN_QUESTION_ANALYSES_WITH_IDENTIFIABILITY_BOUNDARIES",
+  "accepted_Asia_Shanghai": "2026-11-08T13:33:57.111959+08:00",
+  "analysis_owner_thread": "01a1b977-b819-7131-be93-23fe314aa853",
+  "writing_owner_thread": "01a192de-cc29-7d52-9dfa-42603428fc4e",
+  "remote_root": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1",
+  "request_sha256": "76c02283885efe895e79ac32166e9636505e8d7eb07a710fa82456c14cef3367",
+  "baseline_acceptance_sha256": "fafbe4e36eb5b715d44343c195103af3fd28a47dc72c60e08d28afe6f3ba6244",
+  "protocol_sha256": "5317bfe92b528e6aa3eb536fa41654178bc09d62f445555165a163deb66e6db3",
+  "scientific_review_sha256": "3a2c0d73a4e7752e21ffd27d9540159e2fe223f2e05aaed5a19a46876be8621a",
+  "question_matrix_sha256": "5e1f5cb96971b87868d0498f8f718d5e617a13616ce56d9143cb704fa19398e4",
+  "claim_matrix_sha256": "9b06f2465dd04eed66d44977b9221b7a97b29e7ec133882cfc6a6384a527e472",
+  "source_output_manifest_sha256": "96f728c84e16fc9752e3593ea80534abe93830c82ec27a3114db98d1555f5279",
+  "source_input_files_rehashed_unchanged": 159,
+  "seven_questions_processed": 7,
+  "scientific_claim_rows": 16,
+  "results_tables": 25,
+  "new_figures": 3,
+  "standalone_subpanel_PDFs": 8,
+  "PDF_files_checked": 11,
+  "new_predictive_model_fits": 0,
+  "association_regressions_only": true,
+  "independent_numeric_implementations": {
+    "INDEPENDENT_NUMERIC_VERIFICATION.json": "10b25998d7d22c9fbf2f8b1471dc5f9697a94fa354d9b5e10de6602c54566896",
+    "EXTRA_INDEPENDENT_VERIFICATION.json": "9d423162ca5da91a53068c76f17e617f91ea9d94b75b52f04ca3a58bc01cbe50",
+    "REUSED_RESULT_VERIFICATION.json": "9db3082efe1cd4246f0f4b5b8b4e62ad47baf11566c407ec7bc8b107d525204c"
+  },
+  "visual_QA": "a7b09c7dbeec3b37a5436a4b47572f9c6ef0b1047101d1eeb14cff31891723f9",
+  "all_owned_stage_processes_exited": true,
+  "reviewable_bundle": {
+    "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/ANALYSIS_HANDOFF_AGGREGATE_CODE_FIGURES.zip",
+    "sha256": "a7ac6dea4a6bbaa5694e3bed03ed5dec7726b9d4a474647670cce67bf653c0d2",
+    "files": 90,
+    "bytes": 1210275,
+    "CRC": "PASS",
+    "patient_level_data_and_exact_dates_excluded": true
+  },
+  "original_frozen_models_data_results_and_manuscript_preserved": true,
+  "old_v1_QA_not_used_as_new_acceptance": true,
+  "unidentified_estimands": [
+    "actual diagnostic-test indication or individual clinical benefit",
+    "actual daily/shift alert arrival and completed clinical work",
+    "actual prediction-available-to-KDIGO warning lead time and complete KDIGO",
+    "implementation causal effects on death/dialysis/LOS",
+    "safety of reducing/stopping monitoring"
+  ],
+  "complete_selection_optimism_corrected": false,
+  "independent_human_expert_review": false,
+  "full_manuscript_or_submission_complete": false,
+  "GitHub_push_performed_by_this_branch": false,
+  "required_work_remaining_in_this_analysis": false
+}

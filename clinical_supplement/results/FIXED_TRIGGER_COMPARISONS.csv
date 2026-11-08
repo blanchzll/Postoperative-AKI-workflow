@@ -1,0 +1,13 @@
+context,trigger,N,events,updated_n,review_n,captured_events,missed_events,capture_per1000,capture_per1000_lo,capture_per1000_hi,threshold,threshold_origin
+geography_preop,no_update,1159,72,0,322,39,33,33.64969801553063,23.316062176165804,44.16878653992049,0.058014440563114264,unchanged development lock; exploratory retrospective evaluation
+geography_preop,all_update,1159,72,1159,317,40,32,34.51251078515962,24.199996118841085,45.5727775368764,0.05871225454954851,unchanged development lock; exploratory retrospective evaluation
+geography_preop,existing_individual25,1159,72,429,321,40,32,34.51251078515962,24.199996118841085,45.5727775368764,0.05873497904256533,unchanged development lock; exploratory retrospective evaluation
+geography_paired,no_update,1158,72,0,508,43,29,37.13298791018998,26.746619410312096,48.360284996484566,0.0671925742575302,unchanged development lock; exploratory retrospective evaluation
+geography_paired,all_update,1158,72,1158,81,24,48,20.72538860103627,13.020551008239377,29.360967184801382,0.06548638037150699,unchanged development lock; exploratory retrospective evaluation
+geography_paired,existing_individual25,1158,72,207,480,41,31,35.405872193436956,25.108225108225106,46.71280276816609,0.05897897265303401,unchanged development lock; exploratory retrospective evaluation
+temporal_preop,no_update,1683,66,0,271,35,31,20.7961972667855,14.251781472684087,27.9263220439691,0.08211666987178025,unchanged development lock; exploratory retrospective evaluation
+temporal_preop,all_update,1683,66,1683,336,38,28,22.5787284610814,15.457788347205707,30.285485496293095,0.08062685530365808,unchanged development lock; exploratory retrospective evaluation
+temporal_preop,existing_individual25,1683,66,349,260,33,33,19.607843137254903,13.079667063020214,26.188575754449896,0.07933497067547528,unchanged development lock; exploratory retrospective evaluation
+temporal_paired,no_update,1011,36,0,137,15,21,14.836795252225519,7.91295746785361,23.715415019762844,0.08916862245143672,unchanged development lock; exploratory retrospective evaluation
+temporal_paired,all_update,1011,36,1011,220,19,17,18.793273986152325,10.89108910891089,27.66798418972332,0.07854667977455408,unchanged development lock; exploratory retrospective evaluation
+temporal_paired,existing_individual25,1011,36,136,201,18,18,17.804154302670625,9.910557458124405,26.73267326732673,0.07967343068774314,unchanged development lock; exploratory retrospective evaluation

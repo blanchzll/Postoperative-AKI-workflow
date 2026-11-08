@@ -1,0 +1,3 @@
+branch,fixed_family,N,events,development_apparent_AUROC,outer_fixed_family_AUROC,apparent_minus_outer,full_selection_optimism_corrected,meaning
+compact,LR,2551,133,0.7540532472620758,0.7173983345460424,0.03665491271603338,False,Different apparent/fixed-family CV estimands; does not estimate winner-selection optimism for whole workflow
+full,LR,2551,133,0.7921882870949085,0.7273145643264489,0.0648737227684596,False,Different apparent/fixed-family CV estimands; does not estimate winner-selection optimism for whole workflow

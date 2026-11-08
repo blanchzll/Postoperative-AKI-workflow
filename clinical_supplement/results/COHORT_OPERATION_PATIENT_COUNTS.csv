@@ -1,0 +1,5 @@
+context,operation_records,distinct_patient_groups,positive_operation_records
+geography_preop,1159,1149,72
+geography_paired,1158,1148,72
+temporal_preop,1683,1681,66
+temporal_paired,1011,1009,36
