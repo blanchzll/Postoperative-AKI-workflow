@@ -78,7 +78,7 @@ def export_figure(fig,label,source_name):
   for loc in ['left','center','right']:ax.set_title('',loc=loc)
   source_title=re.sub(r'^[A-D]\s{2,}','',source_title).strip()
   extra_legend=None;legend=ax.get_legend()
-  if not legend and fig_legends and (label!='eFigure_13' or i==3):
+  if not legend and fig_legends and (label!='eFigure_13' or i==3) and (label!='eFigure_2' or i==1):
    leg=fig_legends[0];handles=[copy.copy(h) for h in leg.legend_handles]
    extra_legend=ax.legend(handles,[t.get_text() for t in leg.get_texts()],loc='upper center',bbox_to_anchor=(.5,-.30),frameon=False,ncol=(1 if sum(len(t.get_text()) for t in leg.get_texts())>65 else min(3,len(handles))),fontsize=10)
   elif legend:

@@ -1,6 +1,6 @@
 {
   "status": "PASS_JNO_ARIAL10_EDITABLE_VECTOR_18_FIGURES_53_PANELS_31_PAGES",
-  "utc": "2026-11-08T09:14:50.213341+00:00",
+  "utc": "2026-11-08T09:44:34.264567+00:00",
   "figures": [
     {
       "figure": "eFigure_1",
@@ -29,7 +29,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "86cdd80afabfe7aecb28f37c313187dd9476973e913813a3993f92a7e812c8a1",
+          "pdf_sha256": "6b22f483205aae1280bf0e6f5589f1f34c117f694b112424bdba9da913517a41",
           "svg_sha256": "564bd294af3c4b6913b27a1e222ee108ffc788e797f4db6a3450d7fb53c5d7de",
           "png_sha256": "ec9715d50a7dc5f6546bf4623f28a2efe22974274ddcc213e84fb25ada735b19",
           "text_content_unchanged": true,
@@ -53,7 +53,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "193027f662944041b3f9959a9ac07584b75fdbe58f25ee20a0e1f3a0fbefd85a",
+          "pdf_sha256": "4c8b350cf0a4c528dab60c854e7e469da8bdc1a6085ac62299b8ab823df7a438",
           "svg_sha256": "5ac6f09bc9526150bccd3df0eadc799b5e7c483fb3f662d9b3ca88fe4aa073a6",
           "png_sha256": "2128c55263c92c08336ea5195c6513a890f6b5a294d77b00bdc29943f70f70b0",
           "text_content_unchanged": true,
@@ -61,7 +61,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_1.pdf",
-      "composite_sha256": "f4df36749df30e385af6a89ce6380af8a0d2704a219aa8ba0d340a03d5470313"
+      "composite_sha256": "53c9566a4e291dde8c460fd308addfe45384f633a3c61eb1414a87793f7199f7"
     },
     {
       "figure": "eFigure_2",
@@ -88,15 +88,15 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "f1d4fb1d215220fe8449da67fb6796b961d43cf95e2f0cb826a11db50c0da1ef",
-          "svg_sha256": "a2e33fe14ab2b8bf5a24c8669909d86c38fd076f573af6ad624698e1573826c7",
-          "png_sha256": "77f2fc4ce157c37fdf3d0dd8cd94916474ff618c3de1cbc0ddbcbab800e6d3eb",
+          "pdf_sha256": "d7dd0a8dca8c5ff84c512ff121c2af55409aba0a1a17b0d7d0782523d22809e2",
+          "svg_sha256": "7b4905442a866e901a4258fe3e0eee571acbe482afa7f81ae2bf7e86d21326a8",
+          "png_sha256": "22bb6420d487f6631559bf3e8317f9e93b85047e6728ac5cc6595edbf0feab4b",
           "text_content_unchanged": true,
           "raster_images": 0
         }
       ],
       "composite_pdf": "composites/eFigure_2.pdf",
-      "composite_sha256": "779d0433b04ce10dfc1f7a554fdbb4dcf60d895efbb20f28fa4d1545135cacfa"
+      "composite_sha256": "d7da59bfe2d295e9e4aa15739cfb3c686facc4ddb3d02b39afd95114f3f9d023"
     },
     {
       "figure": "eFigure_3",
@@ -123,7 +123,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "b67ba02cde36324b173bd0cf1b311ee952c58deb9b53218e7e1455badceb9adb",
+          "pdf_sha256": "8ddd36fd8290d1580ad9e6c9bcbb9cb8ad426d65eaedd3cf78a919ef02b82e20",
           "svg_sha256": "f4db3ca5613f5b45f620c83b8cdbe43572b2e7d8e95b35b5bc4d90defa88e84f",
           "png_sha256": "30f5c39ba1e6d2e6c8599107680de5f4abd864891b53d0a19417ff0afa90ed46",
           "text_content_unchanged": true,
@@ -131,7 +131,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_3.pdf",
-      "composite_sha256": "5327ce6e6443b8d97e7984730bfb062aecf4b0bc330f9da0efcfc357e922b542"
+      "composite_sha256": "393fea35fc43ccc89d65eaccb45de5acea5c3edcc17cc7eeb2117bdea23303cc"
     },
     {
       "figure": "eFigure_4",
@@ -160,7 +160,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "11201539c482d5b97603bddb9bb6500abc6ff61e81c9c16b44ecf2a9a9af4acb",
+          "pdf_sha256": "b716e432b358e245e6ca01ef27247b7e9b238dc9373d2b6ee3ebf1ff0bb33d1b",
           "svg_sha256": "6a27468c3f87872a9d75ab7ef2a8d1d861a2b2692643aa49ceb2a4a995458323",
           "png_sha256": "001a189291353786650284237cc4cf789eae704211a21c6070bc02a54e0a7590",
           "text_content_unchanged": true,
@@ -184,7 +184,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "acc85b1e46840f49c4923af19eb19fccfae646122b682da24fddc04d46dca473",
+          "pdf_sha256": "5099f60b19ee3ef5787253a485dc33d1ad1bdcc1b2292dcb62d7453aae1f14db",
           "svg_sha256": "ec7eb45159331f1f493f7fd81b4244e92c3c34a59854c5cc20492086173a5064",
           "png_sha256": "aba735ba5adff2559e630ee426411ec6d41110d226d5ff4617f95d57698f7086",
           "text_content_unchanged": true,
@@ -192,7 +192,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_4.pdf",
-      "composite_sha256": "03ea678dafc2ba1063bd392f6e42b5ef96b55b7f4d2788bfb32ebfe0e051f292"
+      "composite_sha256": "ef244f49a9a3154b68a30e198b4e1c9e3ea7adb75fcfd68e7ba586f324922e0a"
     },
     {
       "figure": "eFigure_5",
@@ -218,7 +218,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "92d884704b01f0ea277da8f25fa3541b302163b1ad7e36cbed108b4c7386a5ae",
+          "pdf_sha256": "16aacdf793bdf1aa2730a335eddd84e6613af1dadfb72db6e714965b440d9829",
           "svg_sha256": "205c5f13aa12123d6b95ad2429d389329b75a8a3987236c6bc326d9bf5b400e3",
           "png_sha256": "1e92032c714583ea92868ab49adfb0223939f7b03fab47bf69d8007d761cdea7",
           "text_content_unchanged": true,
@@ -241,7 +241,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "9a8a2e551d0c55d73093cf095e8558763f2f9b57393b4d6e556af13df2220f61",
+          "pdf_sha256": "ae8cfa105b59ddc5d6bd0487c582e3c63cef5e1b0384ad341e4cfcf8f8e1f94f",
           "svg_sha256": "1e20244e0ba10b1c7745dcf5fba40a913cf6190afb8552a230ca949cb35bcc62",
           "png_sha256": "b56139ed2219d8036d6c601f95188ae1c569b9c93c88679f3c84b5210e76e3a1",
           "text_content_unchanged": true,
@@ -249,7 +249,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_5.pdf",
-      "composite_sha256": "36060debf12753be8256a25018b5b9dfee0e41c15fba44a8bb89aa3c8eafa9fe"
+      "composite_sha256": "24a269bce24fdf979a8bc1c4fd7f41cbe676836b1e7951c73456099356d8356c"
     },
     {
       "figure": "eFigure_6",
@@ -277,7 +277,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "72909bb51c75ffa31873339368b86a4975f50220066581b8563cf211fb2754d4",
+          "pdf_sha256": "b2d04634dcc0c06ec7c4eeb959ad288707c1dbcabf0876e3cd605f65954c9bce",
           "svg_sha256": "bd3d4ed375580176b2aa09332999df6c217329c9cda5c7475de4ac2ea363d446",
           "png_sha256": "64a82bfb291348b56c26d68912a5930663bd1b2af7032ed6880d6ae2b6afa001",
           "text_content_unchanged": true,
@@ -300,7 +300,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "4c812a33bc6a637a8d1193273f53833fb5dc0c8d73e10b03543029609dca15a1",
+          "pdf_sha256": "87f0e6527c708acd1886436d01389b07d433674ecda36d397fd589bfb5597ca8",
           "svg_sha256": "f752fd816855f6fb78a8d8ad95224fbc9405fe9b7a4e4154ef9baef28b3cf5cb",
           "png_sha256": "a432ad6612bdd32987a1f8426e9ce93eb49a7ae187bfa73791343d1edb8db749",
           "text_content_unchanged": true,
@@ -308,7 +308,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_6.pdf",
-      "composite_sha256": "eb168bbb441ecdb71fcd863826f9240357ec873861382e23b0fa5038a446f977"
+      "composite_sha256": "d28e9fd87457303febad327de32bba1992e2b955b8a628c4d4eb78e8c4e5e335"
     },
     {
       "figure": "eFigure_7",
@@ -337,7 +337,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "8cb72fc5ce4760af710c15353328d4a635a436d1f6951704f4d3370e090b7e2c",
+          "pdf_sha256": "2608f3eaa028a63292ac8162a1f5a3b55e9ea89572f518119ea1274639eac3bb",
           "svg_sha256": "89f830e7077bdafcaed14b4b0e0541a240491d0738ad5e225fd089129f89317b",
           "png_sha256": "6a52b7d4d2401363b899f5cd444f38962ab211caae9516c88dc5c1de49b0a35b",
           "text_content_unchanged": true,
@@ -361,7 +361,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "8c581768c1263be779d5900e3ed8308bca87de4a295652cba3ee1ddb1d6d1157",
+          "pdf_sha256": "f2b413073ac4eae3332f194b52c98e51902e3ded871703c55eb85691b8e1e20d",
           "svg_sha256": "96b9fe957da6933b435f3ff91431c6ccc7608fc9c56175873917fe1e3be40313",
           "png_sha256": "6f295d90f4719076d3f18e22f39197a4c6c1338f17043e56c16cc321859399e1",
           "text_content_unchanged": true,
@@ -369,7 +369,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_7.pdf",
-      "composite_sha256": "7234d83fc8f24430c60eceb2daa64d0596e71339acc5509a1a7dcef1dbba2a49"
+      "composite_sha256": "4834424384a5f582cfcd2e16485b05245a2c1b3701c95c753560d8eea3a7f397"
     },
     {
       "figure": "eFigure_8",
@@ -396,7 +396,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "cbde5cd2b0627749e184f4d6195b7008c9ed6272108c75ee94a3b65ea1fe6f40",
+          "pdf_sha256": "c31c8b4853acb54725c930d0a6ceafc7b48949616b836eaec6b7d20b67718401",
           "svg_sha256": "226640b52094335f67a61036d2f35f76e98fac3da58b52098afca898ccbfb4ee",
           "png_sha256": "b5b97180513bb2bf3475751444defae812f92abc22c0289b35e08cddfa491620",
           "text_content_unchanged": true,
@@ -404,7 +404,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_8.pdf",
-      "composite_sha256": "de511bb5b4a729db5d5e86b3c396d647838d80465409f248a373f29507c2ad25"
+      "composite_sha256": "47b3d9334ae57eec80cf1c760842300c1364e2106023b2c9e50bde35d2902323"
     },
     {
       "figure": "eFigure_9",
@@ -431,7 +431,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "ee3575410cfb52305666d197c5920dbb4d4f6923b2b26e3f7a601d40d29834f5",
+          "pdf_sha256": "54a142fff1d2090718c0a6abdb13fe37ed4b461438d24dcdaae320a3b172ca89",
           "svg_sha256": "c038d7695a8ecebe08b4be8818c53e255ef3797cba8bbdc830fe45480e1606a2",
           "png_sha256": "1f0d65b2240b91c047141c1a055a995f0f329efe554af696837df2ca92b601da",
           "text_content_unchanged": true,
@@ -439,7 +439,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_9.pdf",
-      "composite_sha256": "8e5669bccbbc08df485541a213fca25d265b32da99b8dda9b2410532d6ddfc39"
+      "composite_sha256": "33ce750f38fc44a9c97eb41eaef40e8e8400fee8c4357b1cd339a51536ee2918"
     },
     {
       "figure": "eFigure_10",
@@ -465,7 +465,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "9120ed455d18d76c684809f39568e5f6d05f829d0817c35b0314933a378cc230",
+          "pdf_sha256": "1c6f2855c24f8f248d8d41182de61adfe4a4b32cae03159e5d890bbd4ce4339e",
           "svg_sha256": "204a0c77738af37bd21de13a3a73db1b9c0a40d7827f3f1463cb1fc50c4ef015",
           "png_sha256": "971921368cf581a630ca3be8398c461ddf5dd16352f9eb931476c12b7c2c37b9",
           "text_content_unchanged": true,
@@ -488,7 +488,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "b8fbd91766623adf1fb24237d4ebc494aefdc1dd06875392de74d5de1a4c31a6",
+          "pdf_sha256": "35502fb00c9bb9e80ab7d981d26a4a86f4771466e76a2e777ef145c5bfd615e0",
           "svg_sha256": "29b8e1a0b2dd0d71334ac865e0d874f873ca02b7b07b34c2888094242468b229",
           "png_sha256": "ed0e43a3ad002576cc34c39f832142118a9a6779020efa9d34f8e5fe065367f1",
           "text_content_unchanged": true,
@@ -496,7 +496,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_10.pdf",
-      "composite_sha256": "eeacd23e63df05ffe904d8fd8280d1ecf0348efb0c4bd5f04ee0a452393382b4"
+      "composite_sha256": "eaa29537da446316d4124bd5d21e26116c33ae6f10390388a754c839120cbfbf"
     },
     {
       "figure": "eFigure_11",
@@ -525,7 +525,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "93d4a101abc7f0c0ecfde423ba6eae31c2bca338911ed96e9c8d3de2314fdac8",
+          "pdf_sha256": "d780ac8f97213989d1ce696763169db1ab5dbdbf453ffcb8cb67469bd36aeb65",
           "svg_sha256": "a256e056425bc51d2821468552131a0986c92dec83c6d6e000ce3ad9ed97a3f9",
           "png_sha256": "492036532cce6dbcd864ef825163719b136fd76cd9550bf93de61611e08321cc",
           "text_content_unchanged": true,
@@ -549,7 +549,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "c630c08ef56deeedc4273eb4e21d2f9836bfcf733e19fb09ea2caa483c463754",
+          "pdf_sha256": "0f85b798d598327ae5709fc4f85d5d10d1373bba7df36e8db32df805a69a9483",
           "svg_sha256": "be27dfaf8bc1509221c83ace91cee914862badfc7fdfc2f21b01677e17ed404e",
           "png_sha256": "90e1f7b0c89aba3fe193bcdbf85e85a31a499c15c4001e448163c55797c1c494",
           "text_content_unchanged": true,
@@ -557,7 +557,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_11.pdf",
-      "composite_sha256": "aedd123ad7943ba2a761dc0ad07987beeea06ed182762bdc94142075617ea58b"
+      "composite_sha256": "875eb10161d533419575c59ae275d6228e0fa2b842dfb750302c10f30813d58e"
     },
     {
       "figure": "eFigure_12",
@@ -586,7 +586,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "0c5bfdef3c0cb55c34b59fb2182520388f7cf71243fda14ea49b9b61f7cd8038",
+          "pdf_sha256": "9e826e9ec3c419b75bc3051b9b7705bf788de161f79f8088493cb907417bb528",
           "svg_sha256": "fdd9803d8bd81a674e60cae59f2d70a9573839c248b9190fbfc54e65e29aee7e",
           "png_sha256": "ceee75f26330473c4210e72c7b37e453b8696b3853aef949295e786e00c4309e",
           "text_content_unchanged": true,
@@ -610,7 +610,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "396f90be9507576a72ef0f12d99f6759169feff227f3ee4db38c1c3d7db7bea8",
+          "pdf_sha256": "107b38522e88559f875f370add50fe03c86245d92c5d33ac0d4c06c06f72edd5",
           "svg_sha256": "c435915e7adb8c2bdfe07ba0093b0d10cc9f85c47f3d3242f0fe09a5f9830ce6",
           "png_sha256": "de34a64fe988d6d325b119255b2bf2bd2f783400b47a7cdc2cb73a116914ab70",
           "text_content_unchanged": true,
@@ -618,7 +618,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_12.pdf",
-      "composite_sha256": "f3ab43f4b9bbdaa94dd69f8c2cfc62a3d5a2356ee53d47b8be2e3e3f0a41500a"
+      "composite_sha256": "d21fd1206271fae75a5a5bbd488eb87f0e2455ceedc2f2af11ebc81b8cb51530"
     },
     {
       "figure": "eFigure_13",
@@ -647,7 +647,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "206520fbade1d3164a83165cfd2002a80f9af91afcf7e8a2dccac522b5ea8243",
+          "pdf_sha256": "9b06ffa7b71b3c504ecf2b24ffaa03eb89d17163a7c489f0187164550a5cf4ec",
           "svg_sha256": "1bedd911fbcfddcbc86fa20387ed8feaa1d9508f287b4d6356b76f37bde79c49",
           "png_sha256": "6eb44747f7f152e286a94ac448eccfad3f64d3ec8c189752a495d0a51e86b7fa",
           "text_content_unchanged": true,
@@ -671,7 +671,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "78871701d794d1dfca77f685c7d2c5ff5cd6ab52b188299c515f9b9b46c85dcf",
+          "pdf_sha256": "e547f8d3446ffc40a961cbd6447457719ead91de0a76b1569493a150429635b4",
           "svg_sha256": "f97503c88e513041ac7c6820ec1548dbe6a362a569789c4b3e66dee2a23e70b0",
           "png_sha256": "853811c9a894735f35fbbc705baef3d62df72ed4cb1f681bbad30034a3cbb34a",
           "text_content_unchanged": true,
@@ -679,7 +679,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_13.pdf",
-      "composite_sha256": "a6dc6e834c1489338c40a245851f80e7cdafa17ab34fdceb68233ce86f31948a"
+      "composite_sha256": "d06c47c7698f7d7b46e8ef568357b9d0a4094aac13009ffe51c8479a3d2c0d1e"
     },
     {
       "figure": "eFigure_14",
@@ -706,7 +706,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "93c2476a50c335f4ed1c2a5a7bca7954b420149bb5032ba0904d6dc2c8890086",
+          "pdf_sha256": "51a715916af1d09793a82367c4b8e9f6752bab5396620636fc1b9123ca74716b",
           "svg_sha256": "cd4740392e1a195e4a3314c8231be7e60d4ce53980511a2b3b83ef9cf7832375",
           "png_sha256": "9b1d4db3985b05502b900abc2d3c9884ee13242531f5c656a9cef8d245ef627f",
           "text_content_unchanged": true,
@@ -714,7 +714,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_14.pdf",
-      "composite_sha256": "ea0652924f1537947f616f5e91c8c0deb1a9a74ebff71599b932e1511337d5a3"
+      "composite_sha256": "f7b71c1df014bb41a0924acef854145ac587dab0080afa959c2cd16cc1059a21"
     },
     {
       "figure": "eFigure_15",
@@ -743,7 +743,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "bff6211e8a9a7f4ac3c6c6205e33e48c590d8029c3be619a3564e8ef6d471984",
+          "pdf_sha256": "fe5e134ab967043000da735bc33b25509647e4589a1378a26a34bf774deca8dc",
           "svg_sha256": "e264df2cc20ae4dde31c9d5d679dbd44cdad98853ba8338c9be0f267a988742b",
           "png_sha256": "05c6c4a17bc81a68a0f3fc3de05350e13ab249d9bff96212e5355a0986bf6927",
           "text_content_unchanged": true,
@@ -767,7 +767,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "5b499a859b426ac7954673a9a7a36d4951f1523366520cc435439bb0d322aa64",
+          "pdf_sha256": "b4f29a0df83b893c240a8ff6c4df3e345906c43544ea1038035f80f1bb93198b",
           "svg_sha256": "7040a237a3b9e8f425ec42d335bf1d3f943ecf2b892df682ab1dc0eb8e8f9488",
           "png_sha256": "eb225b76a803516ba779096fdee1e348523c3b2626ac730e772d84ac7eb1c6a5",
           "text_content_unchanged": true,
@@ -775,7 +775,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_15.pdf",
-      "composite_sha256": "b30da551c1bd78f76e0e49fb2f2939f217e7163b05e45dfb2237c2029dcda079"
+      "composite_sha256": "2d03e42e0f90af8952ff4017aa612209f164d9ac0eb9b8f2f907faa131456716"
     },
     {
       "figure": "eFigure_16",
@@ -804,7 +804,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "eb2db6f0948db805eab42be439a7cef3c49e76f321e1f42ea64ff5a67bc79171",
+          "pdf_sha256": "0d7e8e9dd3d95dbfeb8b5bf4cfd8a18084c04546f1a084dd7ca70bf030e5e7fc",
           "svg_sha256": "4eb60cdf4e77a1e5d0f7e1f3b23883dddadc3887c3f005817c39cd40d69d7806",
           "png_sha256": "7f122d33dcf629dfbf252a35de8507890cde44fdf81cfad3c6b348bb864d6889",
           "text_content_unchanged": true,
@@ -828,7 +828,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "46fb771182f94d73e053ad98b19ce6eac70a04f820191f26c77a0109f6afb8a7",
+          "pdf_sha256": "abdfaf569f7be347a1c55d061d633d942e9dbf63c31ede0e9254d1ffa6f32151",
           "svg_sha256": "de481187b31d2b0ad8f1c3efbf70130e20ac7c989522f602ec6d0ddd17432d0d",
           "png_sha256": "681609e1be40b1bf50abbe22d96aa612ad96fac900d53085227ad4c3661037b2",
           "text_content_unchanged": true,
@@ -836,7 +836,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_16.pdf",
-      "composite_sha256": "403bc60429aa1586a7aebe1686713d7e5a6c439a367b042b8cc9e9c5ffd55307"
+      "composite_sha256": "3a7a509566311ec2a9416b0a75606b68a1e6ae3d642ee3b5185b1d029a659489"
     },
     {
       "figure": "eFigure_17",
@@ -862,7 +862,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "57028625c8ec991ae46bd963dc46eae6a3e72c746c231c93b8544ceeb79115ee",
+          "pdf_sha256": "d921abddb812f55f1c04565c2d8ce42471383ebf8ead1cfb469406b0b033ebfd",
           "svg_sha256": "f8a699575c43221940f9de1e5da258c1de422322e4f78adbf5ec8a56d66b342e",
           "png_sha256": "1272ddcf3f018ae1f36948b145d6bc2a8370e4aa3cac357a670d75e9f81c85d7",
           "text_content_unchanged": true,
@@ -885,7 +885,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "27c519f2c4d7595197857156df28afb644cac09952d88e67f9e3f9db223c1f6a",
+          "pdf_sha256": "a4bac8ce7118b6ed0564342612d9fbb3150632cf87a7c680aea591a627b2539e",
           "svg_sha256": "fedb3b042723b7ef5fdf1195e3732009bf1f3e50676ec3f6726f5725ddd1ae73",
           "png_sha256": "03f35223f8f9a9fa758027606eb5494dddda29d58abf91a6af84d2818b61eedc",
           "text_content_unchanged": true,
@@ -893,7 +893,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_17.pdf",
-      "composite_sha256": "4c09bf3e2195d31039d28072dd7d1f7234c4284916119ce6ca41c92b5ceb1c97"
+      "composite_sha256": "065328656da4a50fd7e2e1c4f446fdca632b1d300e0ca17c7cf83a52f56ca22a"
     },
     {
       "figure": "eFigure_18",
@@ -919,7 +919,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "439717b90200c287d2e308d878ab5f4ce44fd5c940881ee5ad9b5a8ca2621e3b",
+          "pdf_sha256": "51b45c60449982b8586a12f8013a56781a1a07e160054ab9cf5561d55256fc71",
           "svg_sha256": "dcb95f16df3131f4f702676dc2426aecc950ca3e7eece969356d3899f9e43933",
           "png_sha256": "ed2679954ec3d5e4275a3204a1b7d1484079d2954d33ff102bda7452129f41d1",
           "text_content_unchanged": true,
@@ -942,7 +942,7 @@
             "Arial-BoldMT",
             "ArialMT"
           ],
-          "pdf_sha256": "3c4af7e9af00434f2677aff4f355f1b87d0c9fb6acd87bf66bb1a92fdfaa7c6d",
+          "pdf_sha256": "c0f5639d82e4da22027aa5dc51febcecd8ce309189c429253c405d3fe262f7d1",
           "svg_sha256": "b6324917e57ee4a09312935128339f38b893eb4e785f8731c4c9bb6f31560323",
           "png_sha256": "926607488bf0b9a513a03f0e92d09a9d0fd96b70e9e8a5d4f0c6ba81f1f90363",
           "text_content_unchanged": true,
@@ -950,7 +950,7 @@
         }
       ],
       "composite_pdf": "composites/eFigure_18.pdf",
-      "composite_sha256": "4e70b147598fa403b89a0b32692f828d681306aa625c34287833a6f863519882"
+      "composite_sha256": "ecdd4b6aba4fd147c337b071b148e19e0a13aaa0b3fbf60f9857a4731e913281"
     }
   ],
   "pages": [
@@ -972,7 +972,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "86cdd80afabfe7aecb28f37c313187dd9476973e913813a3993f92a7e812c8a1",
+      "pdf_sha256": "6b22f483205aae1280bf0e6f5589f1f34c117f694b112424bdba9da913517a41",
       "svg_sha256": "564bd294af3c4b6913b27a1e222ee108ffc788e797f4db6a3450d7fb53c5d7de",
       "png_sha256": "ec9715d50a7dc5f6546bf4623f28a2efe22974274ddcc213e84fb25ada735b19",
       "text_content_unchanged": true,
@@ -996,7 +996,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "193027f662944041b3f9959a9ac07584b75fdbe58f25ee20a0e1f3a0fbefd85a",
+      "pdf_sha256": "4c8b350cf0a4c528dab60c854e7e469da8bdc1a6085ac62299b8ab823df7a438",
       "svg_sha256": "5ac6f09bc9526150bccd3df0eadc799b5e7c483fb3f662d9b3ca88fe4aa073a6",
       "png_sha256": "2128c55263c92c08336ea5195c6513a890f6b5a294d77b00bdc29943f70f70b0",
       "text_content_unchanged": true,
@@ -1020,9 +1020,9 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "f1d4fb1d215220fe8449da67fb6796b961d43cf95e2f0cb826a11db50c0da1ef",
-      "svg_sha256": "a2e33fe14ab2b8bf5a24c8669909d86c38fd076f573af6ad624698e1573826c7",
-      "png_sha256": "77f2fc4ce157c37fdf3d0dd8cd94916474ff618c3de1cbc0ddbcbab800e6d3eb",
+      "pdf_sha256": "d7dd0a8dca8c5ff84c512ff121c2af55409aba0a1a17b0d7d0782523d22809e2",
+      "svg_sha256": "7b4905442a866e901a4258fe3e0eee571acbe482afa7f81ae2bf7e86d21326a8",
+      "png_sha256": "22bb6420d487f6631559bf3e8317f9e93b85047e6728ac5cc6595edbf0feab4b",
       "text_content_unchanged": true,
       "raster_images": 0
     },
@@ -1044,7 +1044,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "b67ba02cde36324b173bd0cf1b311ee952c58deb9b53218e7e1455badceb9adb",
+      "pdf_sha256": "8ddd36fd8290d1580ad9e6c9bcbb9cb8ad426d65eaedd3cf78a919ef02b82e20",
       "svg_sha256": "f4db3ca5613f5b45f620c83b8cdbe43572b2e7d8e95b35b5bc4d90defa88e84f",
       "png_sha256": "30f5c39ba1e6d2e6c8599107680de5f4abd864891b53d0a19417ff0afa90ed46",
       "text_content_unchanged": true,
@@ -1068,7 +1068,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "11201539c482d5b97603bddb9bb6500abc6ff61e81c9c16b44ecf2a9a9af4acb",
+      "pdf_sha256": "b716e432b358e245e6ca01ef27247b7e9b238dc9373d2b6ee3ebf1ff0bb33d1b",
       "svg_sha256": "6a27468c3f87872a9d75ab7ef2a8d1d861a2b2692643aa49ceb2a4a995458323",
       "png_sha256": "001a189291353786650284237cc4cf789eae704211a21c6070bc02a54e0a7590",
       "text_content_unchanged": true,
@@ -1092,7 +1092,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "acc85b1e46840f49c4923af19eb19fccfae646122b682da24fddc04d46dca473",
+      "pdf_sha256": "5099f60b19ee3ef5787253a485dc33d1ad1bdcc1b2292dcb62d7453aae1f14db",
       "svg_sha256": "ec7eb45159331f1f493f7fd81b4244e92c3c34a59854c5cc20492086173a5064",
       "png_sha256": "aba735ba5adff2559e630ee426411ec6d41110d226d5ff4617f95d57698f7086",
       "text_content_unchanged": true,
@@ -1115,7 +1115,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "92d884704b01f0ea277da8f25fa3541b302163b1ad7e36cbed108b4c7386a5ae",
+      "pdf_sha256": "16aacdf793bdf1aa2730a335eddd84e6613af1dadfb72db6e714965b440d9829",
       "svg_sha256": "205c5f13aa12123d6b95ad2429d389329b75a8a3987236c6bc326d9bf5b400e3",
       "png_sha256": "1e92032c714583ea92868ab49adfb0223939f7b03fab47bf69d8007d761cdea7",
       "text_content_unchanged": true,
@@ -1138,7 +1138,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "9a8a2e551d0c55d73093cf095e8558763f2f9b57393b4d6e556af13df2220f61",
+      "pdf_sha256": "ae8cfa105b59ddc5d6bd0487c582e3c63cef5e1b0384ad341e4cfcf8f8e1f94f",
       "svg_sha256": "1e20244e0ba10b1c7745dcf5fba40a913cf6190afb8552a230ca949cb35bcc62",
       "png_sha256": "b56139ed2219d8036d6c601f95188ae1c569b9c93c88679f3c84b5210e76e3a1",
       "text_content_unchanged": true,
@@ -1162,7 +1162,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "72909bb51c75ffa31873339368b86a4975f50220066581b8563cf211fb2754d4",
+      "pdf_sha256": "b2d04634dcc0c06ec7c4eeb959ad288707c1dbcabf0876e3cd605f65954c9bce",
       "svg_sha256": "bd3d4ed375580176b2aa09332999df6c217329c9cda5c7475de4ac2ea363d446",
       "png_sha256": "64a82bfb291348b56c26d68912a5930663bd1b2af7032ed6880d6ae2b6afa001",
       "text_content_unchanged": true,
@@ -1185,7 +1185,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "4c812a33bc6a637a8d1193273f53833fb5dc0c8d73e10b03543029609dca15a1",
+      "pdf_sha256": "87f0e6527c708acd1886436d01389b07d433674ecda36d397fd589bfb5597ca8",
       "svg_sha256": "f752fd816855f6fb78a8d8ad95224fbc9405fe9b7a4e4154ef9baef28b3cf5cb",
       "png_sha256": "a432ad6612bdd32987a1f8426e9ce93eb49a7ae187bfa73791343d1edb8db749",
       "text_content_unchanged": true,
@@ -1209,7 +1209,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "8cb72fc5ce4760af710c15353328d4a635a436d1f6951704f4d3370e090b7e2c",
+      "pdf_sha256": "2608f3eaa028a63292ac8162a1f5a3b55e9ea89572f518119ea1274639eac3bb",
       "svg_sha256": "89f830e7077bdafcaed14b4b0e0541a240491d0738ad5e225fd089129f89317b",
       "png_sha256": "6a52b7d4d2401363b899f5cd444f38962ab211caae9516c88dc5c1de49b0a35b",
       "text_content_unchanged": true,
@@ -1233,7 +1233,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "8c581768c1263be779d5900e3ed8308bca87de4a295652cba3ee1ddb1d6d1157",
+      "pdf_sha256": "f2b413073ac4eae3332f194b52c98e51902e3ded871703c55eb85691b8e1e20d",
       "svg_sha256": "96b9fe957da6933b435f3ff91431c6ccc7608fc9c56175873917fe1e3be40313",
       "png_sha256": "6f295d90f4719076d3f18e22f39197a4c6c1338f17043e56c16cc321859399e1",
       "text_content_unchanged": true,
@@ -1257,7 +1257,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "cbde5cd2b0627749e184f4d6195b7008c9ed6272108c75ee94a3b65ea1fe6f40",
+      "pdf_sha256": "c31c8b4853acb54725c930d0a6ceafc7b48949616b836eaec6b7d20b67718401",
       "svg_sha256": "226640b52094335f67a61036d2f35f76e98fac3da58b52098afca898ccbfb4ee",
       "png_sha256": "b5b97180513bb2bf3475751444defae812f92abc22c0289b35e08cddfa491620",
       "text_content_unchanged": true,
@@ -1281,7 +1281,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "ee3575410cfb52305666d197c5920dbb4d4f6923b2b26e3f7a601d40d29834f5",
+      "pdf_sha256": "54a142fff1d2090718c0a6abdb13fe37ed4b461438d24dcdaae320a3b172ca89",
       "svg_sha256": "c038d7695a8ecebe08b4be8818c53e255ef3797cba8bbdc830fe45480e1606a2",
       "png_sha256": "1f0d65b2240b91c047141c1a055a995f0f329efe554af696837df2ca92b601da",
       "text_content_unchanged": true,
@@ -1304,7 +1304,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "9120ed455d18d76c684809f39568e5f6d05f829d0817c35b0314933a378cc230",
+      "pdf_sha256": "1c6f2855c24f8f248d8d41182de61adfe4a4b32cae03159e5d890bbd4ce4339e",
       "svg_sha256": "204a0c77738af37bd21de13a3a73db1b9c0a40d7827f3f1463cb1fc50c4ef015",
       "png_sha256": "971921368cf581a630ca3be8398c461ddf5dd16352f9eb931476c12b7c2c37b9",
       "text_content_unchanged": true,
@@ -1327,7 +1327,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "b8fbd91766623adf1fb24237d4ebc494aefdc1dd06875392de74d5de1a4c31a6",
+      "pdf_sha256": "35502fb00c9bb9e80ab7d981d26a4a86f4771466e76a2e777ef145c5bfd615e0",
       "svg_sha256": "29b8e1a0b2dd0d71334ac865e0d874f873ca02b7b07b34c2888094242468b229",
       "png_sha256": "ed0e43a3ad002576cc34c39f832142118a9a6779020efa9d34f8e5fe065367f1",
       "text_content_unchanged": true,
@@ -1351,7 +1351,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "93d4a101abc7f0c0ecfde423ba6eae31c2bca338911ed96e9c8d3de2314fdac8",
+      "pdf_sha256": "d780ac8f97213989d1ce696763169db1ab5dbdbf453ffcb8cb67469bd36aeb65",
       "svg_sha256": "a256e056425bc51d2821468552131a0986c92dec83c6d6e000ce3ad9ed97a3f9",
       "png_sha256": "492036532cce6dbcd864ef825163719b136fd76cd9550bf93de61611e08321cc",
       "text_content_unchanged": true,
@@ -1375,7 +1375,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "c630c08ef56deeedc4273eb4e21d2f9836bfcf733e19fb09ea2caa483c463754",
+      "pdf_sha256": "0f85b798d598327ae5709fc4f85d5d10d1373bba7df36e8db32df805a69a9483",
       "svg_sha256": "be27dfaf8bc1509221c83ace91cee914862badfc7fdfc2f21b01677e17ed404e",
       "png_sha256": "90e1f7b0c89aba3fe193bcdbf85e85a31a499c15c4001e448163c55797c1c494",
       "text_content_unchanged": true,
@@ -1399,7 +1399,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "0c5bfdef3c0cb55c34b59fb2182520388f7cf71243fda14ea49b9b61f7cd8038",
+      "pdf_sha256": "9e826e9ec3c419b75bc3051b9b7705bf788de161f79f8088493cb907417bb528",
       "svg_sha256": "fdd9803d8bd81a674e60cae59f2d70a9573839c248b9190fbfc54e65e29aee7e",
       "png_sha256": "ceee75f26330473c4210e72c7b37e453b8696b3853aef949295e786e00c4309e",
       "text_content_unchanged": true,
@@ -1423,7 +1423,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "396f90be9507576a72ef0f12d99f6759169feff227f3ee4db38c1c3d7db7bea8",
+      "pdf_sha256": "107b38522e88559f875f370add50fe03c86245d92c5d33ac0d4c06c06f72edd5",
       "svg_sha256": "c435915e7adb8c2bdfe07ba0093b0d10cc9f85c47f3d3242f0fe09a5f9830ce6",
       "png_sha256": "de34a64fe988d6d325b119255b2bf2bd2f783400b47a7cdc2cb73a116914ab70",
       "text_content_unchanged": true,
@@ -1447,7 +1447,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "206520fbade1d3164a83165cfd2002a80f9af91afcf7e8a2dccac522b5ea8243",
+      "pdf_sha256": "9b06ffa7b71b3c504ecf2b24ffaa03eb89d17163a7c489f0187164550a5cf4ec",
       "svg_sha256": "1bedd911fbcfddcbc86fa20387ed8feaa1d9508f287b4d6356b76f37bde79c49",
       "png_sha256": "6eb44747f7f152e286a94ac448eccfad3f64d3ec8c189752a495d0a51e86b7fa",
       "text_content_unchanged": true,
@@ -1471,7 +1471,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "78871701d794d1dfca77f685c7d2c5ff5cd6ab52b188299c515f9b9b46c85dcf",
+      "pdf_sha256": "e547f8d3446ffc40a961cbd6447457719ead91de0a76b1569493a150429635b4",
       "svg_sha256": "f97503c88e513041ac7c6820ec1548dbe6a362a569789c4b3e66dee2a23e70b0",
       "png_sha256": "853811c9a894735f35fbbc705baef3d62df72ed4cb1f681bbad30034a3cbb34a",
       "text_content_unchanged": true,
@@ -1495,7 +1495,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "93c2476a50c335f4ed1c2a5a7bca7954b420149bb5032ba0904d6dc2c8890086",
+      "pdf_sha256": "51a715916af1d09793a82367c4b8e9f6752bab5396620636fc1b9123ca74716b",
       "svg_sha256": "cd4740392e1a195e4a3314c8231be7e60d4ce53980511a2b3b83ef9cf7832375",
       "png_sha256": "9b1d4db3985b05502b900abc2d3c9884ee13242531f5c656a9cef8d245ef627f",
       "text_content_unchanged": true,
@@ -1519,7 +1519,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "bff6211e8a9a7f4ac3c6c6205e33e48c590d8029c3be619a3564e8ef6d471984",
+      "pdf_sha256": "fe5e134ab967043000da735bc33b25509647e4589a1378a26a34bf774deca8dc",
       "svg_sha256": "e264df2cc20ae4dde31c9d5d679dbd44cdad98853ba8338c9be0f267a988742b",
       "png_sha256": "05c6c4a17bc81a68a0f3fc3de05350e13ab249d9bff96212e5355a0986bf6927",
       "text_content_unchanged": true,
@@ -1543,7 +1543,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "5b499a859b426ac7954673a9a7a36d4951f1523366520cc435439bb0d322aa64",
+      "pdf_sha256": "b4f29a0df83b893c240a8ff6c4df3e345906c43544ea1038035f80f1bb93198b",
       "svg_sha256": "7040a237a3b9e8f425ec42d335bf1d3f943ecf2b892df682ab1dc0eb8e8f9488",
       "png_sha256": "eb225b76a803516ba779096fdee1e348523c3b2626ac730e772d84ac7eb1c6a5",
       "text_content_unchanged": true,
@@ -1567,7 +1567,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "eb2db6f0948db805eab42be439a7cef3c49e76f321e1f42ea64ff5a67bc79171",
+      "pdf_sha256": "0d7e8e9dd3d95dbfeb8b5bf4cfd8a18084c04546f1a084dd7ca70bf030e5e7fc",
       "svg_sha256": "4eb60cdf4e77a1e5d0f7e1f3b23883dddadc3887c3f005817c39cd40d69d7806",
       "png_sha256": "7f122d33dcf629dfbf252a35de8507890cde44fdf81cfad3c6b348bb864d6889",
       "text_content_unchanged": true,
@@ -1591,7 +1591,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "46fb771182f94d73e053ad98b19ce6eac70a04f820191f26c77a0109f6afb8a7",
+      "pdf_sha256": "abdfaf569f7be347a1c55d061d633d942e9dbf63c31ede0e9254d1ffa6f32151",
       "svg_sha256": "de481187b31d2b0ad8f1c3efbf70130e20ac7c989522f602ec6d0ddd17432d0d",
       "png_sha256": "681609e1be40b1bf50abbe22d96aa612ad96fac900d53085227ad4c3661037b2",
       "text_content_unchanged": true,
@@ -1614,7 +1614,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "57028625c8ec991ae46bd963dc46eae6a3e72c746c231c93b8544ceeb79115ee",
+      "pdf_sha256": "d921abddb812f55f1c04565c2d8ce42471383ebf8ead1cfb469406b0b033ebfd",
       "svg_sha256": "f8a699575c43221940f9de1e5da258c1de422322e4f78adbf5ec8a56d66b342e",
       "png_sha256": "1272ddcf3f018ae1f36948b145d6bc2a8370e4aa3cac357a670d75e9f81c85d7",
       "text_content_unchanged": true,
@@ -1637,7 +1637,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "27c519f2c4d7595197857156df28afb644cac09952d88e67f9e3f9db223c1f6a",
+      "pdf_sha256": "a4bac8ce7118b6ed0564342612d9fbb3150632cf87a7c680aea591a627b2539e",
       "svg_sha256": "fedb3b042723b7ef5fdf1195e3732009bf1f3e50676ec3f6726f5725ddd1ae73",
       "png_sha256": "03f35223f8f9a9fa758027606eb5494dddda29d58abf91a6af84d2818b61eedc",
       "text_content_unchanged": true,
@@ -1660,7 +1660,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "439717b90200c287d2e308d878ab5f4ce44fd5c940881ee5ad9b5a8ca2621e3b",
+      "pdf_sha256": "51b45c60449982b8586a12f8013a56781a1a07e160054ab9cf5561d55256fc71",
       "svg_sha256": "dcb95f16df3131f4f702676dc2426aecc950ca3e7eece969356d3899f9e43933",
       "png_sha256": "ed2679954ec3d5e4275a3204a1b7d1484079d2954d33ff102bda7452129f41d1",
       "text_content_unchanged": true,
@@ -1683,7 +1683,7 @@
         "Arial-BoldMT",
         "ArialMT"
       ],
-      "pdf_sha256": "3c4af7e9af00434f2677aff4f355f1b87d0c9fb6acd87bf66bb1a92fdfaa7c6d",
+      "pdf_sha256": "c0f5639d82e4da22027aa5dc51febcecd8ce309189c429253c405d3fe262f7d1",
       "svg_sha256": "b6324917e57ee4a09312935128339f38b893eb4e785f8731c4c9bb6f31560323",
       "png_sha256": "926607488bf0b9a513a03f0e92d09a9d0fd96b70e9e8a5d4f0c6ba81f1f90363",
       "text_content_unchanged": true,
@@ -2058,16 +2058,16 @@
           "height_mm": 90.0,
           "axes_position": [
             0.29,
-            0.25555555555555554,
+            0.19,
             0.685,
-            0.6344444444444445
+            0.7
           ],
           "outside_text": []
         }
       ],
       "numeric_texts": [],
-      "pdf_sha256": "e7704cf0825cafa1037d67fbf55aee2f9fd07971cdb276a9081007604b072a14",
-      "svg_sha256": "49e47ebf28fd70999be46462470bf9f0e291974fcd1adeb93341162af8eaae52",
+      "pdf_sha256": "0ff05cc473b1b4720a52f867cda3fce316138a04cb29328590b352d11c3b6f98",
+      "svg_sha256": "e5a1b13b8ae6c9c1d0605ada669d98c88a1bd4f766660ea24cea8460f487b1ea",
       "pdf_qualification": {
         "file": "panels/eFigure_2/eFigure_2_A.pdf",
         "pages": 1,
@@ -2079,10 +2079,10 @@
           "ArialMT"
         ],
         "raster_images": 0,
-        "text_sha256": "c9b14b68b2eb31cc1696e970577fb34a54889a34be2b3d71f6bc9bc1b51d7476",
-        "sha256": "e7704cf0825cafa1037d67fbf55aee2f9fd07971cdb276a9081007604b072a14"
+        "text_sha256": "f016d9bf607d650a8d8406f975ae1fe18cbcc2190518e8abd8fc1e1c059c4b54",
+        "sha256": "0ff05cc473b1b4720a52f867cda3fce316138a04cb29328590b352d11c3b6f98"
       },
-      "svg_editable_text_elements": 13
+      "svg_editable_text_elements": 10
     },
     {
       "figure": "eFigure_2",
@@ -2113,8 +2113,8 @@
         }
       ],
       "numeric_texts": [],
-      "pdf_sha256": "1ebb5eeba1edab6e3a7302ceb23138f99c1059ce515b1b9df4536a7feb6eaf20",
-      "svg_sha256": "1e7b8efe95c8045f314d0d34a0ab39558227c8143d2f97d89ce0ddf399804b39",
+      "pdf_sha256": "44c5c604f4cbe1956b1785ee2b008dc953a3289dbd9f8e6441623d12da7c65e7",
+      "svg_sha256": "95facc5a792b523c322d796dbc42dea097b00fe69d7dab1c6c773c3458f4a71a",
       "pdf_qualification": {
         "file": "panels/eFigure_2/eFigure_2_B.pdf",
         "pages": 1,
@@ -2127,7 +2127,7 @@
         ],
         "raster_images": 0,
         "text_sha256": "80bd908099191f87fa4fdab4da482ed581938f0efa232cd9e3c15520483889e7",
-        "sha256": "1ebb5eeba1edab6e3a7302ceb23138f99c1059ce515b1b9df4536a7feb6eaf20"
+        "sha256": "44c5c604f4cbe1956b1785ee2b008dc953a3289dbd9f8e6441623d12da7c65e7"
       },
       "svg_editable_text_elements": 23
     },
@@ -4534,7 +4534,7 @@
     "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/MIMIC_DELETION_SENSITIVITY.csv": "aea26a2a372366a8bcbda2ad86fd6fbe822ff1445ebf1c5ba430ae08007e70ab",
     "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/DAILY_SUMMARY.csv": "dc93cb91f20d8436a89bd53df8b8b2ca19293bba3214667d4e992d345e413c6e"
   },
-  "export_script_sha256": "077abbe9b845ce171ec33788372a25fcc50a9a788085d6a264366ff82ddabc51",
+  "export_script_sha256": "0c79132c97f8eec0083230b60ba6e413f1a974139b30fe24360468ed0bca6b43",
   "compose_script_sha256": "2b09a90857232e08930bcba24e504337c90c30781a4fa65f5087ffe77e4e836d",
   "new_statistics": 0,
   "frozen_numerical_artists_and_intervals_unchanged": true,
@@ -4544,9 +4544,9 @@
   "vector_page_assembly_no_rasterization": true,
   "final_visual_review": "PASS",
   "contact_sheets": 8,
-  "accepted_utc": "2026-11-08T09:21:43.071997+00:00",
+  "accepted_utc": "2026-11-08T09:48:59.681778+00:00",
   "canonical_standalone_panel_paths": true,
-  "visual_review_sha256": "7cadbaf81483d496aca979753e802b8e4e0d1fb16804fd52eb1705baabb85879",
-  "nature_source_validation_sha256": "7759c566ca077c7cb43d1060f57e14a5fc084313877f985b361ab99b59d3dad5",
+  "visual_review_sha256": "35c1850e9b9bc544b376bb888cca36e98f247ea54675781c2be083d653aad199",
+  "nature_source_validation_sha256": "102b53c531cd6ee6563ce26c1248daac0ed489f7c90646eed55242327e4fa4c2",
   "skill_application_sha256": "bbb95bba583804aac90c6e0263c7b1c48a992db50af891d5a92e8333b5f9713f"
 }

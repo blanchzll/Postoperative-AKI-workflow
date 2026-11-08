@@ -1,2 +1,2 @@
-# JNO supplemental figure format repair
-User authorizes all final figure/code work; coordinated division gives this thread exclusive ownership of18 supplemental figure exports. Preserve frozen source estimates, uncertainty, labels and units. Only typography/layout/vector export, Arial10pt actual170mm pages, each panel PDF/SVG/PNG. Writing thread alone owns manuscript, Word integration, and public upload. Fonts are private runtime assets and must not enter public archive. No models, bootstrap or new simulations.
+# R3 JNO shared-legend export correction
+User authorizes final figure/package completion. Preserve v1 accepted038d/f91e untouched. Only eFigure2 is re-rendered: global reference-grid legend belongs toB, notA. No points,CIs,numeric annotations, data, models or statistics change. Other17 supplemental figures retain source panel bytes. Writing thread owns Word/cover/package/publication. Private fonts remain external.

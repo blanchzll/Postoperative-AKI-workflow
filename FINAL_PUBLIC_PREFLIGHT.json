@@ -1,7 +1,7 @@
 {
   "status": "PASS_COMPLETE_CURRENT_CODE_COVERAGE_AST_AND_CREDENTIAL_PATTERN_SCAN",
-  "package_executable_paths": 384,
-  "public_python_source_copies": 421,
+  "package_executable_paths": 385,
+  "public_python_source_copies": 423,
   "all_python_AST_pass": true,
   "credential_pattern_hits": [],
   "patient_level_states_and_font_binaries_excluded": true,

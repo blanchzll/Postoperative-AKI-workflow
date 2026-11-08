@@ -1,6 +1,6 @@
 {
   "status": "PASS_JNO_SUPPLEMENT_FIGURE_EXPORTS",
-  "accepted_utc": "2026-11-08T09:21:43.071997+00:00",
+  "accepted_utc": "2026-11-08T09:48:59.681778+00:00",
   "figures": 18,
   "native_panels": 53,
   "vector_pages": 31,
@@ -17,17 +17,20 @@
   "new_accepted_panels_preserved": 8,
   "source_hashes_unchanged": true,
   "new_statistics": 0,
-  "manifest_sha256": "f91e4d022d160b5c9f7643b14d82e37f071248a9a489d716b830dfab84b5e7f9",
-  "source_output_manifest_sha256": "337eadde662871b9bbfcae25c1833b7b210d19c6780a0addb21907f332134017",
-  "visual_review_sha256": "7cadbaf81483d496aca979753e802b8e4e0d1fb16804fd52eb1705baabb85879",
+  "manifest_sha256": "f6a4b8d9eccb5900dc8e23b4c82a9446ac84df5ed0c224207d946bd40b185099",
+  "source_output_manifest_sha256": "2f1004afdbb964cc03d3c06dfcd88fb28f9efa6068f4c0fd5c1107abb7fcd9da",
+  "visual_review_sha256": "35c1850e9b9bc544b376bb888cca36e98f247ea54675781c2be083d653aad199",
   "font_files_in_bundle": false,
   "bundle": {
-    "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/JNO_FIGURE_HANDOFF.zip",
-    "sha256": "06c54bcc0b4882119c353fe2fbe90793967460d01d6cf87681f3216e8622b98c",
-    "files": 294,
-    "bytes": 13412964,
+    "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v2/JNO_FIGURE_HANDOFF.zip",
+    "sha256": "4b52586a338b519377a589bc92ca769a4c3aad430959c016553d9e5c91d26964",
+    "files": 297,
+    "bytes": 13389500,
     "CRC": "PASS"
   },
+  "previous_figure_acceptance_sha256": "038d32d2766a522d8d88fbbc7a89baf40613f9d0f041fbf598a7499262869eb0",
+  "r3_verification_sha256": "98e95109b3671541712cf38c2a108c4dbbcd4d2a2fb1bebea2dd4eb6000fc8af",
+  "other51_panel_PDF_bytes_unchanged": true,
   "writing_thread_final_Word_and_publication_required": true,
   "whole_goal_complete": false
 }

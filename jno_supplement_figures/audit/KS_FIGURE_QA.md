@@ -1,6 +1,6 @@
 # Figure QA inventory
 
-- Target: `/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/pages`
+- Target: `/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v2/pages`
 - Files: 93
 
 | File | Format | Size | Note |

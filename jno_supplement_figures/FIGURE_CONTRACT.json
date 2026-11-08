@@ -1,6 +1,6 @@
 {
-  "task": "AKI_JNO_SUPPLEMENT_FORMAT_20261108_V1",
-  "locked_utc": "2026-11-08T08:50:34.761263+00:00",
+  "task": "AKI_JNO_SUPPLEMENT_FORMAT_20261108_V2_R3",
+  "locked_utc": "2026-11-08T09:44:17.816103+00:00",
   "scientific_acceptance_sha256": "e1bea0d540cbe005e694eda24da405a53382bc7315522202d7db657b690b6a6c",
   "primary_journal_source": "https://jamanetwork.com/journals/jamanetworkopen/pages/instructions-for-authors",
   "font": "Arial",
@@ -58,5 +58,8 @@
   "CPU_affinity_count": 48,
   "MemAvailable": "MemAvailable:   56880584 kB",
   "expected_own_peak_RSS_MiB": 1200,
-  "GPU": "No supported throughput gain for exact native Matplotlib vector serialization; other GPU jobs preserved."
+  "GPU": "No supported throughput gain for exact native Matplotlib vector serialization; other GPU jobs preserved.",
+  "previous_figure_acceptance_sha256": "038d32d2766a522d8d88fbbc7a89baf40613f9d0f041fbf598a7499262869eb0",
+  "previous_page_manifest_sha256": "f91e4d022d160b5c9f7643b14d82e37f071248a9a489d716b830dfab84b5e7f9",
+  "scope": "Correct eFigure2A shared-legend attribution only;B retains grid legend;other17 figures reuse accepted native panel bytes. Record all4 source-global-legend mappings once."
 }

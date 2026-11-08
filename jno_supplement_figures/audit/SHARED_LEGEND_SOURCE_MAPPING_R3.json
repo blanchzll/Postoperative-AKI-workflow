@@ -1,0 +1,67 @@
+{
+  "status": "PASS_FOUR_SOURCE_LEGEND_MAPPINGS_CLOSED",
+  "reviewer": "Root Codex plus writing-thread source cross-check;not human expert panel",
+  "source_global_legend_calls": 4,
+  "mappings": [
+    {
+      "figure": "eFigure2",
+      "legend": "U<delta/U>=delta/exact upper bound U",
+      "applicable_panels": [
+        "B"
+      ],
+      "repair": "Do not copy ontoA point-estimate plot;numeric artists/annotation values unchanged."
+    },
+    {
+      "figure": "eFigure5",
+      "legend": "Original/Offset MAP/Logistic MAP",
+      "applicable_panels": [
+        "A",
+        "B"
+      ],
+      "disposition": "Shared three-method key retained fromsource;A includes original circles;B shows only square/triangle updating contrasts, with Original circle an unused reference key and no circle point mislabeled."
+    },
+    {
+      "figure": "eFigure13",
+      "legend": "RRR-10%/0%/20%",
+      "applicable_panels": [
+        "D"
+      ],
+      "disposition": "Existing D-only filter retained."
+    },
+    {
+      "figure": "mainFigure3",
+      "legend": "Calibrated/raw equal-capture boundaries",
+      "applicable_panels": [
+        "A",
+        "B"
+      ],
+      "disposition": "Both axes use these series;main figure exports unchanged."
+    }
+  ],
+  "source_numeric_estimates_changed": false,
+  "previous_acceptance_sha256": "038d32d2766a522d8d88fbbc7a89baf40613f9d0f041fbf598a7499262869eb0",
+  "eFigure2_A_has_no_B_only_key": true,
+  "eFigure2_B_retains_reference_grid_key": true,
+  "source_call_locations": [
+    {
+      "source": "build_figures.py",
+      "line": 322,
+      "figure": "eFigure5"
+    },
+    {
+      "source": "build_figures.py",
+      "line": 454,
+      "figure": "eFigure2"
+    },
+    {
+      "source": "build_figures.py",
+      "line": 496,
+      "figure": "eFigure13"
+    },
+    {
+      "source": "gen_fig_novelty.py",
+      "line": 48,
+      "figure": "mainFigure3"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "status": "PASS_R3_LEGEND_ATTRIBUTION_AND_FROZEN_VALUES",
+  "utc": "2026-11-08T09:48:59.004291+00:00",
+  "source_global_legend_calls_checked": 4,
+  "panels_with_numeric_and_annotation_fingerprints_unchanged": 53,
+  "unaffected_panel_PDFs_byte_identical": 51,
+  "unaffected_contact_sheets_byte_identical": 7,
+  "eFigure2_A_wrong_key_removed": true,
+  "eFigure2_B_correct_key_retained": true,
+  "previous_figure_acceptance_sha256": "038d32d2766a522d8d88fbbc7a89baf40613f9d0f041fbf598a7499262869eb0",
+  "rows": [
+    {
+      "figure": "eFigure_1",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_2",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": false
+    },
+    {
+      "figure": "eFigure_2",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": false
+    },
+    {
+      "figure": "eFigure_3",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_3",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_5",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_5",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_8",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_8",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_9",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_9",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_10",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_10",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_14",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_14",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "C",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "D",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_17",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_17",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_18",
+      "panel": "A",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    },
+    {
+      "figure": "eFigure_18",
+      "panel": "B",
+      "numeric_artists_unchanged": true,
+      "annotation_values_unchanged": true,
+      "unchanged_pdf_bytes": true
+    }
+  ],
+  "new_statistics": 0
+}
