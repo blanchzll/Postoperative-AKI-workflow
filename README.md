@@ -6,6 +6,8 @@ The study examines preoperative information requirements, operation-end updating
 
 ## Quick start
 
+The root ANALYSIS_CODE.zip contains the same complete source snapshot as the expanded repository tree (excluding the archive itself).
+
 Python 3.10 or later is sufficient for the aggregate arithmetic check:
 
 ~~~sh

@@ -1,7 +1,7 @@
 {
-  "status": "PRE_PUBLICATION_SOURCE_SNAPSHOT",
+  "status": "COMPLETE_ACCEPTED_PACKAGE_CODE_SOURCE_SNAPSHOT",
   "repository": "blanchzll/Postoperative-AKI-workflow",
-  "files": [
+  "source_files": [
     {
       "file": "AGGREGATE_SOURCE_MANIFEST.json",
       "bytes": 744,
@@ -19,8 +19,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 4718,
-      "sha256": "db81d2ea82d7786211be48ebfffa02bd672a996c27e7911b90df104c876bbb0a"
+      "bytes": 4853,
+      "sha256": "2ac76cf2ac129756e6612255fcdb42a4bbeda046c2e24d4c10afa289d04e7506"
     },
     {
       "file": "RELEASE_STATUS.json",
@@ -2437,5 +2437,6 @@
       "bytes": 1688,
       "sha256": "488aa74be478c5e2db897d478bb8c483d743883e399e6dcd7bfae4779b75cdd6"
     }
-  ]
+  ],
+  "archive_scope": "ANALYSIS_CODE.zip contains this full source snapshot; archive and manifest self-hashes are bound by external publication verification"
 }
