@@ -1,0 +1,53 @@
+{
+  "status": "CORRECTED_REVIEW_STATEMENT",
+  "review_inaccuracy": "Latest WorkBuddy message says the clinical supplement used zero new patient-level bootstraps.",
+  "verified_fact": "The accepted clinical supplement used 2,000 patient-group draws per evaluation context; the observation/outcome stage also records B=2000. Alternative expanded-record computations rebuilt all 2,000 draws in each of four contexts.",
+  "current_audit_new_bootstraps": 0,
+  "retained_sample_headers": [
+    {
+      "context": "geography_preop",
+      "shape": [
+        2001,
+        1159
+      ],
+      "bootstrap_replicates_excluding_point_row": 2000,
+      "dtype": "<i2",
+      "sampling_file_sha256": "dedabe74aeee4cd925201cfa3202ea13d1058911cf2725c44be6acb2796b9389"
+    },
+    {
+      "context": "geography_paired",
+      "shape": [
+        2001,
+        1158
+      ],
+      "bootstrap_replicates_excluding_point_row": 2000,
+      "dtype": "<i2",
+      "sampling_file_sha256": "51e69d1c6e4478d4f5792c6a10da9f30329b41cf6139c7c48a4fcb6efd6b87b7"
+    },
+    {
+      "context": "temporal_preop",
+      "shape": [
+        2001,
+        1683
+      ],
+      "bootstrap_replicates_excluding_point_row": 2000,
+      "dtype": "<i2",
+      "sampling_file_sha256": "cfc2ca9319693660a0cf002b719563a67d69c319077404f7e5ef8bcd1fc835a3"
+    },
+    {
+      "context": "temporal_paired",
+      "shape": [
+        2001,
+        1011
+      ],
+      "bootstrap_replicates_excluding_point_row": 2000,
+      "dtype": "<i2",
+      "sampling_file_sha256": "96e39f020e8534bf7ecb19863d4ce365dd95dfd69fae5416db5770c389590da0"
+    }
+  ],
+  "patient_run_sha256": "b8dbadbfef4aa43681492a21fd41544432a12bafdc38cde4577544958603460f",
+  "outcome_run_sha256": "c4d7c9c3f48df927a9f3fe9f0d4d7b537681d0feca7ec2597e177a535cb6aaa1",
+  "independent_verification_sha256": "10b25998d7d22c9fbf2f8b1471dc5f9697a94fa354d9b5e10de6602c54566896",
+  "new_predictive_model_fits_in_clinical_supplement": 0,
+  "human_expert_panel": false
+}

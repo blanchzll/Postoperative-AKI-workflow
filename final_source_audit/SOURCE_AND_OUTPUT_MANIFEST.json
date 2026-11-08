@@ -1,0 +1,110 @@
+{
+  "task_id": "AKI_FINAL_WORKBUDDY_ANALYSIS_20261108_V1",
+  "utc": "2026-11-08T08:25:08.147851+00:00",
+  "source_sha256": "b1adff8e76f3840029549f32f066d002aeaa572097321646c76de3785d339f75",
+  "prior_clinical_acceptance_sha256": "0fb3693e3e4b395f32d2d7d880af5f38a9a895855241b881171b08849588067e",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "9e05962077cf73a42bb198341a50fbe5aa1c6608d59f358c63f65f890827f4ed",
+      "bytes": 710
+    },
+    {
+      "path": "REQUEST.json",
+      "sha256": "4e1719cc5562aff692ce12549fd8689e9eeb2819fea25402da1da324f2f4706e",
+      "bytes": 2227
+    },
+    {
+      "path": "PROTOCOL_LOCK.json",
+      "sha256": "203a10bb43e49d11f41ca39155335535e7752694ba22610f8b6f62ed5646187a",
+      "bytes": 2234
+    },
+    {
+      "path": "README.md",
+      "sha256": "f5e5b7fe70bd7bd63ea4e0046c18ef7d27cc3f49f6045dd60223da76fdc0a8df",
+      "bytes": 1859
+    },
+    {
+      "path": "MANUSCRIPT_HANDOFF_ZH.md",
+      "sha256": "a6524d791db58d9e7c506f1b4f4c42526208c2b2f93c18a5968652c412f71d0e",
+      "bytes": 1761
+    },
+    {
+      "path": "SCIENTIFIC_REVIEW.json",
+      "sha256": "52ab341b231f07a950538c720aaad5f7956d40f8239c44a6203bebf458449b80",
+      "bytes": 3543
+    },
+    {
+      "path": "code/build_review_closure.py",
+      "sha256": "d081f23500f1d6b68839f87cea34d3a9684f0910b84d5f3b4880bbc75478acc1",
+      "bytes": 16698
+    },
+    {
+      "path": "code/final_workbuddy_audit.py",
+      "sha256": "ff6167380ee43692688332d86973bda4fdc2ce4bda6c16242c270c47c1dfb0cf",
+      "bytes": 14296
+    },
+    {
+      "path": "code/finalize_analysis_handoff.py",
+      "sha256": "08947ebb16428cd7195505bc694f6fafd6a2cb126e2acf73fcfa3349a8e34114",
+      "bytes": 7485
+    },
+    {
+      "path": "docs/ETABLE4_REPLACEMENT.md",
+      "sha256": "54fa3e4499c3af5c17a15a33af41d9ed93dc308f83db3695d699a2786f46b408",
+      "bytes": 4492
+    },
+    {
+      "path": "docs/FINAL_SCIENTIFIC_HANDOFF_ZH.md",
+      "sha256": "849b8671a9d80f8ac201914e343ab07b1a27ce970a7adb74de0b8cd09e4dfffc",
+      "bytes": 4946
+    },
+    {
+      "path": "results/AUDIT_NUMERIC_CHECKS.csv",
+      "sha256": "6b0bac6e3ae5bd41c496d35cae27946cf754e69ead0c45001037dfa27c6767cc",
+      "bytes": 19148
+    },
+    {
+      "path": "results/ETABLE4_SOURCE_MAPPED.csv",
+      "sha256": "59f79db0eaffe4e4c7c82de5d924aa4694e50a26163fb507490671a8f5c68b8f",
+      "bytes": 7540
+    },
+    {
+      "path": "results/WORKBUDDY_DELTA_CLOSURE.csv",
+      "sha256": "12d866cad1cdc9d2e3e28aa91aacd3695c4660da37a982f07e8731e438992b25",
+      "bytes": 7844
+    },
+    {
+      "path": "audit/AUDIT_LAUNCH_RESOURCES.json",
+      "sha256": "5b581351a0cffd5f9662a4227f01c8c22bfe17d5f4245dbf1a1d3fd3fcd44fe9",
+      "bytes": 306
+    },
+    {
+      "path": "audit/AUDIT_RUN.json",
+      "sha256": "fb85d7bebe7e41a04ab71c152790867068eeec60625cdb2ccb18330f4ac6c43e",
+      "bytes": 732
+    },
+    {
+      "path": "audit/BOOTSTRAP_PROVENANCE_CORRECTION.json",
+      "sha256": "28b0fe73abb020168c7a27023dbbd2843d7b24286d648295ba749c44ab885685",
+      "bytes": 1974
+    },
+    {
+      "path": "audit/ETABLE4_MAPPING_VERIFICATION.json",
+      "sha256": "b1193db9eb33e5521c988f8678f2b6fa2fd62db5264b495162e9d9c0eb7df010",
+      "bytes": 7122
+    },
+    {
+      "path": "audit/FROZEN_SOURCE_RECHECK.json",
+      "sha256": "a4ec4cd0ab15ab58ce15c6056333e8e4186aa0b1e3d6f8d580d583f8146696bd",
+      "bytes": 350
+    },
+    {
+      "path": "audit/LATEST_REVIEW_EXTRACTION_VERIFICATION.json",
+      "sha256": "2589da316166df6946de388e966f52d14c968d14346fe00be5b2d5d7dae6c1db",
+      "bytes": 355
+    }
+  ],
+  "private_raw_shared_inputs_excluded": true,
+  "new_patient_level_outputs": 0
+}

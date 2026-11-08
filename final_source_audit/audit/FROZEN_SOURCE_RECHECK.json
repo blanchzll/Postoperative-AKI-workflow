@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "prior_acceptance_sha256": "0fb3693e3e4b395f32d2d7d880af5f38a9a895855241b881171b08849588067e",
+  "owning_inputs_unchanged": 159,
+  "prior_outputs_unchanged": 90,
+  "source_manifest_sha256": "96f728c84e16fc9752e3593ea80534abe93830c82ec27a3114db98d1555f5279",
+  "failed_files": [],
+  "source_models_or_labels_modified": false
+}

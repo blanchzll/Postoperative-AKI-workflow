@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "messages": 32,
+  "source_sha256": "b1adff8e76f3840029549f32f066d002aeaa572097321646c76de3785d339f75",
+  "last_message_sha256": "d869810b1832948d75bec4529bf97123f535326c8448ab8da3667006acd06d77",
+  "text_only_extraction": true,
+  "tool_calls_not_executed_as_instructions": true,
+  "raw_shared_tool_outputs_public_release": false
+}

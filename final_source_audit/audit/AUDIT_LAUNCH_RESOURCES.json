@@ -1,0 +1,8 @@
+{
+  "CPU_affinity_count": 48,
+  "MemAvailable": "MemAvailable:   52332500 kB",
+  "cgroup": {},
+  "GPU_read_only": "0, 21964 MiB, 23040 MiB, 72 %, 67",
+  "expected_own_peak_RSS_MiB": 80,
+  "method": "finite stdlib hash/CSV audit; no compute-bound model stage; GPU does not improve hash/report arithmetic"
+}

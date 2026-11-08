@@ -1,0 +1,218 @@
+{
+  "status": "PASS_UNIQUE_SOURCE_MAPPING_REPORTING_REPAIR_REQUIRED",
+  "current_package_table": "writing_runs/github_publication_20261108_v1/package/04_Editable_sources/ETABLES.md",
+  "source_csv": "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/github_publication_20261108_v1/package/02_Code_and_aggregate_data/aggregate_data/tables/Table_S19_Stage_comparisons.csv",
+  "source_csv_sha256": "54e824dd84650357b2864db80e398842cc7c6f28536150934d1f019fb8ad35c0",
+  "source_rows": 28,
+  "metrics": [
+    "AUROC",
+    "Brier",
+    "capacity10_captured_per1000",
+    "capacity20_captured_per1000"
+  ],
+  "all_old_numeric_cells_match_explicit_source_rounding": true,
+  "metric_and_capacity_were_missing": true,
+  "incorrect_title_and_footnote": true,
+  "new_table_numeric_values_changed": false,
+  "mapped_csv_sha256": "59f79db0eaffe4e4c7c82de5d924aa4694e50a26163fb507490671a8f5c68b8f",
+  "replacement_md_sha256": "54fa3e4499c3af5c17a15a33af41d9ed93dc308f83db3695d699a2786f46b408",
+  "original_package_modified": false,
+  "row_checks": [
+    {
+      "source_row": 1,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 2,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 3,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 4,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 5,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 6,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 7,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 8,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 9,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 10,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 11,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 12,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 13,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 14,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 15,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 16,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 17,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 18,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 19,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 20,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 21,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 22,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 23,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 24,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 25,
+      "metric": "AUROC",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 26,
+      "metric": "Brier",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 27,
+      "metric": "capacity10_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    },
+    {
+      "source_row": 28,
+      "metric": "capacity20_captured_per1000",
+      "old_numbers_match_source_rounding": true,
+      "metric_missing_in_current_table": true,
+      "wrong_uniform_20_percent_footnote": true
+    }
+  ]
+}

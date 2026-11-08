@@ -22,7 +22,7 @@ The repository name was verified against GitHub repository ID 1449983323.
 
 ## Source code and environments
 
-The code/ directory mirrors every executable source file in the accepted manuscript package, including main model development/evaluation, public-source analyses, measurement sensitivity, probability-weighted resource comparisons, figure generation, and document preparation. STUDY_CODE_COVERAGE.csv binds each of the 368 package code paths to its published path and SHA256. The clinical_supplement/ directory additionally preserves the accepted November 8 handoff and its own source manifest. The original 319-file baseline check remains in SOURCE_RELEASE_PREFLIGHT.json as a dated baseline audit; FINAL_PUBLIC_PREFLIGHT.json records the expanded release. The environment_specs/ directory records the versioned tabular, foundation-model, language-model and document environments used by the study; these are separate compatible environments.
+The code/ directory mirrors every executable source file in the accepted manuscript package, including main model development/evaluation, public-source analyses, measurement sensitivity, probability-weighted resource comparisons, figure generation, and document preparation. STUDY_CODE_COVERAGE.csv binds each of the 374 package code paths to its published path and SHA256. The clinical_supplement/ directory additionally preserves the accepted November 8 handoff and its own source manifest. Dated baseline checks remain under provenance/historical/; SOURCE_RELEASE_PREFLIGHT.json and FINAL_PUBLIC_PREFLIGHT.json describe the current expanded release. The environment_specs/ directory records the versioned tabular, foundation-model, language-model and document environments used by the study; these are separate compatible environments.
 
 Historical sources retain their original project paths. Patient-level reproduction requires an authorized copy of the source data and the input/model layout described by the corresponding analysis protocol. These source files are not presented as a single portable executable package. REPRODUCIBILITY.md separates the check performed here from data-dependent stages.
 
@@ -48,6 +48,19 @@ STUDY_CODE_COVERAGE.csv covers all executable sources in the accepted manuscript
 | Probability-weighted acquisition costs | code/probabilistic_resource_analysis_20261105_v1/code/ |
 | Accepted November 8 clinical workflow, monitoring and hard-outcome supplement | clinical_supplement/code/ |
 | Manuscript figures | code/figure_code/ |
-| Current document and standalone-panel exports | code/document_code/current_revision_20261108/ |
+| Earlier accepted document and standalone-panel exports | code/document_code/current_revision_20261108/ |
+| Final table mapping, audit and typography corrections | final_source_audit/code/ |
 
 The repository includes a small aggregate quick-start example and the accepted clinical-supplement aggregates. The full submission archive contains additional aggregate tables. Patient-level modelling and resampling require authorized source inputs; data-acquisition permissions and trained-state access remain subject to the data holders' terms.
+
+## Final source and reporting update (November 8, 2026)
+
+The final_source_audit/ directory adds the source-mapped eTable 4 reporting repair, the source/scientific audit and final-size figure export/verification code. The figures reuse accepted aggregate values; no models, bootstrap samples or workflow scenarios were added. The table now identifies AUROC, Brier score and event capture at 10% and 20% review capacity separately.
+
+To render the three typography-corrected figures with the recorded plotting environment:
+
+~~~sh
+python3 final_source_audit/code/repair_final_size_figures.py --source-script clinical_supplement/code/plot_supplement.py --results clinical_supplement/results --output figures_final_size
+~~~
+
+This portable command reads aggregate CSV files. The source/scientific audit and document checks retain their server-workspace bindings and need the corresponding authorized sources. Previously dated review receipts remain historical; RELEASE_STATUS.json identifies this source snapshot.

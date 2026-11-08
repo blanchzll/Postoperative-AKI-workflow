@@ -1,0 +1,24 @@
+{
+  "task_id": "AKI_FINAL_WORKBUDDY_ANALYSIS_20261108_V1",
+  "locked_utc": "2026-11-08T08:14:33.563002+00:00",
+  "type": "post-result source and reporting audit with targeted repairs only",
+  "prior_outcome_exposure": "Existing accepted results and the WorkBuddy review were read before this protocol. This protocol is an audit contract, not a prospective statistical analysis plan.",
+  "reused_acceptance_root": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1",
+  "request_sha256": "4e1719cc5562aff692ce12549fd8689e9eeb2819fea25402da1da324f2f4706e",
+  "checks": [
+    "Verify current request, source/acceptance hashes and all 32 shared message extraction receipts.",
+    "Map every material latest recommendation to current owning evidence and a disposition.",
+    "Verify clinical supplement patient-group bootstrap provenance, key effect estimates, low-risk monitoring and endpoint/clocks against source tables/code/independent receipts.",
+    "Map current eTable4 to Table_S19 by explicit comparison/context/metric/capacity/unit and stated rounding.",
+    "Check latest source data integrity and retain adverse and sparse results.",
+    "Inspect source records for clinical timing availability and distinguish already computed recording intervals from deployable warning lead time.",
+    "Audit current figure PDFs at intended physical size for fonts, vector exports and standalone panels; coordinate any required repair with writing owner.",
+    "Complete independent arithmetic/source verification for any derived audit summary.",
+    "Obtain writing owner final editorial/scientific closure and release/code upload receipts."
+  ],
+  "new_statistical_models": 0,
+  "new_patient_level_bootstraps": 0,
+  "new_parameterized_scenarios": 0,
+  "allowed_repairs": "Source-supported local reporting/export and deterministic arithmetic repairs with original failure evidence retained; any materially new statistical work requires an explicit recorded amendment first.",
+  "reporting": "Separate new audit work from reused accepted calculations. Do not propagate WorkBuddy claim that the clinical supplement contained no patient-level bootstrap. No fabricated human expert review."
+}

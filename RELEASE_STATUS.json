@@ -1,9 +1,16 @@
 {
-  "status": "PREPARING_QUALIFIED_CODE_RELEASE",
-  "repository_id": "1449983323",
-  "repository_current_name": "blanchzll/AKI-Prediction-System",
-  "requested_name": "Postoperative-AKI-workflow",
-  "README_sha256": "11860ef94a85a3282e8ac54ceb9d57508ec394e674e371d540ae91662674740d",
-  "supplement_acceptance_pending": true,
-  "repository_rename": "connector has no repository-update tool; no attachable authenticated Chrome/Safari session available"
+  "status": "QUALIFIED_CURRENT_SOURCE_SNAPSHOT_PENDING_REMOTE_PUBLICATION",
+  "repository": "blanchzll/Postoperative-AKI-workflow",
+  "prior_verified_commit": "9902dfda68e384a1723f06b2ce7658380bffdff5",
+  "accepted_package_executable_paths": 374,
+  "public_python_file_copies": 401,
+  "final_source_audit_acceptance_sha256": "e1bea0d540cbe005e694eda24da405a53382bc7315522202d7db657b690b6a6c",
+  "patient_level_data_included": false,
+  "raw_review_conversation_included": false,
+  "new_model_fits": 0,
+  "new_bootstraps": 0,
+  "new_simulated_scenarios": 0,
+  "author_declarations_complete": false,
+  "journal_submission_performed": false,
+  "license": "No new reuse licence granted; author selection remains pending"
 }

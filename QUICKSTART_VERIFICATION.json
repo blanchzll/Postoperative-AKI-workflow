@@ -1,10 +1,10 @@
 {
   "status": "PASS_SAVED_AGGREGATE_ARITHMETIC",
+  "checked_utc": "2026-11-08T08:32:34.451884+00:00",
   "command": "python3 verify_aggregates.py",
-  "fresh_directory": "/home/lei/codex-workspaces/aki-prediction-manuscript/publication/.code_release_check_20261108_v1",
+  "working_directory": "/home/lei/codex-workspaces/aki-prediction-manuscript/publication/code_release_20261108_v3",
   "returncode": 0,
   "stdout": "{\"status\": \"PASS_SAVED_AGGREGATE_ARITHMETIC\", \"checks\": 148, \"new_fits\": 0, \"new_bootstraps\": 0}",
-  "stderr": "",
   "new_fits": 0,
   "new_bootstraps": 0,
   "full_patient_level_reproduction": false

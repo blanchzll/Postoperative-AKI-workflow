@@ -1,0 +1,29 @@
+{
+  "task_id": "AKI_FINAL_WORKBUDDY_ANALYSIS_20261108_V1",
+  "created_utc": "2026-11-08T08:14:33.563002+00:00",
+  "analysis_root": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/final_workbuddy_analysis_20261108_v1",
+  "analysis_owner_thread": "01a1b977-b819-7131-be93-23fe314aa853",
+  "writing_owner_thread": "01a192de-cc29-7d52-9dfa-42603428fc4e",
+  "user_request": "Verify latest WorkBuddy advice, close final in-scope analysis, hand off for complete clinically framed manuscript, figures and panel PDFs, supplements, cover letter, tone/watermark review, final submission package and full code publication.",
+  "latest_review_source": {
+    "path": "inputs/WORKBUDDY_LATEST_CONVERSATION.json",
+    "sha256": "b1adff8e76f3840029549f32f066d002aeaa572097321646c76de3785d339f75",
+    "last_message": "inputs/31_assistant.md",
+    "last_message_sha256": "d869810b1832948d75bec4529bf97123f535326c8448ab8da3667006acd06d77"
+  },
+  "constraints": [
+    "No further clinical information available.",
+    "Reuse corrected frozen cohorts, models, valid results and accepted clinical supplement; no new predictive fits or gratuitous simulation.",
+    "Audit actual current package and sources, not obsolete WorkBuddy round4 files.",
+    "Keep perioperative gastrointestinal cancer clinical question as main framing; retain material boundaries with each supported result once.",
+    "Do not invent experts, deployments, diagnoses, clocks, effects, safety, author or journal submission facts.",
+    "Figures use user-named skills and each panel has standalone PDF; writing thread owns final assembly and publication."
+  ],
+  "definition_of_done": [
+    "Versioned scientific acceptance with WorkBuddy delta/closure and reproducible source checks.",
+    "Existing writing thread receives accepted scientific handoff and completes current requested manuscript/package changes.",
+    "Final figures and individual panel PDFs pass source, readability and export checks.",
+    "Final text reviewed for evidence, direct writing, humanizer/lieflat suitability and unwanted watermark remnants.",
+    "Final package and all accepted research code, including this incremental audit, are uploaded with verified receipt."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "task_id": "AKI_FINAL_WORKBUDDY_ANALYSIS_20261108_V1",
+  "status": "PASS_FINAL_SOURCE_AND_SCIENTIFIC_ANALYSIS_AUDIT",
+  "accepted_utc": "2026-11-08T08:25:08.147851+00:00",
+  "analysis_root": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/final_workbuddy_analysis_20261108_v1",
+  "request_sha256": "4e1719cc5562aff692ce12549fd8689e9eeb2819fea25402da1da324f2f4706e",
+  "protocol_sha256": "203a10bb43e49d11f41ca39155335535e7752694ba22610f8b6f62ed5646187a",
+  "scientific_review_sha256": "52ab341b231f07a950538c720aaad5f7956d40f8239c44a6203bebf458449b80",
+  "manifest_sha256": "fb9969d75f22e6c209e67bc60c64bf0716a0e21ddce695fc4cf7e65113bd6d3a",
+  "source_sha256": "b1adff8e76f3840029549f32f066d002aeaa572097321646c76de3785d339f75",
+  "source_messages_verified": 32,
+  "prior_inputs_unchanged": 159,
+  "prior_outputs_unchanged": 90,
+  "aggregate_numeric_checks": 123,
+  "source_mapped_eTable4_rows": 28,
+  "recommendations_dispositioned": 20,
+  "new_predictive_fits": 0,
+  "new_bootstrap_replicates": 0,
+  "new_simulation_scenarios": 0,
+  "new_patient_data": 0,
+  "clinical_result_estimates_changed": false,
+  "prior_manuscript_package_modified": false,
+  "required_work_remaining_in_this_analysis": false,
+  "required_downstream_writing_and_publication_work_remaining": true,
+  "writing_thread_id": "01a192de-cc29-7d52-9dfa-42603428fc4e",
+  "mandatory_read_at_most_three": [
+    "SCIENTIFIC_REVIEW.json",
+    "results/WORKBUDDY_DELTA_CLOSURE.csv",
+    "docs/ETABLE4_REPLACEMENT.md"
+  ],
+  "bundle": {
+    "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/final_workbuddy_analysis_20261108_v1/ANALYSIS_HANDOFF_AGGREGATE_CODE.zip",
+    "sha256": "bb6621ddf926caaeb5977c6afd2f65a1d481726fa32d6eec4e65b1f7c47387fc",
+    "bytes": 42516,
+    "files": 21,
+    "CRC": "PASS",
+    "raw_shared_conversation_and_patient_data_excluded": true
+  },
+  "human_expert_review": false,
+  "whole_user_goal_complete": false
+}

@@ -1,14 +1,10 @@
 {
-  "checked_at": "2026-11-08T07:41:13.321257+00:00",
-  "status": "PASS_COMPLETE_ACCEPTED_PACKAGE_CODE_COVERAGE_PRE_PUBLICATION",
-  "package_code_files_covered": 368,
-  "package_Python_files": 366,
-  "public_Python_file_copies": 389,
+  "status": "PASS_CURRENT_COMPLETE_CODE_COVERAGE_AND_CREDENTIAL_PATTERN_SCAN",
+  "package_executable_paths": 374,
+  "public_python_file_copies": 401,
+  "all_python_AST_pass": true,
   "credential_pattern_hits": [],
-  "patient_level_files_excluded": true,
-  "GitHub_repository_id": 1449983323,
-  "GitHub_transport": "Authenticated gh API relay; credential remains in local OS keyring",
-  "connector_write": "403 retained as connector-specific failure",
-  "bootstrap_commit": "874d79e5d47049bfa7da5152829424586ba4562e",
-  "license": "Author selection pending; no new licence granted"
+  "coverage": "STUDY_CODE_COVERAGE.csv",
+  "prior_receipts": "provenance/historical/",
+  "patient_level_inputs_and_trained_states_excluded": true
 }
