@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+"""Freeze JNO-native figure exports following numeric, PDF/font and actual image review."""
+from pathlib import Path
+import hashlib,json,datetime,shutil,zipfile,os
+R=Path(__file__).resolve().parents[1];sha=lambda p:hashlib.sha256(Path(p).read_bytes()).hexdigest()
+def save(p,x):Path(p).write_text(json.dumps(x,ensure_ascii=False,indent=2,allow_nan=False)+'\n')
+j=json.loads((R/'PAGE_AND_PANEL_MANIFEST.json').read_text());assert (j['figures_count'],j['panels_count'],j['pages_count'])==(18,53,31)
+assert j['actual_minimum_text_pt']==10
+assert j['actual_font_families']==['Arial-BoldMT','ArialMT']
+# Canonical standalone paths; retain finite worker/provenance folders privately.
+for item in j['panels']:
+ for ext in ['pdf','svg','png']:
+  src=R/item[ext];dest=R/'panels'/item['figure']/src.name;dest.parent.mkdir(exist_ok=True);shutil.copy2(src,dest);assert sha(src)==sha(dest);item[ext]=str(dest.relative_to(R))
+ for k in ['pdf_qualification']:
+  if k in item:item[k]['file']=item['pdf']
+now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+preview_records=[]
+for i in range(1,9):
+ p=(R/'audit/pre_eFigure2B_spacing/PAGE_CONTACT_01.png') if i==1 else R/'previews'/f'PAGE_CONTACT_{i:02d}.png'
+ preview_records.append({'file':str(p.relative_to(R)),'sha256':sha(p),'direct_pixel_review':'PASS_except_eFigure2B_bottom_spacing_then_corrected'})
+corrected=R/'pages/eFigure_2_page_01.png';preview_records.append({'file':str(corrected.relative_to(R)),'sha256':sha(corrected),'direct_pixel_review':'PASS_corrected_two_line_xlabel_and_legend_separated'})
+visual={'status':'PASS_ALL_18_FIGURES_53_PANELS_31_PAGES','reviewed_utc':now,'reviewer':'Root Codex direct image inspection; not independent human expert review','contact_sheets_and_corrected_page':preview_records,'checklist':{'glyphs_and_symbols':'Arial glyphs including arrows,delta,minus,percentage andSCr readable; no visible replacement boxes.','text_and_canvas':'Every PDF checked actual font10.0 and no text outside bounds; all31 page images reviewed.','overlap_and_occlusion':'Initial eFigure17B legend/footnote and annotation clashes corrected; eFigure2B multiline xlabel/legend spacing corrected and inspected again.','panel_labels':'A/B/C/D retained and aligned in native full-width panels.','panels_and_pages':'At most2 panels per170mm page; 31 pages height≤180mm; no inter-panel intrusion.','color_and_redundancy':'Original blue/orange colors, filled/open markers and line styles retained.','data_and_uncertainty':'53 panels retain numeric artists and annotation text; 45 original supplement panel fingerprints match archived native exports;8 new panels match before/after original functions.','axes_and_units':'Original numerical scales and source-specific labels preserved; complete intervals visible in reviewed renderings.'},'source_hashes_unchanged':all(sha(p)==h for p,h in {**j['source_scripts'],**j['source_csvs']}.items()),'statistics_recomputed':False}
+save(R/'audit/FINAL_VISUAL_REVIEW.json',visual)
+validation=json.loads((R/'audit/NATURE_SOURCE_VALIDATION.json').read_text());assert validation['summary']['counts']['FAIL']==0
+save(R/'audit/NATURE_WARNING_DISPOSITIONS.json',{'status':'PASS_WITH_EXPLICIT_TARGET_JOURNAL_DISPOSITIONS','source_validation_summary':validation['summary'],'items':[{'check':'EXPORT-RASTER','disposition':'PDF/SVG are the submitted graph formats; TIFF is not required for these vector graphs. PNG is a300dpi compatibility/QA preview.'},{'check':'RASTER-DPI','disposition':'The preview is300dpi; primary PDF/SVG have native editable vector text/data and no rasterized whole figures.600dpi Nature raster default does not govern these JNO vector exports.'},{'check':'FINAL-WIDTH','disposition':'Static heuristic misreads numeric170/25.4 as170in; all53 PDF panels and31 pages were actually parsed as170mm. JNO document body width and explicit current contract govern final size.'}],'actual_width_mm':170,'actual_minimum_text_pt':10,'primary_graphs_vector':True})
+S=Path('/home/lei/codex-workspaces/skill-management/skills');snap=Path('/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/provenance/skill_snapshots')
+skills=[]
+for name,path,action in [('scipilot-figure-skill',S/'scipilot-figure-skill/SKILL.md','Source-appropriate chart types retained; panel/page contract, rendered preview review and two local layout corrections.'),('scientific-visualization',S/'scientific-visualization/SKILL.md','Preserve statistical quantities, readable physical text, color/shape redundancy, PDF/SVG native vectors.'),('ScientificFigureLibrary0.9.1',S/'figure-library/SKILL.md','Actual ready0.9.1 source status and forest-reference search recorded; no template imported or executed.'),('nature-figure',snap/'nature-figure/SKILL.md','Python backend saved in task-local config, source validator executed with zeroFAIL; explicit JNO target overrides generic dimensions/raster defaults.'),('ks-omics-figure-studio',snap/'ks-omics-figure-studio/SKILL.md','Data/claim/figure contract, native numeric/text fingerprints, actual PDF/SVG qualification and read-only project/figure QA inventory.')]:
+ skills.append({'name':name,'read_source':str(path),'sha256':sha(path),'applied':action})
+save(R/'audit/SKILL_APPLICATION.json',{'skills':skills,'private_runtime_fonts_not_public':True,'no_fabricated_expert_review':True})
+# Record finite owned process closure without signaling any unrelated process.
+live=[]
+for d in Path('/proc').iterdir():
+ if not d.name.isdigit() or int(d.name)==os.getpid():continue
+ try:parts=(d/'cmdline').read_bytes().split(b'\0')
+ except (OSError,PermissionError):continue
+ if parts and b'python' in parts[0] and any(b'export_jno_panels.py' in a or b'run_figure_batch.py' in a for a in parts[1:]):live.append(int(d.name))
+assert not live,live
+save(R/'audit/OWNED_PROCESS_CLOSURE.json',{'utc':now,'owned_export_worker_PIDs_live':live,'batch_worker_pool_joined':True,'all_owned_export_processes_exited':True,'other_jobs_signaled':False,'shared_GPU_models_unloaded':False,'current_MemAvailable':[l for l in Path('/proc/meminfo').read_text().splitlines() if l.startswith('MemAvailable:')][0]})
+j.update(status='PASS_JNO_ARIAL10_EDITABLE_VECTOR_18_FIGURES_53_PANELS_31_PAGES',final_visual_review='PASS',accepted_utc=now,canonical_standalone_panel_paths=True,visual_review_sha256=sha(R/'audit/FINAL_VISUAL_REVIEW.json'),nature_source_validation_sha256=sha(R/'audit/NATURE_SOURCE_VALIDATION.json'),skill_application_sha256=sha(R/'audit/SKILL_APPLICATION.json'))
+save(R/'PAGE_AND_PANEL_MANIFEST.json',j)
+(R/'README.md').write_text('''# JNO supplemental figure exports\n\n18 supplemental figures comprise53 native panels and31 vector pages. Each panel is supplied separately asPDF/SVG/PNG; each figure also has a multipage combinedPDF. UsePAGE_AND_PANEL_MANIFEST.json pages[] to embed SVGs at their exact170mm width with no scaling; titles/captions are added by the writing owner in the Word supplement. All actual graph text is embeddedArial10pt.\n\nFigures reuse frozen source aggregateCSV and original native plotting functions. No models, bootstrap samples, scenarios, estimates or intervals were generated. The source-script/aggregate hashes, numerical artist and annotation fingerprints, actualPDF font/text checks, reference-only FigureLibrary search and visual review are in the manifests/audit files.45 old supplemental panels match archived native numeric hashes;8 new supplemental panels match their unchanged original functions.\n\nReproduce on the canonicalt630 workspace with the registered clinical-statsPython forcode/run_figure_batch.py and the registered upar-structure-dockingPython forcode/compose_and_qualify_pages.py (the latter suppliesPyMuPDF/Pillow for vector composition andQA).code/export_jno_panels.py accepts--root,--project-root,--font-dir,--only and stops if actualArial.ttf is absent. The original frozen figure aggregate directories and plotting-source package are explicit input dependencies inFIGURE_CONTRACT.json/PAGE_AND_PANEL_MANIFEST.json; their historical path/identity guards must remain consistent. Independently supplied licensedArial fonts remain private runtime dependencies and are not in this archive or public code. No new environment or globalfont installation is required.\n\nSource validation returns11PASS,3WARN,0FAIL. Each genericNature width/raster warning is explicitly adjudicated against actualPDF measurements and JNO vector requirements. This does not claim an independent human expert panel. The writing owner still verifies the final Word/PDF embedding and full manuscript/package.\n''')
+# Whitelist release files; omit workers,runtime caches,fonts and preliminary/failure artifacts.
+files=[Path(x) for x in ['AGENTS.md','FIGURE_CONTRACT.json','PAGE_AND_PANEL_MANIFEST.json','README.md']]
+for folder in ['code','panels','pages','composites']:
+ files.extend(p.relative_to(R) for p in sorted((R/folder).rglob('*')) if p.is_file() and p.suffix in {'.py','.pdf','.svg','.png'})
+for name in ['FINAL_VISUAL_REVIEW.json','NATURE_SOURCE_VALIDATION.json','NATURE_WARNING_DISPOSITIONS.json','PDF_AND_SVG_QUALIFICATION.json','SKILL_APPLICATION.json','KS_PROJECT_AUDIT.md','KS_FIGURE_QA.md','FIGURE_LIBRARY_REFERENCE.json','OWNED_PROCESS_CLOSURE.json','BATCH_LAUNCH.json','BATCH_RUN.json','VISUAL_REPAIR_R1.json','VISUAL_REPAIR_R2.json']:
+ files.append(Path('audit')/name)
+assert len(files)==len(set(files)) and all(p.suffix.lower() not in {'.ttf','.otf','.npz','.xlsx'} for p in files)
+save(R/'SOURCE_AND_OUTPUT_MANIFEST.json',{'task':'AKI_JNO_SUPPLEMENT_FORMAT_20261108_V1','utc':now,'files':[{'path':str(p),'sha256':sha(R/p),'bytes':(R/p).stat().st_size} for p in files],'private_fonts_data_and_caches_excluded':True})
+zpath=R/'JNO_FIGURE_HANDOFF.zip'
+with zipfile.ZipFile(zpath,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
+ for p in files+[Path('SOURCE_AND_OUTPUT_MANIFEST.json')]:z.write(R/p,str(p))
+with zipfile.ZipFile(zpath) as z:assert z.testzip() is None;count=len(z.namelist())
+accept={'status':'PASS_JNO_SUPPLEMENT_FIGURE_EXPORTS','accepted_utc':now,'figures':18,'native_panels':53,'vector_pages':31,'minimum_actual_text_pt':10,'actual_fonts':j['actual_font_families'],'width_mm':170,'page_height_max_mm':max(x['height_mm'] for x in j['pages']),'every_panel_pdf':True,'numeric_artists_intervals_and_annotation_values_unchanged':True,'old_supplement_panel_hashes_matched':45,'new_accepted_panels_preserved':8,'source_hashes_unchanged':True,'new_statistics':0,'manifest_sha256':sha(R/'PAGE_AND_PANEL_MANIFEST.json'),'source_output_manifest_sha256':sha(R/'SOURCE_AND_OUTPUT_MANIFEST.json'),'visual_review_sha256':sha(R/'audit/FINAL_VISUAL_REVIEW.json'),'font_files_in_bundle':False,'bundle':{'path':str(zpath),'sha256':sha(zpath),'files':count,'bytes':zpath.stat().st_size,'CRC':'PASS'},'writing_thread_final_Word_and_publication_required':True,'whole_goal_complete':False}
+save(R/'ACCEPTANCE.json',accept);print(json.dumps({'acceptance_sha256':sha(R/'ACCEPTANCE.json'),'manifest_sha256':accept['manifest_sha256'],'bundle':accept['bundle']},indent=2))

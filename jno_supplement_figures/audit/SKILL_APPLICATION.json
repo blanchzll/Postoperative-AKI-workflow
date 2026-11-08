@@ -1,0 +1,36 @@
+{
+  "skills": [
+    {
+      "name": "scipilot-figure-skill",
+      "read_source": "/home/lei/codex-workspaces/skill-management/skills/scipilot-figure-skill/SKILL.md",
+      "sha256": "79e7438109306d40638728ba8adaadf7312d486215189b320e157ab2e382adcc",
+      "applied": "Source-appropriate chart types retained; panel/page contract, rendered preview review and two local layout corrections."
+    },
+    {
+      "name": "scientific-visualization",
+      "read_source": "/home/lei/codex-workspaces/skill-management/skills/scientific-visualization/SKILL.md",
+      "sha256": "a78ffcddca5c0d2a674f0557e94df2ab6befc66280baaf6df1fdcc8db93e95f6",
+      "applied": "Preserve statistical quantities, readable physical text, color/shape redundancy, PDF/SVG native vectors."
+    },
+    {
+      "name": "ScientificFigureLibrary0.9.1",
+      "read_source": "/home/lei/codex-workspaces/skill-management/skills/figure-library/SKILL.md",
+      "sha256": "b856e96b32053fba57802c530047e23bb38be87803e1582ba6ffb5476abaae21",
+      "applied": "Actual ready0.9.1 source status and forest-reference search recorded; no template imported or executed."
+    },
+    {
+      "name": "nature-figure",
+      "read_source": "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/provenance/skill_snapshots/nature-figure/SKILL.md",
+      "sha256": "fbc78556785feba7a145a15150e33ebeee805bd9a529459cc51d9ef736fa6963",
+      "applied": "Python backend saved in task-local config, source validator executed with zeroFAIL; explicit JNO target overrides generic dimensions/raster defaults."
+    },
+    {
+      "name": "ks-omics-figure-studio",
+      "read_source": "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/provenance/skill_snapshots/ks-omics-figure-studio/SKILL.md",
+      "sha256": "77db85d4f34b48261c922134274263e1503144c8b1176da5421548e1ced6895e",
+      "applied": "Data/claim/figure contract, native numeric/text fingerprints, actual PDF/SVG qualification and read-only project/figure QA inventory."
+    }
+  ],
+  "private_runtime_fonts_not_public": true,
+  "no_fabricated_expert_review": true
+}

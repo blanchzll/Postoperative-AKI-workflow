@@ -1,0 +1,64 @@
+{
+  "status": "PASS_ALL_18_FIGURES_53_PANELS_31_PAGES",
+  "reviewed_utc": "2026-11-08T09:21:43.071997+00:00",
+  "reviewer": "Root Codex direct image inspection; not independent human expert review",
+  "contact_sheets_and_corrected_page": [
+    {
+      "file": "audit/pre_eFigure2B_spacing/PAGE_CONTACT_01.png",
+      "sha256": "66ded43861529ee2bfe485e0b996b3151c5fce2bf08248fae272b85f300cc62a",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_02.png",
+      "sha256": "541b54702ce09dbeba40b87f40e3d0fd84a3dd832fc9fe047000800c22abbbad",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_03.png",
+      "sha256": "68632d5cdb9a7376fc98550fc6a581a32f1b445aa9adf0004d8c38e924c679ea",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_04.png",
+      "sha256": "00af7fb2b1cc850848eddbf3fe5d577f9df43325eebad020ac76e221b7e2f1fb",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_05.png",
+      "sha256": "b0f15641ee898c85c3401b7134cb3fff0392fe556cad6c6c76a6784837323c05",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_06.png",
+      "sha256": "e3e1e55fe68399ea69bbe0ba65e8b74bf7cba15ab4f518e9697609ecc4f3e554",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_07.png",
+      "sha256": "3ac7f86dcf6e49cd1edb918cf7f3e432c7e4c0072a4038f5c579f574784afb5b",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "previews/PAGE_CONTACT_08.png",
+      "sha256": "e7b1f1d2f855f147f1689cb59e24ff1368709f9a0631a4708c11d73808895677",
+      "direct_pixel_review": "PASS_except_eFigure2B_bottom_spacing_then_corrected"
+    },
+    {
+      "file": "pages/eFigure_2_page_01.png",
+      "sha256": "77f2fc4ce157c37fdf3d0dd8cd94916474ff618c3de1cbc0ddbcbab800e6d3eb",
+      "direct_pixel_review": "PASS_corrected_two_line_xlabel_and_legend_separated"
+    }
+  ],
+  "checklist": {
+    "glyphs_and_symbols": "Arial glyphs including arrows,delta,minus,percentage andSCr readable; no visible replacement boxes.",
+    "text_and_canvas": "Every PDF checked actual font10.0 and no text outside bounds; all31 page images reviewed.",
+    "overlap_and_occlusion": "Initial eFigure17B legend/footnote and annotation clashes corrected; eFigure2B multiline xlabel/legend spacing corrected and inspected again.",
+    "panel_labels": "A/B/C/D retained and aligned in native full-width panels.",
+    "panels_and_pages": "At most2 panels per170mm page; 31 pages height≤180mm; no inter-panel intrusion.",
+    "color_and_redundancy": "Original blue/orange colors, filled/open markers and line styles retained.",
+    "data_and_uncertainty": "53 panels retain numeric artists and annotation text; 45 original supplement panel fingerprints match archived native exports;8 new panels match before/after original functions.",
+    "axes_and_units": "Original numerical scales and source-specific labels preserved; complete intervals visible in reviewed renderings."
+  },
+  "source_hashes_unchanged": true,
+  "statistics_recomputed": false
+}

@@ -1,0 +1,11 @@
+{
+  "reviewed_utc": "2026-11-08T09:13:03.148940+00:00",
+  "all_contact_sheets_inspected": 8,
+  "figures": 18,
+  "panels": 53,
+  "issue": "eFigure2B two-line x-axis label overlaps its lower legend by one text line.",
+  "repair": "Reserve an extra6.3mm bottom margin for panel2B, with all fontsize10, data limits, point estimates, CIs and annotation strings unchanged.",
+  "affected_reexport_only": "eFigure2",
+  "remaining_panel_content": "All other31-page visuals readable; eFigure17B annotation and footer repairs confirmed.",
+  "prior_preview_and_code_saved": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/audit/pre_eFigure2B_spacing"
+}

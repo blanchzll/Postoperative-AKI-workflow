@@ -1,0 +1,19 @@
+{
+  "reviewed_utc": "2026-11-08T09:00:17.107321+00:00",
+  "actual_pixel_inspection": [
+    "qualification_01.png",
+    "qualification_02.png",
+    "qualification_03.png"
+  ],
+  "accepted": [
+    "eFigure1 cohort panels clear; source numbers/labels preserved.",
+    "eFigure16 all4 panels readable atArial10.",
+    "eFigure17A full interval and denominators visible."
+  ],
+  "repair": [
+    "eFigure17B footnote and legend overlap; preserve text, move method notes and legend into separate fixed physical footer bands.",
+    "Measurement-deletion annotations Even days and Day1 only overlap; adjust annotation offsets only, retaining text and numeric anchors."
+  ],
+  "no_statistical_change": true,
+  "prior_code_and_previews_retained": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/audit/pre_footer_visual_repair"
+}

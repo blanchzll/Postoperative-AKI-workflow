@@ -1,0 +1,33 @@
+{
+  "status": "PASS_JNO_SUPPLEMENT_FIGURE_EXPORTS",
+  "accepted_utc": "2026-11-08T09:21:43.071997+00:00",
+  "figures": 18,
+  "native_panels": 53,
+  "vector_pages": 31,
+  "minimum_actual_text_pt": 10,
+  "actual_fonts": [
+    "Arial-BoldMT",
+    "ArialMT"
+  ],
+  "width_mm": 170,
+  "page_height_max_mm": 180.0,
+  "every_panel_pdf": true,
+  "numeric_artists_intervals_and_annotation_values_unchanged": true,
+  "old_supplement_panel_hashes_matched": 45,
+  "new_accepted_panels_preserved": 8,
+  "source_hashes_unchanged": true,
+  "new_statistics": 0,
+  "manifest_sha256": "f91e4d022d160b5c9f7643b14d82e37f071248a9a489d716b830dfab84b5e7f9",
+  "source_output_manifest_sha256": "337eadde662871b9bbfcae25c1833b7b210d19c6780a0addb21907f332134017",
+  "visual_review_sha256": "7cadbaf81483d496aca979753e802b8e4e0d1fb16804fd52eb1705baabb85879",
+  "font_files_in_bundle": false,
+  "bundle": {
+    "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/JNO_FIGURE_HANDOFF.zip",
+    "sha256": "06c54bcc0b4882119c353fe2fbe90793967460d01d6cf87681f3216e8622b98c",
+    "files": 294,
+    "bytes": 13412964,
+    "CRC": "PASS"
+  },
+  "writing_thread_final_Word_and_publication_required": true,
+  "whole_goal_complete": false
+}

@@ -22,7 +22,7 @@ The repository name was verified against GitHub repository ID 1449983323.
 
 ## Source code and environments
 
-The code/ directory mirrors every executable source file in the accepted manuscript package, including main model development/evaluation, public-source analyses, measurement sensitivity, probability-weighted resource comparisons, figure generation, and document preparation. STUDY_CODE_COVERAGE.csv binds each of the 374 package code paths to its published path and SHA256. The clinical_supplement/ directory additionally preserves the accepted November 8 handoff and its own source manifest. Dated baseline checks remain under provenance/historical/; SOURCE_RELEASE_PREFLIGHT.json and FINAL_PUBLIC_PREFLIGHT.json describe the current expanded release. The environment_specs/ directory records the versioned tabular, foundation-model, language-model and document environments used by the study; these are separate compatible environments.
+The code/ directory mirrors every executable source file in the accepted manuscript package, including main model development/evaluation, public-source analyses, measurement sensitivity, probability-weighted resource comparisons, figure generation, and document preparation. STUDY_CODE_COVERAGE.csv binds each of the 384 package code paths to its published path and SHA256. The clinical_supplement/ directory additionally preserves the accepted November 8 handoff and its own source manifest. Dated baseline checks remain under provenance/historical/; SOURCE_RELEASE_PREFLIGHT.json and FINAL_PUBLIC_PREFLIGHT.json describe the current expanded release. The environment_specs/ directory records the versioned tabular, foundation-model, language-model and document environments used by the study; these are separate compatible environments.
 
 Historical sources retain their original project paths. Patient-level reproduction requires an authorized copy of the source data and the input/model layout described by the corresponding analysis protocol. These source files are not presented as a single portable executable package. REPRODUCIBILITY.md separates the check performed here from data-dependent stages.
 
@@ -64,3 +64,11 @@ python3 final_source_audit/code/repair_final_size_figures.py --source-script cli
 ~~~
 
 This portable command reads aggregate CSV files. The source/scientific audit and document checks retain their server-workspace bindings and need the corresponding authorized sources. Previously dated review receipts remain historical; RELEASE_STATUS.json identifies this source snapshot.
+
+## Journal-format source update
+
+The current supplementary-figure export is in jno_supplement_figures/code/. It reconstructs the 18 supplemental figures as 53 native panels and 31 vector pages at 170 mm, with actual Arial 10-point text. The code reuses frozen plotting functions and aggregate results; no estimates or resampling were changed. The final_source_audit/code/ directory includes current Word formatting, native SVG insertion and final source/format verification. Earlier 160-mm exports remain dated intermediate sources.
+
+The full accepted figure assets are supplied in the submission folder; the manifests here record their hashes. Running the current export requires the source/aggregate layout declared in FIGURE_CONTRACT.json and private installed Arial font files. Export scripts accept the documented project/output/font paths and stop if actual Arial is absent. Fonts are not redistributed. The standalone last-three-figure command above remains the earlier intermediate export, while the JNO source route is the current journal-format workflow.
+
+The source and document checks are computational/editorial checks, not a human expert panel or a clinical implementation evaluation.

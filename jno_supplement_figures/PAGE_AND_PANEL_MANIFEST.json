@@ -1,0 +1,4552 @@
+{
+  "status": "PASS_JNO_ARIAL10_EDITABLE_VECTOR_18_FIGURES_53_PANELS_31_PAGES",
+  "utc": "2026-11-08T09:14:50.213341+00:00",
+  "figures": [
+    {
+      "figure": "eFigure_1",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_1",
+          "page": 1,
+          "svg": "pages/eFigure_1_page_01.svg",
+          "pdf": "pages/eFigure_1_page_01.pdf",
+          "png": "pages/eFigure_1_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "86cdd80afabfe7aecb28f37c313187dd9476973e913813a3993f92a7e812c8a1",
+          "svg_sha256": "564bd294af3c4b6913b27a1e222ee108ffc788e797f4db6a3450d7fb53c5d7de",
+          "png_sha256": "ec9715d50a7dc5f6546bf4623f28a2efe22974274ddcc213e84fb25ada735b19",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_1",
+          "page": 2,
+          "svg": "pages/eFigure_1_page_02.svg",
+          "pdf": "pages/eFigure_1_page_02.pdf",
+          "png": "pages/eFigure_1_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "193027f662944041b3f9959a9ac07584b75fdbe58f25ee20a0e1f3a0fbefd85a",
+          "svg_sha256": "5ac6f09bc9526150bccd3df0eadc799b5e7c483fb3f662d9b3ca88fe4aa073a6",
+          "png_sha256": "2128c55263c92c08336ea5195c6513a890f6b5a294d77b00bdc29943f70f70b0",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_1.pdf",
+      "composite_sha256": "f4df36749df30e385af6a89ce6380af8a0d2704a219aa8ba0d340a03d5470313"
+    },
+    {
+      "figure": "eFigure_2",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_2",
+          "page": 1,
+          "svg": "pages/eFigure_2_page_01.svg",
+          "pdf": "pages/eFigure_2_page_01.pdf",
+          "png": "pages/eFigure_2_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "f1d4fb1d215220fe8449da67fb6796b961d43cf95e2f0cb826a11db50c0da1ef",
+          "svg_sha256": "a2e33fe14ab2b8bf5a24c8669909d86c38fd076f573af6ad624698e1573826c7",
+          "png_sha256": "77f2fc4ce157c37fdf3d0dd8cd94916474ff618c3de1cbc0ddbcbab800e6d3eb",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_2.pdf",
+      "composite_sha256": "779d0433b04ce10dfc1f7a554fdbb4dcf60d895efbb20f28fa4d1545135cacfa"
+    },
+    {
+      "figure": "eFigure_3",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_3",
+          "page": 1,
+          "svg": "pages/eFigure_3_page_01.svg",
+          "pdf": "pages/eFigure_3_page_01.pdf",
+          "png": "pages/eFigure_3_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "b67ba02cde36324b173bd0cf1b311ee952c58deb9b53218e7e1455badceb9adb",
+          "svg_sha256": "f4db3ca5613f5b45f620c83b8cdbe43572b2e7d8e95b35b5bc4d90defa88e84f",
+          "png_sha256": "30f5c39ba1e6d2e6c8599107680de5f4abd864891b53d0a19417ff0afa90ed46",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_3.pdf",
+      "composite_sha256": "5327ce6e6443b8d97e7984730bfb062aecf4b0bc330f9da0efcfc357e922b542"
+    },
+    {
+      "figure": "eFigure_4",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_4",
+          "page": 1,
+          "svg": "pages/eFigure_4_page_01.svg",
+          "pdf": "pages/eFigure_4_page_01.pdf",
+          "png": "pages/eFigure_4_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "11201539c482d5b97603bddb9bb6500abc6ff61e81c9c16b44ecf2a9a9af4acb",
+          "svg_sha256": "6a27468c3f87872a9d75ab7ef2a8d1d861a2b2692643aa49ceb2a4a995458323",
+          "png_sha256": "001a189291353786650284237cc4cf789eae704211a21c6070bc02a54e0a7590",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_4",
+          "page": 2,
+          "svg": "pages/eFigure_4_page_02.svg",
+          "pdf": "pages/eFigure_4_page_02.pdf",
+          "png": "pages/eFigure_4_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "acc85b1e46840f49c4923af19eb19fccfae646122b682da24fddc04d46dca473",
+          "svg_sha256": "ec7eb45159331f1f493f7fd81b4244e92c3c34a59854c5cc20492086173a5064",
+          "png_sha256": "aba735ba5adff2559e630ee426411ec6d41110d226d5ff4617f95d57698f7086",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_4.pdf",
+      "composite_sha256": "03ea678dafc2ba1063bd392f6e42b5ef96b55b7f4d2788bfb32ebfe0e051f292"
+    },
+    {
+      "figure": "eFigure_5",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_5",
+          "page": 1,
+          "svg": "pages/eFigure_5_page_01.svg",
+          "pdf": "pages/eFigure_5_page_01.pdf",
+          "png": "pages/eFigure_5_page_01.png",
+          "width_mm": 170,
+          "height_mm": 104.4,
+          "panels": [
+            "A"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "92d884704b01f0ea277da8f25fa3541b302163b1ad7e36cbed108b4c7386a5ae",
+          "svg_sha256": "205c5f13aa12123d6b95ad2429d389329b75a8a3987236c6bc326d9bf5b400e3",
+          "png_sha256": "1e92032c714583ea92868ab49adfb0223939f7b03fab47bf69d8007d761cdea7",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_5",
+          "page": 2,
+          "svg": "pages/eFigure_5_page_02.svg",
+          "pdf": "pages/eFigure_5_page_02.pdf",
+          "png": "pages/eFigure_5_page_02.png",
+          "width_mm": 170,
+          "height_mm": 104.4,
+          "panels": [
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "9a8a2e551d0c55d73093cf095e8558763f2f9b57393b4d6e556af13df2220f61",
+          "svg_sha256": "1e20244e0ba10b1c7745dcf5fba40a913cf6190afb8552a230ca949cb35bcc62",
+          "png_sha256": "b56139ed2219d8036d6c601f95188ae1c569b9c93c88679f3c84b5210e76e3a1",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_5.pdf",
+      "composite_sha256": "36060debf12753be8256a25018b5b9dfee0e41c15fba44a8bb89aa3c8eafa9fe"
+    },
+    {
+      "figure": "eFigure_6",
+      "panels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_6",
+          "page": 1,
+          "svg": "pages/eFigure_6_page_01.svg",
+          "pdf": "pages/eFigure_6_page_01.pdf",
+          "png": "pages/eFigure_6_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "72909bb51c75ffa31873339368b86a4975f50220066581b8563cf211fb2754d4",
+          "svg_sha256": "bd3d4ed375580176b2aa09332999df6c217329c9cda5c7475de4ac2ea363d446",
+          "png_sha256": "64a82bfb291348b56c26d68912a5930663bd1b2af7032ed6880d6ae2b6afa001",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_6",
+          "page": 2,
+          "svg": "pages/eFigure_6_page_02.svg",
+          "pdf": "pages/eFigure_6_page_02.pdf",
+          "png": "pages/eFigure_6_page_02.png",
+          "width_mm": 170,
+          "height_mm": 90.0,
+          "panels": [
+            "C"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "4c812a33bc6a637a8d1193273f53833fb5dc0c8d73e10b03543029609dca15a1",
+          "svg_sha256": "f752fd816855f6fb78a8d8ad95224fbc9405fe9b7a4e4154ef9baef28b3cf5cb",
+          "png_sha256": "a432ad6612bdd32987a1f8426e9ce93eb49a7ae187bfa73791343d1edb8db749",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_6.pdf",
+      "composite_sha256": "eb168bbb441ecdb71fcd863826f9240357ec873861382e23b0fa5038a446f977"
+    },
+    {
+      "figure": "eFigure_7",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_7",
+          "page": 1,
+          "svg": "pages/eFigure_7_page_01.svg",
+          "pdf": "pages/eFigure_7_page_01.pdf",
+          "png": "pages/eFigure_7_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "8cb72fc5ce4760af710c15353328d4a635a436d1f6951704f4d3370e090b7e2c",
+          "svg_sha256": "89f830e7077bdafcaed14b4b0e0541a240491d0738ad5e225fd089129f89317b",
+          "png_sha256": "6a52b7d4d2401363b899f5cd444f38962ab211caae9516c88dc5c1de49b0a35b",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_7",
+          "page": 2,
+          "svg": "pages/eFigure_7_page_02.svg",
+          "pdf": "pages/eFigure_7_page_02.pdf",
+          "png": "pages/eFigure_7_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "8c581768c1263be779d5900e3ed8308bca87de4a295652cba3ee1ddb1d6d1157",
+          "svg_sha256": "96b9fe957da6933b435f3ff91431c6ccc7608fc9c56175873917fe1e3be40313",
+          "png_sha256": "6f295d90f4719076d3f18e22f39197a4c6c1338f17043e56c16cc321859399e1",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_7.pdf",
+      "composite_sha256": "7234d83fc8f24430c60eceb2daa64d0596e71339acc5509a1a7dcef1dbba2a49"
+    },
+    {
+      "figure": "eFigure_8",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_8",
+          "page": 1,
+          "svg": "pages/eFigure_8_page_01.svg",
+          "pdf": "pages/eFigure_8_page_01.pdf",
+          "png": "pages/eFigure_8_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "cbde5cd2b0627749e184f4d6195b7008c9ed6272108c75ee94a3b65ea1fe6f40",
+          "svg_sha256": "226640b52094335f67a61036d2f35f76e98fac3da58b52098afca898ccbfb4ee",
+          "png_sha256": "b5b97180513bb2bf3475751444defae812f92abc22c0289b35e08cddfa491620",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_8.pdf",
+      "composite_sha256": "de511bb5b4a729db5d5e86b3c396d647838d80465409f248a373f29507c2ad25"
+    },
+    {
+      "figure": "eFigure_9",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_9",
+          "page": 1,
+          "svg": "pages/eFigure_9_page_01.svg",
+          "pdf": "pages/eFigure_9_page_01.pdf",
+          "png": "pages/eFigure_9_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "ee3575410cfb52305666d197c5920dbb4d4f6923b2b26e3f7a601d40d29834f5",
+          "svg_sha256": "c038d7695a8ecebe08b4be8818c53e255ef3797cba8bbdc830fe45480e1606a2",
+          "png_sha256": "1f0d65b2240b91c047141c1a055a995f0f329efe554af696837df2ca92b601da",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_9.pdf",
+      "composite_sha256": "8e5669bccbbc08df485541a213fca25d265b32da99b8dda9b2410532d6ddfc39"
+    },
+    {
+      "figure": "eFigure_10",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_10",
+          "page": 1,
+          "svg": "pages/eFigure_10_page_01.svg",
+          "pdf": "pages/eFigure_10_page_01.pdf",
+          "png": "pages/eFigure_10_page_01.png",
+          "width_mm": 170,
+          "height_mm": 93.0,
+          "panels": [
+            "A"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "9120ed455d18d76c684809f39568e5f6d05f829d0817c35b0314933a378cc230",
+          "svg_sha256": "204a0c77738af37bd21de13a3a73db1b9c0a40d7827f3f1463cb1fc50c4ef015",
+          "png_sha256": "971921368cf581a630ca3be8398c461ddf5dd16352f9eb931476c12b7c2c37b9",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_10",
+          "page": 2,
+          "svg": "pages/eFigure_10_page_02.svg",
+          "pdf": "pages/eFigure_10_page_02.pdf",
+          "png": "pages/eFigure_10_page_02.png",
+          "width_mm": 170,
+          "height_mm": 93.0,
+          "panels": [
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "b8fbd91766623adf1fb24237d4ebc494aefdc1dd06875392de74d5de1a4c31a6",
+          "svg_sha256": "29b8e1a0b2dd0d71334ac865e0d874f873ca02b7b07b34c2888094242468b229",
+          "png_sha256": "ed0e43a3ad002576cc34c39f832142118a9a6779020efa9d34f8e5fe065367f1",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_10.pdf",
+      "composite_sha256": "eeacd23e63df05ffe904d8fd8280d1ecf0348efb0c4bd5f04ee0a452393382b4"
+    },
+    {
+      "figure": "eFigure_11",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_11",
+          "page": 1,
+          "svg": "pages/eFigure_11_page_01.svg",
+          "pdf": "pages/eFigure_11_page_01.pdf",
+          "png": "pages/eFigure_11_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "93d4a101abc7f0c0ecfde423ba6eae31c2bca338911ed96e9c8d3de2314fdac8",
+          "svg_sha256": "a256e056425bc51d2821468552131a0986c92dec83c6d6e000ce3ad9ed97a3f9",
+          "png_sha256": "492036532cce6dbcd864ef825163719b136fd76cd9550bf93de61611e08321cc",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_11",
+          "page": 2,
+          "svg": "pages/eFigure_11_page_02.svg",
+          "pdf": "pages/eFigure_11_page_02.pdf",
+          "png": "pages/eFigure_11_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "c630c08ef56deeedc4273eb4e21d2f9836bfcf733e19fb09ea2caa483c463754",
+          "svg_sha256": "be27dfaf8bc1509221c83ace91cee914862badfc7fdfc2f21b01677e17ed404e",
+          "png_sha256": "90e1f7b0c89aba3fe193bcdbf85e85a31a499c15c4001e448163c55797c1c494",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_11.pdf",
+      "composite_sha256": "aedd123ad7943ba2a761dc0ad07987beeea06ed182762bdc94142075617ea58b"
+    },
+    {
+      "figure": "eFigure_12",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_12",
+          "page": 1,
+          "svg": "pages/eFigure_12_page_01.svg",
+          "pdf": "pages/eFigure_12_page_01.pdf",
+          "png": "pages/eFigure_12_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "0c5bfdef3c0cb55c34b59fb2182520388f7cf71243fda14ea49b9b61f7cd8038",
+          "svg_sha256": "fdd9803d8bd81a674e60cae59f2d70a9573839c248b9190fbfc54e65e29aee7e",
+          "png_sha256": "ceee75f26330473c4210e72c7b37e453b8696b3853aef949295e786e00c4309e",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_12",
+          "page": 2,
+          "svg": "pages/eFigure_12_page_02.svg",
+          "pdf": "pages/eFigure_12_page_02.pdf",
+          "png": "pages/eFigure_12_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "396f90be9507576a72ef0f12d99f6759169feff227f3ee4db38c1c3d7db7bea8",
+          "svg_sha256": "c435915e7adb8c2bdfe07ba0093b0d10cc9f85c47f3d3242f0fe09a5f9830ce6",
+          "png_sha256": "de34a64fe988d6d325b119255b2bf2bd2f783400b47a7cdc2cb73a116914ab70",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_12.pdf",
+      "composite_sha256": "f3ab43f4b9bbdaa94dd69f8c2cfc62a3d5a2356ee53d47b8be2e3e3f0a41500a"
+    },
+    {
+      "figure": "eFigure_13",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_13",
+          "page": 1,
+          "svg": "pages/eFigure_13_page_01.svg",
+          "pdf": "pages/eFigure_13_page_01.pdf",
+          "png": "pages/eFigure_13_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "206520fbade1d3164a83165cfd2002a80f9af91afcf7e8a2dccac522b5ea8243",
+          "svg_sha256": "1bedd911fbcfddcbc86fa20387ed8feaa1d9508f287b4d6356b76f37bde79c49",
+          "png_sha256": "6eb44747f7f152e286a94ac448eccfad3f64d3ec8c189752a495d0a51e86b7fa",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_13",
+          "page": 2,
+          "svg": "pages/eFigure_13_page_02.svg",
+          "pdf": "pages/eFigure_13_page_02.pdf",
+          "png": "pages/eFigure_13_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "78871701d794d1dfca77f685c7d2c5ff5cd6ab52b188299c515f9b9b46c85dcf",
+          "svg_sha256": "f97503c88e513041ac7c6820ec1548dbe6a362a569789c4b3e66dee2a23e70b0",
+          "png_sha256": "853811c9a894735f35fbbc705baef3d62df72ed4cb1f681bbad30034a3cbb34a",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_13.pdf",
+      "composite_sha256": "a6dc6e834c1489338c40a245851f80e7cdafa17ab34fdceb68233ce86f31948a"
+    },
+    {
+      "figure": "eFigure_14",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_14",
+          "page": 1,
+          "svg": "pages/eFigure_14_page_01.svg",
+          "pdf": "pages/eFigure_14_page_01.pdf",
+          "png": "pages/eFigure_14_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "93c2476a50c335f4ed1c2a5a7bca7954b420149bb5032ba0904d6dc2c8890086",
+          "svg_sha256": "cd4740392e1a195e4a3314c8231be7e60d4ce53980511a2b3b83ef9cf7832375",
+          "png_sha256": "9b1d4db3985b05502b900abc2d3c9884ee13242531f5c656a9cef8d245ef627f",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_14.pdf",
+      "composite_sha256": "ea0652924f1537947f616f5e91c8c0deb1a9a74ebff71599b932e1511337d5a3"
+    },
+    {
+      "figure": "eFigure_15",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_15",
+          "page": 1,
+          "svg": "pages/eFigure_15_page_01.svg",
+          "pdf": "pages/eFigure_15_page_01.pdf",
+          "png": "pages/eFigure_15_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "bff6211e8a9a7f4ac3c6c6205e33e48c590d8029c3be619a3564e8ef6d471984",
+          "svg_sha256": "e264df2cc20ae4dde31c9d5d679dbd44cdad98853ba8338c9be0f267a988742b",
+          "png_sha256": "05c6c4a17bc81a68a0f3fc3de05350e13ab249d9bff96212e5355a0986bf6927",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_15",
+          "page": 2,
+          "svg": "pages/eFigure_15_page_02.svg",
+          "pdf": "pages/eFigure_15_page_02.pdf",
+          "png": "pages/eFigure_15_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "5b499a859b426ac7954673a9a7a36d4951f1523366520cc435439bb0d322aa64",
+          "svg_sha256": "7040a237a3b9e8f425ec42d335bf1d3f943ecf2b892df682ab1dc0eb8e8f9488",
+          "png_sha256": "eb225b76a803516ba779096fdee1e348523c3b2626ac730e772d84ac7eb1c6a5",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_15.pdf",
+      "composite_sha256": "b30da551c1bd78f76e0e49fb2f2939f217e7163b05e45dfb2237c2029dcda079"
+    },
+    {
+      "figure": "eFigure_16",
+      "panels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_16",
+          "page": 1,
+          "svg": "pages/eFigure_16_page_01.svg",
+          "pdf": "pages/eFigure_16_page_01.pdf",
+          "png": "pages/eFigure_16_page_01.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "A",
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "eb2db6f0948db805eab42be439a7cef3c49e76f321e1f42ea64ff5a67bc79171",
+          "svg_sha256": "4eb60cdf4e77a1e5d0f7e1f3b23883dddadc3887c3f005817c39cd40d69d7806",
+          "png_sha256": "7f122d33dcf629dfbf252a35de8507890cde44fdf81cfad3c6b348bb864d6889",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_16",
+          "page": 2,
+          "svg": "pages/eFigure_16_page_02.svg",
+          "pdf": "pages/eFigure_16_page_02.pdf",
+          "png": "pages/eFigure_16_page_02.png",
+          "width_mm": 170,
+          "height_mm": 180.0,
+          "panels": [
+            "C",
+            "D"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "46fb771182f94d73e053ad98b19ce6eac70a04f820191f26c77a0109f6afb8a7",
+          "svg_sha256": "de481187b31d2b0ad8f1c3efbf70130e20ac7c989522f602ec6d0ddd17432d0d",
+          "png_sha256": "681609e1be40b1bf50abbe22d96aa612ad96fac900d53085227ad4c3661037b2",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_16.pdf",
+      "composite_sha256": "403bc60429aa1586a7aebe1686713d7e5a6c439a367b042b8cc9e9c5ffd55307"
+    },
+    {
+      "figure": "eFigure_17",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_17",
+          "page": 1,
+          "svg": "pages/eFigure_17_page_01.svg",
+          "pdf": "pages/eFigure_17_page_01.pdf",
+          "png": "pages/eFigure_17_page_01.png",
+          "width_mm": 170,
+          "height_mm": 90.0,
+          "panels": [
+            "A"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "57028625c8ec991ae46bd963dc46eae6a3e72c746c231c93b8544ceeb79115ee",
+          "svg_sha256": "f8a699575c43221940f9de1e5da258c1de422322e4f78adbf5ec8a56d66b342e",
+          "png_sha256": "1272ddcf3f018ae1f36948b145d6bc2a8370e4aa3cac357a670d75e9f81c85d7",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_17",
+          "page": 2,
+          "svg": "pages/eFigure_17_page_02.svg",
+          "pdf": "pages/eFigure_17_page_02.pdf",
+          "png": "pages/eFigure_17_page_02.png",
+          "width_mm": 170,
+          "height_mm": 110.0,
+          "panels": [
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "27c519f2c4d7595197857156df28afb644cac09952d88e67f9e3f9db223c1f6a",
+          "svg_sha256": "fedb3b042723b7ef5fdf1195e3732009bf1f3e50676ec3f6726f5725ddd1ae73",
+          "png_sha256": "03f35223f8f9a9fa758027606eb5494dddda29d58abf91a6af84d2818b61eedc",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_17.pdf",
+      "composite_sha256": "4c09bf3e2195d31039d28072dd7d1f7234c4284916119ce6ca41c92b5ceb1c97"
+    },
+    {
+      "figure": "eFigure_18",
+      "panels": [
+        "A",
+        "B"
+      ],
+      "pages": [
+        {
+          "figure": "eFigure_18",
+          "page": 1,
+          "svg": "pages/eFigure_18_page_01.svg",
+          "pdf": "pages/eFigure_18_page_01.pdf",
+          "png": "pages/eFigure_18_page_01.png",
+          "width_mm": 170,
+          "height_mm": 110.0,
+          "panels": [
+            "A"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "439717b90200c287d2e308d878ab5f4ce44fd5c940881ee5ad9b5a8ca2621e3b",
+          "svg_sha256": "dcb95f16df3131f4f702676dc2426aecc950ca3e7eece969356d3899f9e43933",
+          "png_sha256": "ed2679954ec3d5e4275a3204a1b7d1484079d2954d33ff102bda7452129f41d1",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        },
+        {
+          "figure": "eFigure_18",
+          "page": 2,
+          "svg": "pages/eFigure_18_page_02.svg",
+          "pdf": "pages/eFigure_18_page_02.pdf",
+          "png": "pages/eFigure_18_page_02.png",
+          "width_mm": 170,
+          "height_mm": 110.0,
+          "panels": [
+            "B"
+          ],
+          "font_family": "Arial",
+          "minimum_text_pt": 10.0,
+          "fonts": [
+            "Arial-BoldMT",
+            "ArialMT"
+          ],
+          "pdf_sha256": "3c4af7e9af00434f2677aff4f355f1b87d0c9fb6acd87bf66bb1a92fdfaa7c6d",
+          "svg_sha256": "b6324917e57ee4a09312935128339f38b893eb4e785f8731c4c9bb6f31560323",
+          "png_sha256": "926607488bf0b9a513a03f0e92d09a9d0fd96b70e9e8a5d4f0c6ba81f1f90363",
+          "text_content_unchanged": true,
+          "raster_images": 0
+        }
+      ],
+      "composite_pdf": "composites/eFigure_18.pdf",
+      "composite_sha256": "4e70b147598fa403b89a0b32692f828d681306aa625c34287833a6f863519882"
+    }
+  ],
+  "pages": [
+    {
+      "figure": "eFigure_1",
+      "page": 1,
+      "svg": "pages/eFigure_1_page_01.svg",
+      "pdf": "pages/eFigure_1_page_01.pdf",
+      "png": "pages/eFigure_1_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "86cdd80afabfe7aecb28f37c313187dd9476973e913813a3993f92a7e812c8a1",
+      "svg_sha256": "564bd294af3c4b6913b27a1e222ee108ffc788e797f4db6a3450d7fb53c5d7de",
+      "png_sha256": "ec9715d50a7dc5f6546bf4623f28a2efe22974274ddcc213e84fb25ada735b19",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_1",
+      "page": 2,
+      "svg": "pages/eFigure_1_page_02.svg",
+      "pdf": "pages/eFigure_1_page_02.pdf",
+      "png": "pages/eFigure_1_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "193027f662944041b3f9959a9ac07584b75fdbe58f25ee20a0e1f3a0fbefd85a",
+      "svg_sha256": "5ac6f09bc9526150bccd3df0eadc799b5e7c483fb3f662d9b3ca88fe4aa073a6",
+      "png_sha256": "2128c55263c92c08336ea5195c6513a890f6b5a294d77b00bdc29943f70f70b0",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_2",
+      "page": 1,
+      "svg": "pages/eFigure_2_page_01.svg",
+      "pdf": "pages/eFigure_2_page_01.pdf",
+      "png": "pages/eFigure_2_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "f1d4fb1d215220fe8449da67fb6796b961d43cf95e2f0cb826a11db50c0da1ef",
+      "svg_sha256": "a2e33fe14ab2b8bf5a24c8669909d86c38fd076f573af6ad624698e1573826c7",
+      "png_sha256": "77f2fc4ce157c37fdf3d0dd8cd94916474ff618c3de1cbc0ddbcbab800e6d3eb",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_3",
+      "page": 1,
+      "svg": "pages/eFigure_3_page_01.svg",
+      "pdf": "pages/eFigure_3_page_01.pdf",
+      "png": "pages/eFigure_3_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "b67ba02cde36324b173bd0cf1b311ee952c58deb9b53218e7e1455badceb9adb",
+      "svg_sha256": "f4db3ca5613f5b45f620c83b8cdbe43572b2e7d8e95b35b5bc4d90defa88e84f",
+      "png_sha256": "30f5c39ba1e6d2e6c8599107680de5f4abd864891b53d0a19417ff0afa90ed46",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_4",
+      "page": 1,
+      "svg": "pages/eFigure_4_page_01.svg",
+      "pdf": "pages/eFigure_4_page_01.pdf",
+      "png": "pages/eFigure_4_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "11201539c482d5b97603bddb9bb6500abc6ff61e81c9c16b44ecf2a9a9af4acb",
+      "svg_sha256": "6a27468c3f87872a9d75ab7ef2a8d1d861a2b2692643aa49ceb2a4a995458323",
+      "png_sha256": "001a189291353786650284237cc4cf789eae704211a21c6070bc02a54e0a7590",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_4",
+      "page": 2,
+      "svg": "pages/eFigure_4_page_02.svg",
+      "pdf": "pages/eFigure_4_page_02.pdf",
+      "png": "pages/eFigure_4_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "acc85b1e46840f49c4923af19eb19fccfae646122b682da24fddc04d46dca473",
+      "svg_sha256": "ec7eb45159331f1f493f7fd81b4244e92c3c34a59854c5cc20492086173a5064",
+      "png_sha256": "aba735ba5adff2559e630ee426411ec6d41110d226d5ff4617f95d57698f7086",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_5",
+      "page": 1,
+      "svg": "pages/eFigure_5_page_01.svg",
+      "pdf": "pages/eFigure_5_page_01.pdf",
+      "png": "pages/eFigure_5_page_01.png",
+      "width_mm": 170,
+      "height_mm": 104.4,
+      "panels": [
+        "A"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "92d884704b01f0ea277da8f25fa3541b302163b1ad7e36cbed108b4c7386a5ae",
+      "svg_sha256": "205c5f13aa12123d6b95ad2429d389329b75a8a3987236c6bc326d9bf5b400e3",
+      "png_sha256": "1e92032c714583ea92868ab49adfb0223939f7b03fab47bf69d8007d761cdea7",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_5",
+      "page": 2,
+      "svg": "pages/eFigure_5_page_02.svg",
+      "pdf": "pages/eFigure_5_page_02.pdf",
+      "png": "pages/eFigure_5_page_02.png",
+      "width_mm": 170,
+      "height_mm": 104.4,
+      "panels": [
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "9a8a2e551d0c55d73093cf095e8558763f2f9b57393b4d6e556af13df2220f61",
+      "svg_sha256": "1e20244e0ba10b1c7745dcf5fba40a913cf6190afb8552a230ca949cb35bcc62",
+      "png_sha256": "b56139ed2219d8036d6c601f95188ae1c569b9c93c88679f3c84b5210e76e3a1",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_6",
+      "page": 1,
+      "svg": "pages/eFigure_6_page_01.svg",
+      "pdf": "pages/eFigure_6_page_01.pdf",
+      "png": "pages/eFigure_6_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "72909bb51c75ffa31873339368b86a4975f50220066581b8563cf211fb2754d4",
+      "svg_sha256": "bd3d4ed375580176b2aa09332999df6c217329c9cda5c7475de4ac2ea363d446",
+      "png_sha256": "64a82bfb291348b56c26d68912a5930663bd1b2af7032ed6880d6ae2b6afa001",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_6",
+      "page": 2,
+      "svg": "pages/eFigure_6_page_02.svg",
+      "pdf": "pages/eFigure_6_page_02.pdf",
+      "png": "pages/eFigure_6_page_02.png",
+      "width_mm": 170,
+      "height_mm": 90.0,
+      "panels": [
+        "C"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "4c812a33bc6a637a8d1193273f53833fb5dc0c8d73e10b03543029609dca15a1",
+      "svg_sha256": "f752fd816855f6fb78a8d8ad95224fbc9405fe9b7a4e4154ef9baef28b3cf5cb",
+      "png_sha256": "a432ad6612bdd32987a1f8426e9ce93eb49a7ae187bfa73791343d1edb8db749",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_7",
+      "page": 1,
+      "svg": "pages/eFigure_7_page_01.svg",
+      "pdf": "pages/eFigure_7_page_01.pdf",
+      "png": "pages/eFigure_7_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "8cb72fc5ce4760af710c15353328d4a635a436d1f6951704f4d3370e090b7e2c",
+      "svg_sha256": "89f830e7077bdafcaed14b4b0e0541a240491d0738ad5e225fd089129f89317b",
+      "png_sha256": "6a52b7d4d2401363b899f5cd444f38962ab211caae9516c88dc5c1de49b0a35b",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_7",
+      "page": 2,
+      "svg": "pages/eFigure_7_page_02.svg",
+      "pdf": "pages/eFigure_7_page_02.pdf",
+      "png": "pages/eFigure_7_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "8c581768c1263be779d5900e3ed8308bca87de4a295652cba3ee1ddb1d6d1157",
+      "svg_sha256": "96b9fe957da6933b435f3ff91431c6ccc7608fc9c56175873917fe1e3be40313",
+      "png_sha256": "6f295d90f4719076d3f18e22f39197a4c6c1338f17043e56c16cc321859399e1",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_8",
+      "page": 1,
+      "svg": "pages/eFigure_8_page_01.svg",
+      "pdf": "pages/eFigure_8_page_01.pdf",
+      "png": "pages/eFigure_8_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "cbde5cd2b0627749e184f4d6195b7008c9ed6272108c75ee94a3b65ea1fe6f40",
+      "svg_sha256": "226640b52094335f67a61036d2f35f76e98fac3da58b52098afca898ccbfb4ee",
+      "png_sha256": "b5b97180513bb2bf3475751444defae812f92abc22c0289b35e08cddfa491620",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_9",
+      "page": 1,
+      "svg": "pages/eFigure_9_page_01.svg",
+      "pdf": "pages/eFigure_9_page_01.pdf",
+      "png": "pages/eFigure_9_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "ee3575410cfb52305666d197c5920dbb4d4f6923b2b26e3f7a601d40d29834f5",
+      "svg_sha256": "c038d7695a8ecebe08b4be8818c53e255ef3797cba8bbdc830fe45480e1606a2",
+      "png_sha256": "1f0d65b2240b91c047141c1a055a995f0f329efe554af696837df2ca92b601da",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_10",
+      "page": 1,
+      "svg": "pages/eFigure_10_page_01.svg",
+      "pdf": "pages/eFigure_10_page_01.pdf",
+      "png": "pages/eFigure_10_page_01.png",
+      "width_mm": 170,
+      "height_mm": 93.0,
+      "panels": [
+        "A"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "9120ed455d18d76c684809f39568e5f6d05f829d0817c35b0314933a378cc230",
+      "svg_sha256": "204a0c77738af37bd21de13a3a73db1b9c0a40d7827f3f1463cb1fc50c4ef015",
+      "png_sha256": "971921368cf581a630ca3be8398c461ddf5dd16352f9eb931476c12b7c2c37b9",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_10",
+      "page": 2,
+      "svg": "pages/eFigure_10_page_02.svg",
+      "pdf": "pages/eFigure_10_page_02.pdf",
+      "png": "pages/eFigure_10_page_02.png",
+      "width_mm": 170,
+      "height_mm": 93.0,
+      "panels": [
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "b8fbd91766623adf1fb24237d4ebc494aefdc1dd06875392de74d5de1a4c31a6",
+      "svg_sha256": "29b8e1a0b2dd0d71334ac865e0d874f873ca02b7b07b34c2888094242468b229",
+      "png_sha256": "ed0e43a3ad002576cc34c39f832142118a9a6779020efa9d34f8e5fe065367f1",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_11",
+      "page": 1,
+      "svg": "pages/eFigure_11_page_01.svg",
+      "pdf": "pages/eFigure_11_page_01.pdf",
+      "png": "pages/eFigure_11_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "93d4a101abc7f0c0ecfde423ba6eae31c2bca338911ed96e9c8d3de2314fdac8",
+      "svg_sha256": "a256e056425bc51d2821468552131a0986c92dec83c6d6e000ce3ad9ed97a3f9",
+      "png_sha256": "492036532cce6dbcd864ef825163719b136fd76cd9550bf93de61611e08321cc",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_11",
+      "page": 2,
+      "svg": "pages/eFigure_11_page_02.svg",
+      "pdf": "pages/eFigure_11_page_02.pdf",
+      "png": "pages/eFigure_11_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "c630c08ef56deeedc4273eb4e21d2f9836bfcf733e19fb09ea2caa483c463754",
+      "svg_sha256": "be27dfaf8bc1509221c83ace91cee914862badfc7fdfc2f21b01677e17ed404e",
+      "png_sha256": "90e1f7b0c89aba3fe193bcdbf85e85a31a499c15c4001e448163c55797c1c494",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_12",
+      "page": 1,
+      "svg": "pages/eFigure_12_page_01.svg",
+      "pdf": "pages/eFigure_12_page_01.pdf",
+      "png": "pages/eFigure_12_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "0c5bfdef3c0cb55c34b59fb2182520388f7cf71243fda14ea49b9b61f7cd8038",
+      "svg_sha256": "fdd9803d8bd81a674e60cae59f2d70a9573839c248b9190fbfc54e65e29aee7e",
+      "png_sha256": "ceee75f26330473c4210e72c7b37e453b8696b3853aef949295e786e00c4309e",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_12",
+      "page": 2,
+      "svg": "pages/eFigure_12_page_02.svg",
+      "pdf": "pages/eFigure_12_page_02.pdf",
+      "png": "pages/eFigure_12_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "396f90be9507576a72ef0f12d99f6759169feff227f3ee4db38c1c3d7db7bea8",
+      "svg_sha256": "c435915e7adb8c2bdfe07ba0093b0d10cc9f85c47f3d3242f0fe09a5f9830ce6",
+      "png_sha256": "de34a64fe988d6d325b119255b2bf2bd2f783400b47a7cdc2cb73a116914ab70",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_13",
+      "page": 1,
+      "svg": "pages/eFigure_13_page_01.svg",
+      "pdf": "pages/eFigure_13_page_01.pdf",
+      "png": "pages/eFigure_13_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "206520fbade1d3164a83165cfd2002a80f9af91afcf7e8a2dccac522b5ea8243",
+      "svg_sha256": "1bedd911fbcfddcbc86fa20387ed8feaa1d9508f287b4d6356b76f37bde79c49",
+      "png_sha256": "6eb44747f7f152e286a94ac448eccfad3f64d3ec8c189752a495d0a51e86b7fa",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_13",
+      "page": 2,
+      "svg": "pages/eFigure_13_page_02.svg",
+      "pdf": "pages/eFigure_13_page_02.pdf",
+      "png": "pages/eFigure_13_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "78871701d794d1dfca77f685c7d2c5ff5cd6ab52b188299c515f9b9b46c85dcf",
+      "svg_sha256": "f97503c88e513041ac7c6820ec1548dbe6a362a569789c4b3e66dee2a23e70b0",
+      "png_sha256": "853811c9a894735f35fbbc705baef3d62df72ed4cb1f681bbad30034a3cbb34a",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_14",
+      "page": 1,
+      "svg": "pages/eFigure_14_page_01.svg",
+      "pdf": "pages/eFigure_14_page_01.pdf",
+      "png": "pages/eFigure_14_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "93c2476a50c335f4ed1c2a5a7bca7954b420149bb5032ba0904d6dc2c8890086",
+      "svg_sha256": "cd4740392e1a195e4a3314c8231be7e60d4ce53980511a2b3b83ef9cf7832375",
+      "png_sha256": "9b1d4db3985b05502b900abc2d3c9884ee13242531f5c656a9cef8d245ef627f",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_15",
+      "page": 1,
+      "svg": "pages/eFigure_15_page_01.svg",
+      "pdf": "pages/eFigure_15_page_01.pdf",
+      "png": "pages/eFigure_15_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "bff6211e8a9a7f4ac3c6c6205e33e48c590d8029c3be619a3564e8ef6d471984",
+      "svg_sha256": "e264df2cc20ae4dde31c9d5d679dbd44cdad98853ba8338c9be0f267a988742b",
+      "png_sha256": "05c6c4a17bc81a68a0f3fc3de05350e13ab249d9bff96212e5355a0986bf6927",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_15",
+      "page": 2,
+      "svg": "pages/eFigure_15_page_02.svg",
+      "pdf": "pages/eFigure_15_page_02.pdf",
+      "png": "pages/eFigure_15_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "5b499a859b426ac7954673a9a7a36d4951f1523366520cc435439bb0d322aa64",
+      "svg_sha256": "7040a237a3b9e8f425ec42d335bf1d3f943ecf2b892df682ab1dc0eb8e8f9488",
+      "png_sha256": "eb225b76a803516ba779096fdee1e348523c3b2626ac730e772d84ac7eb1c6a5",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_16",
+      "page": 1,
+      "svg": "pages/eFigure_16_page_01.svg",
+      "pdf": "pages/eFigure_16_page_01.pdf",
+      "png": "pages/eFigure_16_page_01.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "A",
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "eb2db6f0948db805eab42be439a7cef3c49e76f321e1f42ea64ff5a67bc79171",
+      "svg_sha256": "4eb60cdf4e77a1e5d0f7e1f3b23883dddadc3887c3f005817c39cd40d69d7806",
+      "png_sha256": "7f122d33dcf629dfbf252a35de8507890cde44fdf81cfad3c6b348bb864d6889",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_16",
+      "page": 2,
+      "svg": "pages/eFigure_16_page_02.svg",
+      "pdf": "pages/eFigure_16_page_02.pdf",
+      "png": "pages/eFigure_16_page_02.png",
+      "width_mm": 170,
+      "height_mm": 180.0,
+      "panels": [
+        "C",
+        "D"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "46fb771182f94d73e053ad98b19ce6eac70a04f820191f26c77a0109f6afb8a7",
+      "svg_sha256": "de481187b31d2b0ad8f1c3efbf70130e20ac7c989522f602ec6d0ddd17432d0d",
+      "png_sha256": "681609e1be40b1bf50abbe22d96aa612ad96fac900d53085227ad4c3661037b2",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_17",
+      "page": 1,
+      "svg": "pages/eFigure_17_page_01.svg",
+      "pdf": "pages/eFigure_17_page_01.pdf",
+      "png": "pages/eFigure_17_page_01.png",
+      "width_mm": 170,
+      "height_mm": 90.0,
+      "panels": [
+        "A"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "57028625c8ec991ae46bd963dc46eae6a3e72c746c231c93b8544ceeb79115ee",
+      "svg_sha256": "f8a699575c43221940f9de1e5da258c1de422322e4f78adbf5ec8a56d66b342e",
+      "png_sha256": "1272ddcf3f018ae1f36948b145d6bc2a8370e4aa3cac357a670d75e9f81c85d7",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_17",
+      "page": 2,
+      "svg": "pages/eFigure_17_page_02.svg",
+      "pdf": "pages/eFigure_17_page_02.pdf",
+      "png": "pages/eFigure_17_page_02.png",
+      "width_mm": 170,
+      "height_mm": 110.0,
+      "panels": [
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "27c519f2c4d7595197857156df28afb644cac09952d88e67f9e3f9db223c1f6a",
+      "svg_sha256": "fedb3b042723b7ef5fdf1195e3732009bf1f3e50676ec3f6726f5725ddd1ae73",
+      "png_sha256": "03f35223f8f9a9fa758027606eb5494dddda29d58abf91a6af84d2818b61eedc",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_18",
+      "page": 1,
+      "svg": "pages/eFigure_18_page_01.svg",
+      "pdf": "pages/eFigure_18_page_01.pdf",
+      "png": "pages/eFigure_18_page_01.png",
+      "width_mm": 170,
+      "height_mm": 110.0,
+      "panels": [
+        "A"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "439717b90200c287d2e308d878ab5f4ce44fd5c940881ee5ad9b5a8ca2621e3b",
+      "svg_sha256": "dcb95f16df3131f4f702676dc2426aecc950ca3e7eece969356d3899f9e43933",
+      "png_sha256": "ed2679954ec3d5e4275a3204a1b7d1484079d2954d33ff102bda7452129f41d1",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    },
+    {
+      "figure": "eFigure_18",
+      "page": 2,
+      "svg": "pages/eFigure_18_page_02.svg",
+      "pdf": "pages/eFigure_18_page_02.pdf",
+      "png": "pages/eFigure_18_page_02.png",
+      "width_mm": 170,
+      "height_mm": 110.0,
+      "panels": [
+        "B"
+      ],
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "fonts": [
+        "Arial-BoldMT",
+        "ArialMT"
+      ],
+      "pdf_sha256": "3c4af7e9af00434f2677aff4f355f1b87d0c9fb6acd87bf66bb1a92fdfaa7c6d",
+      "svg_sha256": "b6324917e57ee4a09312935128339f38b893eb4e785f8731c4c9bb6f31560323",
+      "png_sha256": "926607488bf0b9a513a03f0e92d09a9d0fd96b70e9e8a5d4f0c6ba81f1f90363",
+      "text_content_unchanged": true,
+      "raster_images": 0
+    }
+  ],
+  "panels": [
+    {
+      "figure": "eFigure_1",
+      "panel": "A",
+      "pdf": "panels/eFigure_1/eFigure_1_A.pdf",
+      "svg": "panels/eFigure_1/eFigure_1_A.svg",
+      "png": "panels/eFigure_1/eFigure_1_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b4b83e780ff8fd24bfc8b56016e7e03dc0867f243c51af33c16dda07d5d4a8cb",
+      "rich_numeric_artist_sha256": "612eed20538d4cd36ec5ccce2aec4614c504153a632ea80c7490fa4276b73910",
+      "annotation_text_sha256": "2aed1372179e59b0e34d9176961d00f338d7dafe139e84b7ba4b2148f55e54e7",
+      "baseline_native_numeric_match": true,
+      "source_title": "Source and information-stage populations",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.054098039215686275,
+            0.04473974910783179,
+            0.9209019607843137,
+            0.8076584804205248
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "4,014 records",
+          "position": [
+            0.045,
+            0.831
+          ]
+        },
+        {
+          "text": "4,013 records",
+          "position": [
+            0.045,
+            0.601
+          ]
+        },
+        {
+          "text": "3,710 records / 205 AKI",
+          "position": [
+            0.045,
+            0.371
+          ]
+        },
+        {
+          "text": "2,428 records / 138 AKI",
+          "position": [
+            0.045,
+            0.14100000000000001
+          ]
+        },
+        {
+          "text": "Age <18 n = 1",
+          "position": [
+            0.84,
+            0.75
+          ]
+        },
+        {
+          "text": "Renal data unavailable n = 303",
+          "position": [
+            0.84,
+            0.515
+          ]
+        },
+        {
+          "text": "Patient groups: 3,693 preop; 2,411 paired.",
+          "position": [
+            0.02,
+            0.015
+          ]
+        }
+      ],
+      "pdf_sha256": "909f9f9299cf8ce38841eb873317c96bba5f9a3ffb6a1b4ba60e7736f2942f24",
+      "svg_sha256": "976d48d8276ee8f84e2a4475305fc40f649f80166de4e2590a2a80a7270c1402",
+      "pdf_qualification": {
+        "file": "panels/eFigure_1/eFigure_1_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "a83b6d8ebd6368fb3e8971ea6a911077c19c1a8e12319d25d2f747aea360df99",
+        "sha256": "909f9f9299cf8ce38841eb873317c96bba5f9a3ffb6a1b4ba60e7736f2942f24"
+      },
+      "svg_editable_text_elements": 15
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "B",
+      "pdf": "panels/eFigure_1/eFigure_1_B.pdf",
+      "svg": "panels/eFigure_1/eFigure_1_B.svg",
+      "png": "panels/eFigure_1/eFigure_1_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b4b83e780ff8fd24bfc8b56016e7e03dc0867f243c51af33c16dda07d5d4a8cb",
+      "rich_numeric_artist_sha256": "37fea7cf976d4aefbedb0a0605f46fbc296e4b378253764df39b671f1c1f5d0a",
+      "annotation_text_sha256": "1d3e59881fa03bc502d7757a6b23ad1806d7febf9dca772a91bd41c010b72ec2",
+      "baseline_native_numeric_match": true,
+      "source_title": "Training and evaluation records",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.054098039215686275,
+            0.04473974910783179,
+            0.9209019607843137,
+            0.8076584804205248
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "2,551 133 AKI",
+          "position": [
+            0.52,
+            0.77
+          ]
+        },
+        {
+          "text": "1,159 72 AKI",
+          "position": [
+            0.78,
+            0.77
+          ]
+        },
+        {
+          "text": "2,024 139 AKI",
+          "position": [
+            0.52,
+            0.5900000000000001
+          ]
+        },
+        {
+          "text": "1,683 66 AKI",
+          "position": [
+            0.78,
+            0.5900000000000001
+          ]
+        },
+        {
+          "text": "1,270 66 AKI",
+          "position": [
+            0.52,
+            0.41000000000000003
+          ]
+        },
+        {
+          "text": "1,158 72 AKI",
+          "position": [
+            0.78,
+            0.41000000000000003
+          ]
+        },
+        {
+          "text": "1,414 102 AKI",
+          "position": [
+            0.52,
+            0.22999999999999998
+          ]
+        },
+        {
+          "text": "1,011 36 AKI",
+          "position": [
+            0.78,
+            0.22999999999999998
+          ]
+        },
+        {
+          "text": "Evaluation overlap: 273 records / 272 patient groups.",
+          "position": [
+            0.01,
+            0.015
+          ]
+        }
+      ],
+      "pdf_sha256": "246b97413ab7930a62574e00c64b0f382a2e2e1571486df1d0c237ac9a3be2f8",
+      "svg_sha256": "2486f318edf174526dd7a385e50bf20d74b844ccbaa316770a12e865ee70117f",
+      "pdf_qualification": {
+        "file": "panels/eFigure_1/eFigure_1_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "791e8fb0605c6d0a5467f32c739d978d075b9e4fd5dce81a368377a131c865d8",
+        "sha256": "246b97413ab7930a62574e00c64b0f382a2e2e1571486df1d0c237ac9a3be2f8"
+      },
+      "svg_editable_text_elements": 29
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "C",
+      "pdf": "panels/eFigure_1/eFigure_1_C.pdf",
+      "svg": "panels/eFigure_1/eFigure_1_C.svg",
+      "png": "panels/eFigure_1/eFigure_1_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "e7fb446464c5b6736fdd083bb61cd86141fdb6fe041a5419cc52bd44d9cc0666",
+      "rich_numeric_artist_sha256": "5477256686f7a563f20b9b605bdfb7b890c3e6fe49bb37e09e00e16d6c0c984a",
+      "annotation_text_sha256": "51fd7a338147c58858fec342a178d53c339eacd6e44132612af3c0bd5afafe2d",
+      "baseline_native_numeric_match": true,
+      "source_title": "Information required by the evaluated systems",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.054098039215686275,
+            0.04473974910783179,
+            0.9209019607843137,
+            0.8076584804205248
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "9 compact / 27 full inputs 18 fewer fields (66.7%)",
+          "position": [
+            0.04,
+            0.7839999999999999
+          ]
+        },
+        {
+          "text": "27 preop + 11 intraoperative = 38 inputs Paired evaluation on the same records",
+          "position": [
+            0.04,
+            0.47400000000000003
+          ]
+        },
+        {
+          "text": "POD1 update",
+          "position": [
+            0.04,
+            0.25799999999999995
+          ]
+        },
+        {
+          "text": "POD1 SCr + ratio to baseline Separate conditional cohort: 2,947 / 39 AKI",
+          "position": [
+            0.04,
+            0.16399999999999995
+          ]
+        }
+      ],
+      "pdf_sha256": "d28353e924dce78580997ae42543e1dd32f8e5e4dc84b010fbe3e77a088308e0",
+      "svg_sha256": "03c1e600cb475732e1b2f127aa7bdb23a5ec355f0f1759f3e425f265a26da33d",
+      "pdf_qualification": {
+        "file": "panels/eFigure_1/eFigure_1_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "aee36a0fd920a1effa281f98a2b4cbab403a2d9cb04994dccb606a0c2799d8e1",
+        "sha256": "d28353e924dce78580997ae42543e1dd32f8e5e4dc84b010fbe3e77a088308e0"
+      },
+      "svg_editable_text_elements": 10
+    },
+    {
+      "figure": "eFigure_1",
+      "panel": "D",
+      "pdf": "panels/eFigure_1/eFigure_1_D.pdf",
+      "svg": "panels/eFigure_1/eFigure_1_D.svg",
+      "png": "panels/eFigure_1/eFigure_1_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "658c0e42dc673b8a72f4745ba389d3b0a4d563fb73746db73eaf054819ee8c69",
+      "rich_numeric_artist_sha256": "57a5b8afa212641208227a0f60bd92b8c3b1cc00c6f162865c75789192852693",
+      "annotation_text_sha256": "3d3141a0bc09fbc842686ce803d9210ba93c7ea018064e91ae7c39c25cee8a84",
+      "baseline_native_numeric_match": true,
+      "source_title": "Public six-input representation",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.054098039215686275,
+            0.04473974910783179,
+            0.9209019607843137,
+            0.8076584804205248
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "INSPIRE: 6,043 records / 253 SCr events",
+          "position": [
+            0.055,
+            0.84
+          ]
+        },
+        {
+          "text": "Endop uses the recorded postoperative composite. POD1 uses a separate conditional SCr endpoint.",
+          "position": [
+            0.02,
+            0.28
+          ]
+        }
+      ],
+      "pdf_sha256": "64b0772788b84788432d8a02f26dd524921514ce8adca59469cba811249f2dcb",
+      "svg_sha256": "34c5140cc6a2164ea9f0937d20eff8ac20663716a44ba312d1f3f1a0d3584828",
+      "pdf_qualification": {
+        "file": "panels/eFigure_1/eFigure_1_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "fa7f7eaaae0981d75e20c04e5366f218394ed3ceeb6bd81cb28abdbabd9ff557",
+        "sha256": "64b0772788b84788432d8a02f26dd524921514ce8adca59469cba811249f2dcb"
+      },
+      "svg_editable_text_elements": 7
+    },
+    {
+      "figure": "eFigure_2",
+      "panel": "A",
+      "pdf": "panels/eFigure_2/eFigure_2_A.pdf",
+      "svg": "panels/eFigure_2/eFigure_2_A.svg",
+      "png": "panels/eFigure_2/eFigure_2_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "12b7dc09087c38588a40b73390115d558a9fe46aad0a33b92a83ef52e430e44f",
+      "rich_numeric_artist_sha256": "cde980681e9d73950366263a7da288c9fae6f5edab9b40ef3252539d2dee07ca",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Original paired estimates and intervals",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.685,
+            0.6344444444444445
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "e7704cf0825cafa1037d67fbf55aee2f9fd07971cdb276a9081007604b072a14",
+      "svg_sha256": "49e47ebf28fd70999be46462470bf9f0e291974fcd1adeb93341162af8eaae52",
+      "pdf_qualification": {
+        "file": "panels/eFigure_2/eFigure_2_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "c9b14b68b2eb31cc1696e970577fb34a54889a34be2b3d71f6bc9bc1b51d7476",
+        "sha256": "e7704cf0825cafa1037d67fbf55aee2f9fd07971cdb276a9081007604b072a14"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_2",
+      "panel": "B",
+      "pdf": "panels/eFigure_2/eFigure_2_B.pdf",
+      "svg": "panels/eFigure_2/eFigure_2_B.svg",
+      "png": "panels/eFigure_2/eFigure_2_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b270171ba802bb2af39fa5cd3989c627c5678515170d4583d452d1c2bb83b723",
+      "rich_numeric_artist_sha256": "445f385288c3c08a06629c6ed03c1bf9d283126db3dfc931142373cc6f30fb65",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Complete discrete reference grid",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.32555555555555554,
+            0.685,
+            0.5644444444444445
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "1ebb5eeba1edab6e3a7302ceb23138f99c1059ce515b1b9df4536a7feb6eaf20",
+      "svg_sha256": "1e7b8efe95c8045f314d0d34a0ab39558227c8143d2f97d89ce0ddf399804b39",
+      "pdf_qualification": {
+        "file": "panels/eFigure_2/eFigure_2_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "80bd908099191f87fa4fdab4da482ed581938f0efa232cd9e3c15520483889e7",
+        "sha256": "1ebb5eeba1edab6e3a7302ceb23138f99c1059ce515b1b9df4536a7feb6eaf20"
+      },
+      "svg_editable_text_elements": 23
+    },
+    {
+      "figure": "eFigure_3",
+      "panel": "A",
+      "pdf": "panels/eFigure_3/eFigure_3_A.pdf",
+      "svg": "panels/eFigure_3/eFigure_3_A.svg",
+      "png": "panels/eFigure_3/eFigure_3_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "995c1ffd505990c7faedb9f99b6df69bd040dde4e4d44c914f70770edda6e85d",
+      "rich_numeric_artist_sha256": "c4329093687633c0dc190f12fc4065e85d0cab4fc0921fe9ec51d1f2d12ae94c",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "10% review capacity",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "c280051922b9d2d69405c964e34695389cc427dc2d08bbdc37d1dd3e11b547fc",
+      "svg_sha256": "79143e0855f97ac4f55c7794d06ce514e88370bf1d614b5fb8d0ab601ffb6f14",
+      "pdf_qualification": {
+        "file": "panels/eFigure_3/eFigure_3_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "feee6798a002f87046e1e3416b3bdd9389e3b9a5af5092c8b314ffbbc4f2c7a8",
+        "sha256": "c280051922b9d2d69405c964e34695389cc427dc2d08bbdc37d1dd3e11b547fc"
+      },
+      "svg_editable_text_elements": 11
+    },
+    {
+      "figure": "eFigure_3",
+      "panel": "B",
+      "pdf": "panels/eFigure_3/eFigure_3_B.pdf",
+      "svg": "panels/eFigure_3/eFigure_3_B.svg",
+      "png": "panels/eFigure_3/eFigure_3_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "e291342d19b4ba297cf7df3b477d80f81db29c0e11a885348825cdc6c6f96bdb",
+      "rich_numeric_artist_sha256": "085ee588136c2d18d9cd70f5444b0ed1f11de3d03bddd03382cfab6c7f197ec6",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "20% review capacity",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "e8249419a995626e50ab6f34cbda916e0c05c89c4fbb7221987674d6c7f6bcbe",
+      "svg_sha256": "4bdf6678f89f008c88ac3e7ee319e1eff1227d42c57c57b95ba2fb57657ed948",
+      "pdf_qualification": {
+        "file": "panels/eFigure_3/eFigure_3_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "965193ec32d1450874e8b1b4a67e4a6b2c41aac2476c22426ed106d4db9c3fdd",
+        "sha256": "e8249419a995626e50ab6f34cbda916e0c05c89c4fbb7221987674d6c7f6bcbe"
+      },
+      "svg_editable_text_elements": 11
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "A",
+      "pdf": "panels/eFigure_4/eFigure_4_A.pdf",
+      "svg": "panels/eFigure_4/eFigure_4_A.svg",
+      "png": "panels/eFigure_4/eFigure_4_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "482da9b2e41435e70e1428fdefe108d29c26fdf3b1187459fe15d766fb5c60ac",
+      "rich_numeric_artist_sha256": "c146d54628a8de742011c54dd543180446519d6a89dc486d7f3805a8dabe0f25",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geography preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "d7523aca51e7aa75cac26718b57321dfa3b3703a3c4bd0965a172139f8733684",
+      "svg_sha256": "0d88fbfaf4b1d9b445eb0f2128cd234dc09c8449488c2d02c266a61e8d683a47",
+      "pdf_qualification": {
+        "file": "panels/eFigure_4/eFigure_4_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "2cc60f30adf304fe8661d63fc19780b3699df89a6ab9faa337af05bfd0680a75",
+        "sha256": "d7523aca51e7aa75cac26718b57321dfa3b3703a3c4bd0965a172139f8733684"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "B",
+      "pdf": "panels/eFigure_4/eFigure_4_B.pdf",
+      "svg": "panels/eFigure_4/eFigure_4_B.svg",
+      "png": "panels/eFigure_4/eFigure_4_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "075206b77f91a543d459b899db8fc5a27bb68bf654d5960d730733a5dd8a9333",
+      "rich_numeric_artist_sha256": "4a118a4d0e8f268bbb422a72ed7a85d12ae0879be21c1ae645abe33b6c4c7d7d",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "1363855489df68c72ae3effcd50d75314dd490a8b1046a8e3217e72cafd192e4",
+      "svg_sha256": "3b66c80dff43333c59affc66dda22fedbcac4601f75340e15a1771fd27becdd9",
+      "pdf_qualification": {
+        "file": "panels/eFigure_4/eFigure_4_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "386bbafc531b6f7cf17494042c27e8e25bc25f5f81fa6fbcfda06aecc8ebe951",
+        "sha256": "1363855489df68c72ae3effcd50d75314dd490a8b1046a8e3217e72cafd192e4"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "C",
+      "pdf": "panels/eFigure_4/eFigure_4_C.pdf",
+      "svg": "panels/eFigure_4/eFigure_4_C.svg",
+      "png": "panels/eFigure_4/eFigure_4_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b29073c3ee6e924b2cb4aaf8b068d9a681218d2a5fef1c18c5792bdbcabccd58",
+      "rich_numeric_artist_sha256": "4d780ad201852e74885ed3fbc950e812bfa6df5d6b60e4a956cfc40164db4dce",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geography paired",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "0c426e4e034f6ed7ed7cae75f1ad7f6b7b9c15a75514da4a1ba67a413b4f6bee",
+      "svg_sha256": "86f3b766b670531830a2161079618a3d2659f950995d129b8f9eb0fb1a09f2cf",
+      "pdf_qualification": {
+        "file": "panels/eFigure_4/eFigure_4_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "fcf9cf274806a1bbc8a6c13426a509bd34f6500c1e110ceaf99e4210d9cde2f4",
+        "sha256": "0c426e4e034f6ed7ed7cae75f1ad7f6b7b9c15a75514da4a1ba67a413b4f6bee"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_4",
+      "panel": "D",
+      "pdf": "panels/eFigure_4/eFigure_4_D.pdf",
+      "svg": "panels/eFigure_4/eFigure_4_D.svg",
+      "png": "panels/eFigure_4/eFigure_4_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "169bd172670807065253bb283edc573bda39d257ba15d192e8e534485781434f",
+      "rich_numeric_artist_sha256": "cb189eafc8689ccb74df877262d453a550dc0d0c78f540fe65a8a31bb489f2ba",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal paired",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "a52605b53125519e7f58f37365e680c57429d9f43642f3eec63962086fcc1c85",
+      "svg_sha256": "d52c681882ba5dc9e3009c89ed025499812f3a7ac3c1ddc391756aa4c2b3bdd7",
+      "pdf_qualification": {
+        "file": "panels/eFigure_4/eFigure_4_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "21b95df04fb284a5e2b2f89e7f7bc0df18ab4ccdfa891f8b632fb0c7a93e4362",
+        "sha256": "a52605b53125519e7f58f37365e680c57429d9f43642f3eec63962086fcc1c85"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_5",
+      "panel": "A",
+      "pdf": "panels/eFigure_5/eFigure_5_A.pdf",
+      "svg": "panels/eFigure_5/eFigure_5_A.svg",
+      "png": "panels/eFigure_5/eFigure_5_A.png",
+      "width_mm": 170.0,
+      "height_mm": 104.4,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "2672f5cced9fbcaad995f0628ce6ec1dd9fbc83e76155c9944e7e233875ab141",
+      "rich_numeric_artist_sha256": "d04f7dcd0552ce82640d5aad20e19d5db34909156a748af7a43e80705cdcf35f",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Original and target-local updates",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 104.4,
+          "axes_position": [
+            0.29,
+            0.22030651340996169,
+            0.685,
+            0.6696934865900384
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "adcfbea195056043edc347822e645d7537429efc0bd3522127d064be302ef827",
+      "svg_sha256": "473b374c69c69954eb2e48bbe6abbc2727eecd7b2c1ab481fd7caa7add33f13b",
+      "pdf_qualification": {
+        "file": "panels/eFigure_5/eFigure_5_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 104.4000013563368,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "9673b4846fd95546bc8808978004943eed8e6064dad845f4c93f6637e3365485",
+        "sha256": "adcfbea195056043edc347822e645d7537429efc0bd3522127d064be302ef827"
+      },
+      "svg_editable_text_elements": 19
+    },
+    {
+      "figure": "eFigure_5",
+      "panel": "B",
+      "pdf": "panels/eFigure_5/eFigure_5_B.pdf",
+      "svg": "panels/eFigure_5/eFigure_5_B.svg",
+      "png": "panels/eFigure_5/eFigure_5_B.png",
+      "width_mm": 170.0,
+      "height_mm": 104.4,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "1272d0ed81c281eeea40c4cf112eea0e867632009c5e62665952d3313c9ee387",
+      "rich_numeric_artist_sha256": "9f9bb9be0627908fe4e6a6d9576de46bfbdddf713a4a25a49f7289ad502cd202",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Update minus original",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 104.4,
+          "axes_position": [
+            0.29,
+            0.22030651340996169,
+            0.685,
+            0.6696934865900384
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "3dfae8f4a25068006f73e691dc28dec41f4ade438a58b18d3cb18132ced6cd8c",
+      "svg_sha256": "91d72c6d124bbbe727b75faffd15348f2294d9933183e78eaa280e974527ba51",
+      "pdf_qualification": {
+        "file": "panels/eFigure_5/eFigure_5_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 104.4000013563368,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "e83eb9f90488b2b96ad43a7c4326d9a6c7ca1747659937fb19873618045ce2bc",
+        "sha256": "3dfae8f4a25068006f73e691dc28dec41f4ade438a58b18d3cb18132ced6cd8c"
+      },
+      "svg_editable_text_elements": 19
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "A",
+      "pdf": "panels/eFigure_6/eFigure_6_A.pdf",
+      "svg": "panels/eFigure_6/eFigure_6_A.svg",
+      "png": "panels/eFigure_6/eFigure_6_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b828baee378da60da8a962741c987c9f42a2f90aba9631b9b2e71a7f8baccf5a",
+      "rich_numeric_artist_sha256": "b1d6ee4d41c5c3e0c80b37b02fde74e5751c0eb68be6604a7e0e2a2c432b2a53",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geographic: 1,159 records / 72 AKI",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6803058823529411,
+            0.6092827611187704
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "59ba6d17a64d0ae5d02be7e37941d31d11c91fe23090dae2f5d9451867469541",
+      "svg_sha256": "b0165dbf9742e04a98e025712fddfc0f3ac2b0c8940927867d2ccdecfa052f06",
+      "pdf_qualification": {
+        "file": "panels/eFigure_6/eFigure_6_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "31725946f1aa2311e18066527b09c81e471bf8807211b0be6269028559ecd2d4",
+        "sha256": "59ba6d17a64d0ae5d02be7e37941d31d11c91fe23090dae2f5d9451867469541"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "B",
+      "pdf": "panels/eFigure_6/eFigure_6_B.pdf",
+      "svg": "panels/eFigure_6/eFigure_6_B.svg",
+      "png": "panels/eFigure_6/eFigure_6_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "5efce6afd2ce9c96c624ee056fafc70176cfa0c9a33b44afe3b1eb13f768228c",
+      "rich_numeric_artist_sha256": "b2cf2d2b60526bb6989f50c2871575d4a52af049a208ddf1906d8f78089f6e03",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal: 1,683 records / 66 AKI",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6803058823529411,
+            0.6092827611187704
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "70d91a2a77aea7f69686418217fb47ac96d5d56c39f42afdd342cd06c036558b",
+      "svg_sha256": "a9e3b24c063359613224630b43bce5188856cd8a6cfbf1136b18e31522d3fa19",
+      "pdf_qualification": {
+        "file": "panels/eFigure_6/eFigure_6_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "b137c757349735d4a06e0c04bea38df6d30206ec60d6580f2199a7da43acdba1",
+        "sha256": "70d91a2a77aea7f69686418217fb47ac96d5d56c39f42afdd342cd06c036558b"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_6",
+      "panel": "C",
+      "pdf": "panels/eFigure_6/eFigure_6_C.pdf",
+      "svg": "panels/eFigure_6/eFigure_6_C.svg",
+      "png": "panels/eFigure_6/eFigure_6_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "8a86fac192d18bdb3e710141eea9b54e4c36204d111ba1dbeb8dea43c3da5160",
+      "rich_numeric_artist_sha256": "10b4b1024f6a60c6603623c306d020a8ce288e91b78a559983ed927a14fba5de",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Capture gained when increasing review capacity",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6773176470588234,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "39b242608de308a9dccd9e2fec9ffcabb45467287569683d01b6c431541075f7",
+      "svg_sha256": "a4c502cae5115de59222d987d4bb126232f4d4237f84c9cf2d9f1e2838b5e6d6",
+      "pdf_qualification": {
+        "file": "panels/eFigure_6/eFigure_6_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "b57f834ed74805e64087be62aad86102ff40cd83e3008f65c5653beb2a99b765",
+        "sha256": "39b242608de308a9dccd9e2fec9ffcabb45467287569683d01b6c431541075f7"
+      },
+      "svg_editable_text_elements": 16
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "A",
+      "pdf": "panels/eFigure_7/eFigure_7_A.pdf",
+      "svg": "panels/eFigure_7/eFigure_7_A.svg",
+      "png": "panels/eFigure_7/eFigure_7_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "26083f6d1b6286c4b5cfff061d7c72ecf7e530b12dac83c955e67f2ce717fe91",
+      "rich_numeric_artist_sha256": "daed982a946eb7c9e333ddde13a1d48e05426c7eb3b3ba1aac9713662bfe4fed",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Public six-input source models",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "07f75402acf6c3131f27c87c77f42fa2a5dc172d050b85ad7f85f8e451aed2f3",
+      "svg_sha256": "ce96cbda2c6b5a03669bdf3c648ceade29c7e035ada15d4ae91fc7aa0ef050ed",
+      "pdf_qualification": {
+        "file": "panels/eFigure_7/eFigure_7_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "82e389f7a9fc68d36d558bf4343b0c6fa4000b5c843f4c31caf3d662dfc59ca2",
+        "sha256": "07f75402acf6c3131f27c87c77f42fa2a5dc172d050b85ad7f85f8e451aed2f3"
+      },
+      "svg_editable_text_elements": 8
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "B",
+      "pdf": "panels/eFigure_7/eFigure_7_B.pdf",
+      "svg": "panels/eFigure_7/eFigure_7_B.svg",
+      "png": "panels/eFigure_7/eFigure_7_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b6bb55f2efab6c1386d0ac710078708f7907ec09f7d6831399c708cbf54f4fc6",
+      "rich_numeric_artist_sha256": "e1f85f0bad83dd2e9e570ff2633db302ef977fc8e1373fc43d14f2915e7eec4e",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Capture at target 20% ranking",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6803058823529411,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "91830f82fafb672fb8fba488d15d85847516b3940c9e0a9a84c316bdc3c8a7ba",
+      "svg_sha256": "ca5cc2899c94e140493bf70d0a32c2f2fca46eabdabb0db1494a4281aead847f",
+      "pdf_qualification": {
+        "file": "panels/eFigure_7/eFigure_7_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "fef2b157ac557538f98e6a5d6a473c53f29dcf80faf96c9ed5cb8e547124714a",
+        "sha256": "91830f82fafb672fb8fba488d15d85847516b3940c9e0a9a84c316bdc3c8a7ba"
+      },
+      "svg_editable_text_elements": 9
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "C",
+      "pdf": "panels/eFigure_7/eFigure_7_C.pdf",
+      "svg": "panels/eFigure_7/eFigure_7_C.svg",
+      "png": "panels/eFigure_7/eFigure_7_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "c901bfde1f8c8e7c1d229284d16e98a5b6cf5f13db4eb3881a7198e743a211bf",
+      "rich_numeric_artist_sha256": "fef8bf93932967981603ab37c22ebe343663a2d25b70f8c06dcb2310b5040da3",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Review burden",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "8973a2691550ddae99717d1fe0591fe3f60d88314b4a15044ae5b927c34e0043",
+      "svg_sha256": "9919118fe398b47574a26a00ec0f4151367bd0eaa0bd3b102a8fe2bf9188d3a6",
+      "pdf_qualification": {
+        "file": "panels/eFigure_7/eFigure_7_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "89f7703abf7f956b3ade95cc3ed8fa944c7933c694ad757dd330be24ebd7a2b0",
+        "sha256": "8973a2691550ddae99717d1fe0591fe3f60d88314b4a15044ae5b927c34e0043"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_7",
+      "panel": "D",
+      "pdf": "panels/eFigure_7/eFigure_7_D.pdf",
+      "svg": "panels/eFigure_7/eFigure_7_D.svg",
+      "png": "panels/eFigure_7/eFigure_7_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "f83fc78bd48727f40f21d4029b88552e72a20919f83037e748ce164741d2d62a",
+      "rich_numeric_artist_sha256": "0cf28e8a26e44850407231c1e7b82d38fd30f5b94ebbdda77112abf7318e2d5d",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Event capture",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "676123212950420202b9da81999a3ec4cc6fd5729ec06aeaa5d8c0984d44a991",
+      "svg_sha256": "d4d9d85e4df25ce9a8798acf3ad8d0c1b009090b88f94ec6f1d65a54bb60b2ff",
+      "pdf_qualification": {
+        "file": "panels/eFigure_7/eFigure_7_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "9aad6e852c5dcc03038d390778ed1f14b26fa8babcbbd360918015a1289c98eb",
+        "sha256": "676123212950420202b9da81999a3ec4cc6fd5729ec06aeaa5d8c0984d44a991"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_8",
+      "panel": "A",
+      "pdf": "panels/eFigure_8/eFigure_8_A.pdf",
+      "svg": "panels/eFigure_8/eFigure_8_A.svg",
+      "png": "panels/eFigure_8/eFigure_8_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "544a39e0b6e23cc23c93b117aab56d69e9fd9ddc0a782c094eb98f3233507b4a",
+      "rich_numeric_artist_sha256": "0bc11fba6cb56d920badbc249fe00605cf8fdcb7b14eac8578d6b24823a2b260",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Target 20% ranking",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.685,
+            0.573608112024378
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "be23a77aa6e9890c05746e57f4ec46a46ff210a7fb790a3bf385ea83decad2ef",
+      "svg_sha256": "1f244b2105a4d58295295f6dd06fe5017a27cfe50d2f265223182b5fd18dc1ef",
+      "pdf_qualification": {
+        "file": "panels/eFigure_8/eFigure_8_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "668f8efb7c77cea312e4f16f01aaeb57a0f3269c9bdd68114cef6bc97a528518",
+        "sha256": "be23a77aa6e9890c05746e57f4ec46a46ff210a7fb790a3bf385ea83decad2ef"
+      },
+      "svg_editable_text_elements": 14
+    },
+    {
+      "figure": "eFigure_8",
+      "panel": "B",
+      "pdf": "panels/eFigure_8/eFigure_8_B.pdf",
+      "svg": "panels/eFigure_8/eFigure_8_B.svg",
+      "png": "panels/eFigure_8/eFigure_8_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "1d0a000ba985e85cb8c5a0b036aa34ab430dbda19669ac0d82394163f263368f",
+      "rich_numeric_artist_sha256": "bd19c15a0551c09b7e7d5eb263c8222ba457cf1be853dcf4d7a6d4e985dd66ae",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Rule-specific ≥24-hour recorded coverage",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6803058823529411,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "9fd7d19d01cc4ec7783a26e15c3b910e1ade067d3d45d8203596991baa5fbc16",
+      "svg_sha256": "4e07de1df112fe4452f811a4dcf860e89126b499c5a968cb15956b9c2f0fc00d",
+      "pdf_qualification": {
+        "file": "panels/eFigure_8/eFigure_8_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "7485647d4d4d38736a6f5af1df226a19565e2858aa249e17a3feb4ab9a10d9e6",
+        "sha256": "9fd7d19d01cc4ec7783a26e15c3b910e1ade067d3d45d8203596991baa5fbc16"
+      },
+      "svg_editable_text_elements": 11
+    },
+    {
+      "figure": "eFigure_9",
+      "panel": "A",
+      "pdf": "panels/eFigure_9/eFigure_9_A.pdf",
+      "svg": "panels/eFigure_9/eFigure_9_A.svg",
+      "png": "panels/eFigure_9/eFigure_9_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "0a0c741992e8bdc5f8c113712f0afa1e6b5f89e9dea404750766289a17ed5362",
+      "rich_numeric_artist_sha256": "49b870dbac4da12ee205ac793aa1bc6f65cd49f53e32568cfb1ac95572d9dbca",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "POD1 update: discrimination",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "a7167736d578ea51c52fca41cf0f14bf081097c54694e16aa3bd53eb14935add",
+      "svg_sha256": "dcbd29a38911360a4a648e82958017a13db62a70c19aa19689eef6341a39cbbb",
+      "pdf_qualification": {
+        "file": "panels/eFigure_9/eFigure_9_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "03343db6716198967e436b953786edf949491e312c014f3443c7393fd7c0d2b7",
+        "sha256": "a7167736d578ea51c52fca41cf0f14bf081097c54694e16aa3bd53eb14935add"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_9",
+      "panel": "B",
+      "pdf": "panels/eFigure_9/eFigure_9_B.pdf",
+      "svg": "panels/eFigure_9/eFigure_9_B.svg",
+      "png": "panels/eFigure_9/eFigure_9_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "c9d04f725135d26cfde928cf1d9b12edb75d5e940147b3897448838ec7a5094f",
+      "rich_numeric_artist_sha256": "b3fc9e481a04f421387115dc4f3deac3a07624cdf75ac6529b36fe4f4a5ae30d",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "POD1 update: prediction error",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "98277cae15e76e9ba49fedbebe3b49b81d0691650f8675a2dfabbcb47d3b7a56",
+      "svg_sha256": "b7a7b42e934184fd133997bb197421c0eed556e0f6be7a358c8d3c71a18b0c25",
+      "pdf_qualification": {
+        "file": "panels/eFigure_9/eFigure_9_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "6025328a20e5edac4ac32a9fd311df57876c52a71c87be12a42d45946643d2d2",
+        "sha256": "98277cae15e76e9ba49fedbebe3b49b81d0691650f8675a2dfabbcb47d3b7a56"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_10",
+      "panel": "A",
+      "pdf": "panels/eFigure_10/eFigure_10_A.pdf",
+      "svg": "panels/eFigure_10/eFigure_10_A.svg",
+      "png": "panels/eFigure_10/eFigure_10_A.png",
+      "width_mm": 170.0,
+      "height_mm": 93.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "cb0cef2dad3bc020163725b068226a58834fb644ce7db90ceced20267ca9fd46",
+      "rich_numeric_artist_sha256": "3da2fae48b367807df715ccd445919cf6c7e568eb125031e07d40a785b024780",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Top-20% list overlap",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 93.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6803058823529411,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "26d139934f73164319d434cf20a3052f50935348b55ad6a5762a2cf47e1ef70b",
+      "svg_sha256": "e7078e0b090a517c89f8cac26a153be7301be65bfb72b5419daf0e90b9f88fdf",
+      "pdf_qualification": {
+        "file": "panels/eFigure_10/eFigure_10_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 92.99999737209743,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "40257e21c1e28a6b65f82383529a743418ec8c0b3967e2fcc84504b4ae38de2d",
+        "sha256": "26d139934f73164319d434cf20a3052f50935348b55ad6a5762a2cf47e1ef70b"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_10",
+      "panel": "B",
+      "pdf": "panels/eFigure_10/eFigure_10_B.pdf",
+      "svg": "panels/eFigure_10/eFigure_10_B.svg",
+      "png": "panels/eFigure_10/eFigure_10_B.png",
+      "width_mm": 170.0,
+      "height_mm": 93.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "794e73a1c4a6f01f4f12088d759d2222dcef35cb7c47ece4a01424b4898cd35b",
+      "rich_numeric_artist_sha256": "2448520d6581a0a6b6b24cdfc7462828c4a2ccb9c93f4c36b95ff2c552b6b2d1",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Source-cut classification changes",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 93.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6803058823529411,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "45384b1bbe4f810f8a177d644bd5e44afe84f5c7721608bf0a54a00c2c59277a",
+      "svg_sha256": "a138025e0c3d46f910976bf402581734fa82020b216c9dc63f0228880bf99d3a",
+      "pdf_qualification": {
+        "file": "panels/eFigure_10/eFigure_10_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 92.99999737209743,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "1b1814e6c1912d92c0c269eb872c49bc8994c796a49be400336ad27a092c127b",
+        "sha256": "45384b1bbe4f810f8a177d644bd5e44afe84f5c7721608bf0a54a00c2c59277a"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "A",
+      "pdf": "panels/eFigure_11/eFigure_11_A.pdf",
+      "svg": "panels/eFigure_11/eFigure_11_A.svg",
+      "png": "panels/eFigure_11/eFigure_11_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "5d1c7f380bd521b6f81900920e03cd6a1db41dc752c09be7cef2be576e6db482",
+      "rich_numeric_artist_sha256": "429bf29f61db8853435cfaf9b6274af1c1cab061338d328cacde95509a10b352",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geographic / preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6832941176470586,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "65d2198e37df3310df9aa9158116084f9d45a04a97d8f4535f3da9af39b3a544",
+      "svg_sha256": "8f01c89146f29e95ce889e81ddf4d250b2b9b6d2dc2a614ec3b1056729d11f84",
+      "pdf_qualification": {
+        "file": "panels/eFigure_11/eFigure_11_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "949e61d452d89eaa0089a614e361f376beacc8fba3c63693962e211965a835f1",
+        "sha256": "65d2198e37df3310df9aa9158116084f9d45a04a97d8f4535f3da9af39b3a544"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "B",
+      "pdf": "panels/eFigure_11/eFigure_11_B.pdf",
+      "svg": "panels/eFigure_11/eFigure_11_B.svg",
+      "png": "panels/eFigure_11/eFigure_11_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "500712b93224d58bcbbce2fef81cf9e7421d53ef8aa4dcaac60a2269cf7062ce",
+      "rich_numeric_artist_sha256": "84c7399fed5284547323858ddf7bb8eae6c3a629df6d20a14f89b2496f36087e",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal / preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6832941176470586,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "9850a517b8f000ea61d5ef7dc26418f870f6d629d26384653b7135fc6fdabf4e",
+      "svg_sha256": "bbd0656df4b5c2ee1135116a77a4201a15d78eaae2c2ef8206a215d47e35d0f6",
+      "pdf_qualification": {
+        "file": "panels/eFigure_11/eFigure_11_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "f1a29262f6506f18f4cc35d7ec85343b380293cc4d30f8cbe031f40a290cc941",
+        "sha256": "9850a517b8f000ea61d5ef7dc26418f870f6d629d26384653b7135fc6fdabf4e"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "C",
+      "pdf": "panels/eFigure_11/eFigure_11_C.pdf",
+      "svg": "panels/eFigure_11/eFigure_11_C.svg",
+      "png": "panels/eFigure_11/eFigure_11_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "84284f8f0db1bbe20a669ef292fc56e49cfacd3f1450d753b0c6c696e6b92f3a",
+      "rich_numeric_artist_sha256": "98e2e9519aeb53b08d40574dda69607b75a9f88a2d98fdebdee5c9cdfa19ddca",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geographic / endop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6832941176470586,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "69566d78b6bfbe2847baccfc6c26339732b1f59c9797168d558243938b7497e9",
+      "svg_sha256": "42b7a1d46b66430c6a60863a60bcfea8bad80e12fb0f0ec78d2667f41f1a46f2",
+      "pdf_qualification": {
+        "file": "panels/eFigure_11/eFigure_11_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "2d967de8089533113334a2422fce95a6ca0a847b45515e614c82ffa5796594a7",
+        "sha256": "69566d78b6bfbe2847baccfc6c26339732b1f59c9797168d558243938b7497e9"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_11",
+      "panel": "D",
+      "pdf": "panels/eFigure_11/eFigure_11_D.pdf",
+      "svg": "panels/eFigure_11/eFigure_11_D.svg",
+      "png": "panels/eFigure_11/eFigure_11_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "50682fe5cf11cfc81d2d42be2ac78569606c071b2e465d783c202d0ebf7d9ea6",
+      "rich_numeric_artist_sha256": "813f3034cfe1d69490eae650b79e3dbe7d7ed1b558cfddad12f59e1f34a57845",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal / endop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.6832941176470586,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "b671866533d9db353e17e7cc07990e8ae0172d8d1355c04d0b4a8f1b03e0314d",
+      "svg_sha256": "f17f1940065e3ea2048fef06cf6a33173e48d08a7c545b9948ac39876f338b57",
+      "pdf_qualification": {
+        "file": "panels/eFigure_11/eFigure_11_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "21287e45d5ef8d22aa7154933828bc388588f8a1c7170178e3c00ed47f584350",
+        "sha256": "b671866533d9db353e17e7cc07990e8ae0172d8d1355c04d0b4a8f1b03e0314d"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "A",
+      "pdf": "panels/eFigure_12/eFigure_12_A.pdf",
+      "svg": "panels/eFigure_12/eFigure_12_A.svg",
+      "png": "panels/eFigure_12/eFigure_12_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "6beaf9309b1a3a0875bbfac061d66f91eea5baa9703cdc98061b7fd667e88c50",
+      "rich_numeric_artist_sha256": "9366431e2977eebc1b40f9f81e998c270d6727b17915002472d4ab68e0cd6a7c",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geography preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6773176470588231,
+            0.5968426739728009
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "5686c116257e976872226fd978deb17cbc61d5ff02eda4785df3e3780e6d3b2f",
+      "svg_sha256": "2a8c5c8eda0c75b6e6bf63f30ce37877b4f743eb04156eef2a08e653d9aeac02",
+      "pdf_qualification": {
+        "file": "panels/eFigure_12/eFigure_12_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "51ac0fcba8abd65f3e431089320f3f67d83c6a22775dc27f0cdf150455b76829",
+        "sha256": "5686c116257e976872226fd978deb17cbc61d5ff02eda4785df3e3780e6d3b2f"
+      },
+      "svg_editable_text_elements": 20
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "B",
+      "pdf": "panels/eFigure_12/eFigure_12_B.pdf",
+      "svg": "panels/eFigure_12/eFigure_12_B.svg",
+      "png": "panels/eFigure_12/eFigure_12_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "53cd7db3ce5ed46e251212e6ee19a92a1ce56531de2d3e6b8eedd89ecdd8ae87",
+      "rich_numeric_artist_sha256": "669cf5c36b9198be70fad652e93baec85cdf4101deac0a89ae931e176681b68e",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal preop",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6832941176470586,
+            0.5968426739728009
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "07d610f797dd1a2b777d9d431bb984438e7300aad2f30fc8cd5012221f7f9ec6",
+      "svg_sha256": "799b1f6dd4f5cf0983126c00223dd3934bb42a07c80aed1aa812abe3ce985f69",
+      "pdf_qualification": {
+        "file": "panels/eFigure_12/eFigure_12_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "8f1900a10f45fc02cc831f8a567723801b09ed979024982c0420ea78e9daa311",
+        "sha256": "07d610f797dd1a2b777d9d431bb984438e7300aad2f30fc8cd5012221f7f9ec6"
+      },
+      "svg_editable_text_elements": 14
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "C",
+      "pdf": "panels/eFigure_12/eFigure_12_C.pdf",
+      "svg": "panels/eFigure_12/eFigure_12_C.svg",
+      "png": "panels/eFigure_12/eFigure_12_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b14ce1a2e816513e3cca6d0ea9324c7a999e912ef3c6b580eaa26f536e354799",
+      "rich_numeric_artist_sha256": "d46cf78e4b42014dcb085d3f4e88c7031fe7a3fd9280686ae9c95649d7eb05a7",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Geography paired",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6832941176470586,
+            0.5968426739728009
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "b8121bbaa4d2606a7dc0f41e79429cc6f6329e5dde02dcea4d2aee5edd886bc7",
+      "svg_sha256": "010069e1a34d4769e7e128bbe3d0172206cb051d1d1e12c9381e8e636aadd9e7",
+      "pdf_qualification": {
+        "file": "panels/eFigure_12/eFigure_12_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "a3c736770f2068f0520bdb73aab1a3c71dbf340ea576645d0af9fac67eab01b1",
+        "sha256": "b8121bbaa4d2606a7dc0f41e79429cc6f6329e5dde02dcea4d2aee5edd886bc7"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_12",
+      "panel": "D",
+      "pdf": "panels/eFigure_12/eFigure_12_D.pdf",
+      "svg": "panels/eFigure_12/eFigure_12_D.svg",
+      "png": "panels/eFigure_12/eFigure_12_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "cc6cfe3d2e080e8e53f36d553c09b2e249db6d9a0384eb334a6effdcfc171def",
+      "rich_numeric_artist_sha256": "e33d05ffe1776be6836959466d96861f9b51458f6cddde218aa45ff0e2aa8d7a",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Temporal paired",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.6832941176470586,
+            0.5968426739728009
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "65a1e7848a089025b2828dd47c6240a9cf15cf4802e82ea23b7de6152c543701",
+      "svg_sha256": "4f34bd4c6d60ec6815f8df993ca503dcab9fde137c97f7f54015864888de6563",
+      "pdf_qualification": {
+        "file": "panels/eFigure_12/eFigure_12_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "8a8ea069cb81657f243c848ef74aa9f60e45679f8ca3d15f3512ae2e98e18224",
+        "sha256": "65a1e7848a089025b2828dd47c6240a9cf15cf4802e82ea23b7de6152c543701"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "A",
+      "pdf": "panels/eFigure_13/eFigure_13_A.pdf",
+      "svg": "panels/eFigure_13/eFigure_13_A.svg",
+      "png": "panels/eFigure_13/eFigure_13_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "a339627b81354901e83222e738d052393995784423cb625adf06d15563709b0d",
+      "rich_numeric_artist_sha256": "1c44c13a6a2cc26fb89e326e4ad9d9d4fd209a4eb11c0d75f124a6079f96f41c",
+      "annotation_text_sha256": "3873b112c066695b9d9f62b6f0a1e4298773f3710ba92bf584385b754a11723a",
+      "baseline_native_numeric_match": true,
+      "source_title": "Nine-input review policies",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.6384784722222223
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "24 / 48",
+          "position": [
+            0.98,
+            0.8488372093023256
+          ]
+        },
+        {
+          "text": "32 / 40",
+          "position": [
+            0.98,
+            0.6162790697674418
+          ]
+        },
+        {
+          "text": "26 / 40",
+          "position": [
+            0.98,
+            0.38372093023255816
+          ]
+        },
+        {
+          "text": "35 / 31",
+          "position": [
+            0.98,
+            0.15116279069767444
+          ]
+        }
+      ],
+      "pdf_sha256": "5ed39cb7a8457da3d1795acccaf35f5e42758825ec8a5f55ef9af8d3171589af",
+      "svg_sha256": "fe50944365ae674ef2800ced885703681e2e23cb29e498405c6786175b671520",
+      "pdf_qualification": {
+        "file": "panels/eFigure_13/eFigure_13_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "3c39fab8030511413cab07ef6f4f1bc500e1b59093f04a4c03361c8c92078b65",
+        "sha256": "5ed39cb7a8457da3d1795acccaf35f5e42758825ec8a5f55ef9af8d3171589af"
+      },
+      "svg_editable_text_elements": 14
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "B",
+      "pdf": "panels/eFigure_13/eFigure_13_B.pdf",
+      "svg": "panels/eFigure_13/eFigure_13_B.svg",
+      "png": "panels/eFigure_13/eFigure_13_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "76b8cd7d5730006b44219e0852be7bb9ca522ca3106687429d988b1a4c64bfb7",
+      "rich_numeric_artist_sha256": "c49fee7fac11c33d806b949a95e2e731880d42f0875fd77ed4c6ed5ae1b9e462",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Assumed review effort",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "485a8042de89ec0d2c3443237f92fcccc96a30c3c94e3a9f2ee17149d9152dca",
+      "svg_sha256": "9f87f666207edb71892740e2591c324ad19b245319a1f84aec4cd789cd4a3cb7",
+      "pdf_qualification": {
+        "file": "panels/eFigure_13/eFigure_13_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "6b507dc481e97783be7ba3adc6e197e901400874216c25c9f9929e16c69bedbe",
+        "sha256": "485a8042de89ec0d2c3443237f92fcccc96a30c3c94e3a9f2ee17149d9152dca"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "C",
+      "pdf": "panels/eFigure_13/eFigure_13_C.pdf",
+      "svg": "panels/eFigure_13/eFigure_13_C.svg",
+      "png": "panels/eFigure_13/eFigure_13_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "4eb1a0faf93bf9a51952fc1e0d13de0f543e79871465be416c8e99d293a3a9cd",
+      "rich_numeric_artist_sha256": "c15d1b3181f155ed5aa7930018169e68eb1e41e1f3c377d0bff06e9a727d0efb",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Assumed additional testing",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "1e7478a457a8b5efe8b9cd0b45f43a292dff59dad91c5598e1def48db7402209",
+      "svg_sha256": "060de22f8437c30a8bd80b2f5f042c9dbb38196b319e17e587ad3ff3f3ccf533",
+      "pdf_qualification": {
+        "file": "panels/eFigure_13/eFigure_13_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "a12f7c6a5673b8016b465136ad8a95b95ba7c6fcf87eff45c9479ff5393b2b1c",
+        "sha256": "1e7478a457a8b5efe8b9cd0b45f43a292dff59dad91c5598e1def48db7402209"
+      },
+      "svg_editable_text_elements": 17
+    },
+    {
+      "figure": "eFigure_13",
+      "panel": "D",
+      "pdf": "panels/eFigure_13/eFigure_13_D.pdf",
+      "svg": "panels/eFigure_13/eFigure_13_D.svg",
+      "png": "panels/eFigure_13/eFigure_13_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "c49f4704cff978fb83a0789ff3e259eae0cab070761dc5269907f0067606fe00",
+      "rich_numeric_artist_sha256": "c5fed362d7b467f2cd95910b3652c47bc4d6495205180c2b532433558b7ee5a6",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Assumed effect at 75% uptake",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.25555555555555554,
+            0.685,
+            0.6344444444444445
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "ac4d3a2ab16348ce352ef6a1a2c081a29a810b2f7528f0e6956ea31f74bd535b",
+      "svg_sha256": "6e2a3773b9113a8c77c8a3dff7ca8cfe27f055f9e76e52110cc3d8f86a8b2798",
+      "pdf_qualification": {
+        "file": "panels/eFigure_13/eFigure_13_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "cd5e4409123da68c6b86d488fe596d365259585c3aa9fc7caa1bca58dad461e7",
+        "sha256": "ac4d3a2ab16348ce352ef6a1a2c081a29a810b2f7528f0e6956ea31f74bd535b"
+      },
+      "svg_editable_text_elements": 12
+    },
+    {
+      "figure": "eFigure_14",
+      "panel": "A",
+      "pdf": "panels/eFigure_14/eFigure_14_A.pdf",
+      "svg": "panels/eFigure_14/eFigure_14_A.svg",
+      "png": "panels/eFigure_14/eFigure_14_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "7df201b16ffa3db3d92a195a9b5ef06188bcf1ef70326daaf2fb23bc9275b3da",
+      "rich_numeric_artist_sha256": "ca0a31881ba04067fdfe2b4de0d107c4443c23d0b3b5921a93ff2dbc73f0dcec",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Change in AUROC",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "f6089c0bd0be5c4f4c589e19b038df50ac421e309782194c27554ba7c4659b52",
+      "svg_sha256": "f01dc474245a4704948e7d34986c1b11d490a20448a73a9ff6133c49cb753a03",
+      "pdf_qualification": {
+        "file": "panels/eFigure_14/eFigure_14_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "ec756822fb57e8e8ed0b6b487baf55b37af0fbf26b274808504d6ce1e089110c",
+        "sha256": "f6089c0bd0be5c4f4c589e19b038df50ac421e309782194c27554ba7c4659b52"
+      },
+      "svg_editable_text_elements": 9
+    },
+    {
+      "figure": "eFigure_14",
+      "panel": "B",
+      "pdf": "panels/eFigure_14/eFigure_14_B.pdf",
+      "svg": "panels/eFigure_14/eFigure_14_B.svg",
+      "png": "panels/eFigure_14/eFigure_14_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "51a2e79707f923b86e5579e8fbf8fccde2f647073ac4264f8826dada9cf58f50",
+      "rich_numeric_artist_sha256": "a4bff64cd9fef735ee6905ccae061016ecbfdf693a3a80efa5ebb67ad93d9541",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Change in capture at 20% review",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "ef292f96d95e52ea6a7e1d5e352ebbf27d856deebd96d1cd9573817c06a5f164",
+      "svg_sha256": "52e33f8a479d4be56e06dc1f39b522cfb413520d5724b7c46596613d9c2fc432",
+      "pdf_qualification": {
+        "file": "panels/eFigure_14/eFigure_14_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "da124781f821b8f52f73935bb9248f780b3c1b85515a518dfa9ad75d11bebcc0",
+        "sha256": "ef292f96d95e52ea6a7e1d5e352ebbf27d856deebd96d1cd9573817c06a5f164"
+      },
+      "svg_editable_text_elements": 9
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "A",
+      "pdf": "panels/eFigure_15/eFigure_15_A.pdf",
+      "svg": "panels/eFigure_15/eFigure_15_A.svg",
+      "png": "panels/eFigure_15/eFigure_15_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "dcadd729f80b5817db98e66468dd511bf3019dd55452226d5ef96f213db24d87",
+      "rich_numeric_artist_sha256": "a5c905beef2a3883fe1c687a662274988777601766137d24a3b1c3d57ef49e62",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Paired stage systems",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "ead65681f3b598d5b8168a7ea4511910b3b5c22c42689d60cc44fbd8cdac33c6",
+      "svg_sha256": "bb77300ef703675e41f0a6a87190aabfb9ba1587c1127cc85d970c5764140977",
+      "pdf_qualification": {
+        "file": "panels/eFigure_15/eFigure_15_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "8f7e5f62449fe6e1c9c6f903088679963e8c633554e3cbdd3b9f390106d05124",
+        "sha256": "ead65681f3b598d5b8168a7ea4511910b3b5c22c42689d60cc44fbd8cdac33c6"
+      },
+      "svg_editable_text_elements": 8
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "B",
+      "pdf": "panels/eFigure_15/eFigure_15_B.pdf",
+      "svg": "panels/eFigure_15/eFigure_15_B.svg",
+      "png": "panels/eFigure_15/eFigure_15_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "8e95957b753aaa5555f723bfa95f99691bb810eeb5fda04bc915e5fac7ac26b9",
+      "rich_numeric_artist_sha256": "2d223ff8908229852cbfadf520d9f5f6f845e079e26b75dbe8567d4cc3b87473",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "Prediction error",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "ba0c9237a18068352f293cf569670537e4a1efacb6877ded8685086caea745d4",
+      "svg_sha256": "103ec2d7f91a66b3cee1a31d03fab6500e7f09997e12129d889affbb5fbd29bc",
+      "pdf_qualification": {
+        "file": "panels/eFigure_15/eFigure_15_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "1181df2744578fbe746b7bbadbe96e274be3f3a93b28475eb9fc6196ceb6007c",
+        "sha256": "ba0c9237a18068352f293cf569670537e4a1efacb6877ded8685086caea745d4"
+      },
+      "svg_editable_text_elements": 10
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "C",
+      "pdf": "panels/eFigure_15/eFigure_15_C.pdf",
+      "svg": "panels/eFigure_15/eFigure_15_C.svg",
+      "png": "panels/eFigure_15/eFigure_15_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "c57d7c906335a45bbac8ef5deb4ed2eb8eebc22674422e80e52a9c0fd9faca33",
+      "rich_numeric_artist_sha256": "b0e10b66c7d679c195648291bc116dbd9a46cd16923a4ec61520cc8f8d54421d",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "10% review capacity",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "dc8de09c139a9f6e2c0721945112a6758e7790f3e2bcd83713d84bc01a5d184d",
+      "svg_sha256": "21dd5dd0b395f43cd877e3320bbe9a0b8b5b9eb70ea584e68aac9a399fe250ad",
+      "pdf_qualification": {
+        "file": "panels/eFigure_15/eFigure_15_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "1a4fce46b917f68b93f2c4aab4033e7b5c9d8ba0187a96a4475da724a6b6dc28",
+        "sha256": "dc8de09c139a9f6e2c0721945112a6758e7790f3e2bcd83713d84bc01a5d184d"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_15",
+      "panel": "D",
+      "pdf": "panels/eFigure_15/eFigure_15_D.pdf",
+      "svg": "panels/eFigure_15/eFigure_15_D.svg",
+      "png": "panels/eFigure_15/eFigure_15_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "d93801cddaba715cb6973be137f86d60a597f7b1c07b5bc443e81b38930a68b7",
+      "rich_numeric_artist_sha256": "9a24823782b416bc0e39a739568874d272c1539fd21f8a48daaccded240b5032",
+      "annotation_text_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "baseline_native_numeric_match": true,
+      "source_title": "20% review capacity",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.19,
+            0.685,
+            0.7
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "309b7610a4ca4a44807c65c35e4f3cf06498149a3811ac9b4188281179851124",
+      "svg_sha256": "38559c32e566d33b3b6598fc8b151556657ced09a7a11a88590a8dd414d69cf1",
+      "pdf_qualification": {
+        "file": "panels/eFigure_15/eFigure_15_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "21b8fcdf0fd0d04aa92f1dce1bed150f2f1057cfb4375137359a4fc9358c70f4",
+        "sha256": "309b7610a4ca4a44807c65c35e4f3cf06498149a3811ac9b4188281179851124"
+      },
+      "svg_editable_text_elements": 13
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "A",
+      "pdf": "panels/eFigure_16/eFigure_16_A.pdf",
+      "svg": "panels/eFigure_16/eFigure_16_A.svg",
+      "png": "panels/eFigure_16/eFigure_16_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "b8f0149e7c54c5d6220497b240bc0288886ac3965a669603608f55f88ccfeb3b",
+      "rich_numeric_artist_sha256": "0246e7030c4050be7bac88bccdc836d057a60c54ed0ea9318fdcce1cba4ad519",
+      "annotation_text_sha256": "de5c8028470c0339da8943ea5c50513e4b92e239b961fd05128f2a1df443ba19",
+      "baseline_native_numeric_match": false,
+      "source_title": "Geographic evaluation: 9 → 27 inputs",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.3433333333333333,
+            0.685,
+            0.5327144355486686
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Reference: expanded base review at the same total cost Budget anchor: 25% acquisition + 20% review; cost ratio = 0.1 95% paired patient-group bootstrap intervals; fixed models/rules",
+          "position": [
+            0.01764705882352941,
+            0.022222222222222223
+          ]
+        }
+      ],
+      "pdf_sha256": "99ec9503dee13c1068fc46cfec30205ff03a41476c5dff8a363c93426b08bbea",
+      "svg_sha256": "ebfd012787b0919a03f67f6aa0f372b9464ca5201e2afe416b945b350ca90b7e",
+      "pdf_qualification": {
+        "file": "panels/eFigure_16/eFigure_16_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "7d73bd246e902b279f9c4cf62f5bd748dd02ba0f90988e357e0be3ed6f8594a5",
+        "sha256": "99ec9503dee13c1068fc46cfec30205ff03a41476c5dff8a363c93426b08bbea"
+      },
+      "svg_editable_text_elements": 16
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "B",
+      "pdf": "panels/eFigure_16/eFigure_16_B.pdf",
+      "svg": "panels/eFigure_16/eFigure_16_B.svg",
+      "png": "panels/eFigure_16/eFigure_16_B.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "9b24886f7199a0dbbdc0a52593bc5b90bf45b82b927a4a3f65430bf6179d9c1a",
+      "rich_numeric_artist_sha256": "147fffc39d3668298fb74217dea91563cb47b1b0b7f5feff951a622779f3b200",
+      "annotation_text_sha256": "de5c8028470c0339da8943ea5c50513e4b92e239b961fd05128f2a1df443ba19",
+      "baseline_native_numeric_match": false,
+      "source_title": "Temporal evaluation: 9 → 27 inputs",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.3433333333333333,
+            0.685,
+            0.5327144355486686
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Reference: expanded base review at the same total cost Budget anchor: 25% acquisition + 20% review; cost ratio = 0.1 95% paired patient-group bootstrap intervals; fixed models/rules",
+          "position": [
+            0.01764705882352941,
+            0.022222222222222223
+          ]
+        }
+      ],
+      "pdf_sha256": "8169599716c9c9041e5427b6370a716ebf88f40010862530cd891d822d77fc4e",
+      "svg_sha256": "f11f6a0a867ecfedd85801d5b9433f21c75e49876a2918517b00addeddb52e76",
+      "pdf_qualification": {
+        "file": "panels/eFigure_16/eFigure_16_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "fc855e4259f3defe047593ef1a1f0d1e02b4f99e183e77758fa270cc45b7dbfa",
+        "sha256": "8169599716c9c9041e5427b6370a716ebf88f40010862530cd891d822d77fc4e"
+      },
+      "svg_editable_text_elements": 16
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "C",
+      "pdf": "panels/eFigure_16/eFigure_16_C.pdf",
+      "svg": "panels/eFigure_16/eFigure_16_C.svg",
+      "png": "panels/eFigure_16/eFigure_16_C.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "e934ddb56368556dc1883b476d05baf5ec93d8cda689e060a10224e6931eb698",
+      "rich_numeric_artist_sha256": "00b06da96ae7a10aeed8764c15ec3de486b957a8493dacc357211d73f162bee0",
+      "annotation_text_sha256": "de5c8028470c0339da8943ea5c50513e4b92e239b961fd05128f2a1df443ba19",
+      "baseline_native_numeric_match": false,
+      "source_title": "Geographic evaluation: 27 → 38 inputs",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.3433333333333333,
+            0.685,
+            0.5327144355486686
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Reference: expanded base review at the same total cost Budget anchor: 25% acquisition + 20% review; cost ratio = 0.1 95% paired patient-group bootstrap intervals; fixed models/rules",
+          "position": [
+            0.01764705882352941,
+            0.022222222222222223
+          ]
+        }
+      ],
+      "pdf_sha256": "d88170c6544eaac27b8c16a48354afb239098c3c07d92f5d615c4fe4acfc1f24",
+      "svg_sha256": "c73f80e88f0ab33351ecec78e24c16de5869e1681645c5e997cf3e6b55666a1d",
+      "pdf_qualification": {
+        "file": "panels/eFigure_16/eFigure_16_C.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "2fc0fbfecc229ce7a2d797768520aa91887245eb12bcefc858a25d307f02bf55",
+        "sha256": "d88170c6544eaac27b8c16a48354afb239098c3c07d92f5d615c4fe4acfc1f24"
+      },
+      "svg_editable_text_elements": 16
+    },
+    {
+      "figure": "eFigure_16",
+      "panel": "D",
+      "pdf": "panels/eFigure_16/eFigure_16_D.pdf",
+      "svg": "panels/eFigure_16/eFigure_16_D.svg",
+      "png": "panels/eFigure_16/eFigure_16_D.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "0d1e53f6bf66c855406f93f49764b9e4f45fb7ecdbd1d2b4b6ad9a90fd80948b",
+      "rich_numeric_artist_sha256": "d4f2270abb9d995496bd736bdbe4028acac2690ad0872bcf35c3ec35a065419f",
+      "annotation_text_sha256": "de5c8028470c0339da8943ea5c50513e4b92e239b961fd05128f2a1df443ba19",
+      "baseline_native_numeric_match": false,
+      "source_title": "Temporal evaluation: 27 → 38 inputs",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.29,
+            0.3433333333333333,
+            0.685,
+            0.5327144355486686
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Reference: expanded base review at the same total cost Budget anchor: 25% acquisition + 20% review; cost ratio = 0.1 95% paired patient-group bootstrap intervals; fixed models/rules",
+          "position": [
+            0.01764705882352941,
+            0.022222222222222223
+          ]
+        }
+      ],
+      "pdf_sha256": "f4dd7c47659a27b675fbbac10b3fc285786d471a7a0cab50a08597dc94abbc8c",
+      "svg_sha256": "70d16db09c4bee6e0b29f67decd7db28e90aedf88ba60cb6ca73a0cfc67537cf",
+      "pdf_qualification": {
+        "file": "panels/eFigure_16/eFigure_16_D.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "1e8b263394794c7ff1b37923ca1b6dc0d9d14bf8fdc569f438fb5245b9e56634",
+        "sha256": "f4dd7c47659a27b675fbbac10b3fc285786d471a7a0cab50a08597dc94abbc8c"
+      },
+      "svg_editable_text_elements": 16
+    },
+    {
+      "figure": "eFigure_17",
+      "panel": "A",
+      "pdf": "panels/eFigure_17/eFigure_17_A.pdf",
+      "svg": "panels/eFigure_17/eFigure_17_A.svg",
+      "png": "panels/eFigure_17/eFigure_17_A.png",
+      "width_mm": 170.0,
+      "height_mm": 90.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "7ac60fb22abe4a195f2792cd258cf2c6d74862b1825f7ef42859503b97c65ca8",
+      "rich_numeric_artist_sha256": "7cb61b847e8befa8434b798ec5efe62aaf1ee0e8603c1f30d58a794c43e87532",
+      "annotation_text_sha256": "56974d20634427ccce11a6416802cf97c288e287146fff09717f4cf7f208e564",
+      "baseline_native_numeric_match": false,
+      "source_title": "Low-risk events at frozen source thresholds",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 90.0,
+          "axes_position": [
+            0.3342217524509804,
+            0.29555555555555557,
+            0.6407782475490196,
+            0.5827626449150598
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Source training sensitivity 80%; 95% patient-group bootstrap intervals Zero events in 9 distinct patients: Wilson interval shown instead.",
+          "position": [
+            0.01764705882352941,
+            0.022222222222222223
+          ]
+        }
+      ],
+      "pdf_sha256": "fdf7d5bd759cf5ac9b80af673d022076d7221680d3d81664dca85cfce1d3c487",
+      "svg_sha256": "7e60d7375e83859c450af0b0830cb2766296f2d9d1e493f2d08d7dc56bb55817",
+      "pdf_qualification": {
+        "file": "panels/eFigure_17/eFigure_17_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 89.99999745686848,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "2094fcb7d2c8d15db6d937ed119cd64655fed4ce7f3a6d0fe1284b343d4b108c",
+        "sha256": "fdf7d5bd759cf5ac9b80af673d022076d7221680d3d81664dca85cfce1d3c487"
+      },
+      "svg_editable_text_elements": 19
+    },
+    {
+      "figure": "eFigure_17",
+      "panel": "B",
+      "pdf": "panels/eFigure_17/eFigure_17_B.pdf",
+      "svg": "panels/eFigure_17/eFigure_17_B.svg",
+      "png": "panels/eFigure_17/eFigure_17_B.png",
+      "width_mm": 170.0,
+      "height_mm": 110.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "6109867eb0c42fab0ce4b2af384aa17970f9683f75241e295d17dfb724c6017c",
+      "rich_numeric_artist_sha256": "2f0a39b82465b165172a6e38f39ffeb6a68055cc53a7570a948e864aec31b42a",
+      "annotation_text_sha256": "48a1d51ce307624e5513aa45b8d5b8518df919d647a356fe35e0ff67e8b37c63",
+      "baseline_native_numeric_match": false,
+      "source_title": "MIMIC six-input sensitivity: measurement deletion",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 110.0,
+          "axes_position": [
+            0.29,
+            0.3690909090909091,
+            0.685,
+            0.520909090909091
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [
+        {
+          "text": "Day 1 only",
+          "position": [
+            6.0,
+            10.0
+          ]
+        },
+        {
+          "text": "Days 1–2 only",
+          "position": [
+            -80.0,
+            0.0
+          ]
+        },
+        {
+          "text": "Exact calendar-ratio endpoint retained as the reference. Event denominators differ by group; intervals are Wilson 95%.",
+          "position": [
+            0.01764705882352941,
+            0.01818181818181818
+          ]
+        }
+      ],
+      "pdf_sha256": "757661384aa3db984e78fafc19fff157dc3bdb379c81c5c1ae15fa01dcf33d87",
+      "svg_sha256": "c47549c07f3453ce814ebe3637315c5077cb1480de0c2113fb39fec7067de3f6",
+      "pdf_qualification": {
+        "file": "panels/eFigure_17/eFigure_17_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 110.0000040690104,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "f06bc2ef9776117eb925802627955672644700eb71195c99d38cbe97ce9d6712",
+        "sha256": "757661384aa3db984e78fafc19fff157dc3bdb379c81c5c1ae15fa01dcf33d87"
+      },
+      "svg_editable_text_elements": 26
+    },
+    {
+      "figure": "eFigure_18",
+      "panel": "A",
+      "pdf": "panels/eFigure_18/eFigure_18_A.pdf",
+      "svg": "panels/eFigure_18/eFigure_18_A.svg",
+      "png": "panels/eFigure_18/eFigure_18_A.png",
+      "width_mm": 170.0,
+      "height_mm": 110.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "eb39489ead71a12317f1e3e01029cb3b5ab5b79a98bd0179dca5c37f40d3e17f",
+      "rich_numeric_artist_sha256": "96d8d20dd8cc994f646190e107d7f9b2b12df729063dd4d55cbf94f0694fe313",
+      "annotation_text_sha256": "337949046dfb73371dc66f5efc25bb291872fb4564e3946c01fde1ab7c35c2cc",
+      "baseline_native_numeric_match": false,
+      "source_title": "Geographic evaluation: study-cohort demand",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 110.0,
+          "axes_position": [
+            0.3753333333333333,
+            0.32363636363636367,
+            0.5996666666666667,
+            0.5663636363636364
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "99d05e6dba1298b97e919c8183515ec886965a6e4e16bc0505105950e7d6fdc9",
+      "svg_sha256": "fbc8685e1dda9a274621de18d5fdb584f23bf635c0c495dc3cbc37d8209ec186",
+      "pdf_qualification": {
+        "file": "panels/eFigure_18/eFigure_18_A.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 110.0000040690104,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "26a27788de07c870e73964ebdbf5959f392af27be7767ec17140f75670f28916",
+        "sha256": "99d05e6dba1298b97e919c8183515ec886965a6e4e16bc0505105950e7d6fdc9"
+      },
+      "svg_editable_text_elements": 19
+    },
+    {
+      "figure": "eFigure_18",
+      "panel": "B",
+      "pdf": "panels/eFigure_18/eFigure_18_B.pdf",
+      "svg": "panels/eFigure_18/eFigure_18_B.svg",
+      "png": "panels/eFigure_18/eFigure_18_B.png",
+      "width_mm": 170.0,
+      "height_mm": 110.0,
+      "font_family": "Arial",
+      "minimum_text_pt": 10.0,
+      "numeric_artist_sha256": "3d35a6cfbc423689ebb694a2d0984c194de9e4273ba84827021972ef6cc4f336",
+      "rich_numeric_artist_sha256": "ced2cb182619e3d0a7031c354f5f3180fc060678401b4d96c542b5bbc5dd679f",
+      "annotation_text_sha256": "337949046dfb73371dc66f5efc25bb291872fb4564e3946c01fde1ab7c35c2cc",
+      "baseline_native_numeric_match": false,
+      "source_title": "Temporal evaluation: study-cohort demand",
+      "layout_history": [
+        {
+          "attempt": 1,
+          "height_mm": 110.0,
+          "axes_position": [
+            0.3753333333333333,
+            0.32363636363636367,
+            0.5996666666666667,
+            0.5663636363636364
+          ],
+          "outside_text": []
+        }
+      ],
+      "numeric_texts": [],
+      "pdf_sha256": "418fef2b1f16a28c4be617a39a50ec955e91e5b38d181389c5930364652c403d",
+      "svg_sha256": "e565a8b3e7535a9b9da49063432c13938ba47ac2c41f2be6450e161985e94f49",
+      "pdf_qualification": {
+        "file": "panels/eFigure_18/eFigure_18_B.pdf",
+        "pages": 1,
+        "width_mm": 170.00000237358938,
+        "height_mm": 110.0000040690104,
+        "minimum_text_pt": 10.0,
+        "fonts": [
+          "Arial-BoldMT",
+          "ArialMT"
+        ],
+        "raster_images": 0,
+        "text_sha256": "220a33d395380923432b816f20e9d58bd3049438ca979554ef206187ec31fbb2",
+        "sha256": "418fef2b1f16a28c4be617a39a50ec955e91e5b38d181389c5930364652c403d"
+      },
+      "svg_editable_text_elements": 24
+    }
+  ],
+  "figures_count": 18,
+  "pages_count": 31,
+  "panels_count": 53,
+  "all_native_panel_width_mm": 170,
+  "body_font_pt": 10,
+  "actual_font_families": [
+    "Arial-BoldMT",
+    "ArialMT"
+  ],
+  "actual_minimum_text_pt": 10.0,
+  "source_scripts": {
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/probabilistic_integration_20261105_v1/package/02_Code_and_aggregate_data/figure_code/build_figures.py": "3cd61da804b1fe05d94866c69b0a335fd9fc1d499b0d48140b96a84b457dfa90",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/probabilistic_integration_20261105_v1/package/02_Code_and_aggregate_data/figure_code/gen_fig_novelty.py": "b1812ab91062176eae50edf7b27c18a56a38fc0e253351ed2c5be4688403fe38",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/code/plot_supplement.py": "26f6a1bdf803bb1150b23271623e10a9b0bf0a285d5589355687de99e3a6e079"
+  },
+  "source_csvs": {
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_HISTORY_CODEBOOK.csv": "6070ff4b23d7a4cc051e5111012bedcd3ac1bdd2948bf581b2d189ac6d8244b9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_preop_INCREMENT_POINTS.csv": "0d29984e431c0b022bd20c3e4aade73e9092a53503c8b4ac345ca013657f3527",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Workload_all2325_hypothetical_effects.csv": "ad98108b226eb12ac274c6a172ed1807778d0fc11fae23c43e6f381e4d35c1d3",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_HISTORY_COUNTS.csv": "9a335d874d0dcf36ecec305213368fee7532796110be3f7a3f33c3dba3c0ca9e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_BRIDGE_POINT_ESTIMATES.csv": "7be74f5289bb49bda01e23918d086cacaba0c5f548660787281ab8eb3fcde88d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_INTERVALS.csv": "8e24cd7e101fd46df06c21d296117a1bb908dac11d565357a4ccfdbd345ef217",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S2_calibration_update_support.csv": "e7dcda1011cb5653e2925aa6cf53749cf38b103eb7b303e7a34d10273913a894",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_paired_INVERSE_CAPTURE_REVIEW_CURVE.csv": "e96fd4461f9b99d05e7fd61835b86413c719c98a41d55929f499ae1d2adbe8f1",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Primary_model_intervals.csv": "f2bfa447d695e01f5f9674608f6abf351e6a338ca6db06130672d4a91fa08d39",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S6_recorded_window_intervals.csv": "80fdef73bdcff95d4cf51afecd16be5ea6d812035c35d2d2b0eee671504b6881",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_INSPIRE_common6_ORIGINAL_CAPACITY_INTERVALS.csv": "174e840f7d81d95f74b7e08f8fac4ddd63072c2a4b7dc4c45cb3c0cc443cf918",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S5_conditional_stability.csv": "61445664ca894b59c45322a5222387884c48c174d7880fdb3ae747d44182acbd",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_SOURCE_THRESHOLD_TRANSFER_REUSED.csv": "b0bdabefb14e18808666ca96c540da8e73943f5c0a4260f1a46bcbce1068a17a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_paired_INCREMENT_AND_INVERSE_INTERVALS.csv": "f77097c7208a1b414bd64d4071c456cdd80570ea71a7f00cf485d6dcebeed133",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F3_stage_differences.csv": "37e8f919f86b73db8d2f5a9be692e2322d2dc44b2843c39a8306c89778c97b6f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F4_representative_operating_rules.csv": "7f6685693216b0a25c33f4a1a64abc419ce0fa8d8acdb056f3252bf0700f2049",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_preop_INCREMENT_AND_INVERSE_INTERVALS.csv": "1804f73347e1969cc3f5679df3d4085b00b44b629befe5eed26a3ed351117534",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_NINE_SOURCE_THRESHOLD_BURDEN.csv": "5b3e557fe77919a54f165c5b164156b354f1db47b64b466190f058e6021883d4",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_paired_CAPTURE_REVIEW_CURVE.csv": "cec505b027478ac1c8c7334b86dfe9dcea96ed4d33258ba12a6f12f3d8cc831f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F4_representative_workload_assumptions.csv": "1946b34408831ad282df326bfdd05784c8791c5b30f0c081c43c1ad2dfbda547",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_preop_CAPTURE_REVIEW_CURVE.csv": "c9f0609774aeab465f2f15b303a156d54686979121d33fa93f6c80e1b40ad994",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_preop_INVERSE_CAPTURE_REVIEW_CURVE.csv": "5d9c18266984753fd5fdeba0be6fd138644df31c375d7747bd3f3b03ca7a6218",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Workload_all250_operating_rules.csv": "98375b8bb79c70d38dbeb34787387ee02d0318e3a40dd4cb52363e9d362f0465",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_ALL_ORIGINAL_PAIRED_METRICS.csv": "22b3a1f65d0887b1dbde6cdf486218d077231db79dcfe002bba142d53e4220b0",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_preop_INCREMENT_AND_INVERSE_INTERVALS.csv": "7675e1cdbeb3bcdb8ba053ef781d80e8fde648c04f2edc8f57c8f45259d0153b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_paired_ORIGINAL_CAPACITY_INTERVALS.csv": "3fb42217d5c7d063834c744b7bbf207275e9aaea35e9ac56f3b2a3800535924c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F5_public_model_points.csv": "6724a1ed24952e3c2cfbeb9a5bcfee0d01cf0b68bdaf79b81a73bb1783f2038f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_MARGIN_SENSITIVITY.csv": "8a9f14109fb9a85ecfcd0dbfc3b9365272373fd4f05df4e9d7e3bbbf9b613267",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_CROSS_CONTEXT_SENSITIVITY.csv": "61b07be4735e816a3dcd8544067a0d500a3e8dfcd57f9601c2bbe7c4871cfd31",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_paired_INCREMENT_AND_INVERSE_INTERVALS.csv": "394060298f135cbb08c4da106e5c95a24a68d7b901278a75f3f8a2f0e931be59",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F5_public_model_intervals.csv": "f0edee844f0243e5382146521c025f5e11f943d01310106eacf1ba34f531d821",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F1_partitions.csv": "9dc3f4fc43ff7daac0938b8a3ee32d799af1bc36b0400df5ab17527a3ac5d07e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_INSPIRE_common6_INCREMENT_AND_INVERSE_INTERVALS.csv": "fd04c0f3c24776b804c262a253c5ff395ce358f6b9a139bc7ca9135c006db6cf",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_preop_INCREMENT_POINTS.csv": "17a29408ceae1adf8915b16b1ea09eae8bd3c37f00b1e4815f02dd56e74b923d",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_INSPIRE_common6_INCREMENT_POINTS.csv": "22f4a7138d4e540b5e9675dc489c51148df976ad354055924ea346ac85647eaa",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F1_centres.csv": "ad012c1dcf7d62fa9d0c1270b6059313c79f602ba51e2eff9bdd618d05599f50",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F4_representative_effect_assumptions.csv": "892f4bae6aafdbf2a34972211e74d2d6aa6029b0c8c5cf3a19f82e1ad75e42bc",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_preop_ORIGINAL_CAPACITY_INTERVALS.csv": "71911e835f2425c5ba5fa2ba35a339c94e777eb7a753e83a4f0526229453bb99",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S3_POD1_LR_differences.csv": "126864eb24ca0f702b5eb7eb74698245566722de5254c9a73e00e5ca5c72f8b4",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Workload_all2250_scenarios.csv": "65abbd24f4d057aec20154d7293dac14faca83a3f59c3c3cb2b0396902d3a069",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_preop_CAPTURE_REVIEW_CURVE.csv": "b5d8e0182dd804adb2a44d344750280adcaf50d0ec0e6dc16a0c83a074bef981",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_INSPIRE_common6_CAPTURE_REVIEW_CURVE.csv": "d1d8b0374a050b873560b6eea9bd3263152633dca719f7fff4b33b84d141e3f2",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Policy_fixed_random_all16.csv": "b3f8182998b9b2eb6678d047ee7f9e5c313a1e5e7d9c0ae1f6a6bedbf6ea13e9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Primary_model_points.csv": "ae0890af029d2a2b7ab42d376dd4e0b211cad6dfdaae66844c8f0df9df4160e7",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_BRIDGE_CALIBRATION_DIAGNOSTICS.csv": "d038908181912ad91d2772378ff774582ee99bf947b03216c23042e9ebd29f47",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F5_public_review_and_capture.csv": "309cae6a2297147b5714982c4a079339cf8f8c2c7fe2f867e9719587927fa39c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_CLINICAL_COUNTS_AT_CAPACITY.csv": "6eebaefcb3d7b4ea4681a1e9045653a56bba39f1376602a46addf35a372ddc64",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Calibration_deciles.csv": "abb679e5bf7ba1adb84a823bb21dab3223b2a2cf13204abf4e073fd50eb8d356",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_BRIDGE_INTERVALS.csv": "02feb399b44426560d63b491cf831388b81f9d6a2e3eb49a2e20295652532f72",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_BRIDGE_INTERVALS.csv": "0c383d55f13257088f1bb40c44ceb0a58bc56dc18b9423985f8a811c6503404b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_preop_INVERSE_CAPTURE_REVIEW_CURVE.csv": "57abaf638237e63b94c985e45a2e5b28dcdc4914e07ad0e4f32c995b1e51f933",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_FULL_CAPTURE_REVIEW_CURVE.csv": "f05d701e4b8a33a5a34c9f41b529362e1526377966bcb111326a36dbcf018595",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_paired_INVERSE_CAPTURE_REVIEW_CURVE.csv": "0e73b68bf6a6a4ace0fe4b23ccdc8998c470ae0d5ca58e425b8737fa61d6a68a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/LLM_geography_all_raw_calibrated_and_comparators.csv": "dae03e6a0c234e67a0facaf128f2e40b4f0d3f51f75bccb4d43b142ef5ecdc62",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Baseline_missingness_all27.csv": "9ba5e60e5972f35ddd756c6797b50eaaf633020377ad0ff506a21e065c2f6f38",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_SOURCE_THRESHOLD_COVERAGE.csv": "a844592938d5be93dbca77bfab882fbe382b9a830dfc51c29824da3c686aaeac",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Public_source_thresholds_long.csv": "3d05e74ac4aa701d7a88d2e59ef97aed24668526b227bee81ac350e4b26c6459",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_PAIRED_DIFFERENCES_VS_SIX_RF.csv": "3be109306a402aa46641e5048ef478eae1383b21baa423d5a31ec67e77056fc9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_paired_CAPTURE_REVIEW_CURVE.csv": "8dfa53b5525af72bf5f1188ef8702aa138286c1e3c3dbee64cd99dfa263b0261",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_paired_ORIGINAL_CAPACITY_INTERVALS.csv": "1a7ac4a9461dd99d7ef51ecb7bf86fcff0c2b963479ef1f05e7b31e81de93b5b",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_preop_ORIGINAL_CAPACITY_INTERVALS.csv": "1ac6f7867eef28d3c5da9ea98bcbd389ebee90cecda95f56e3f1c7b6721bc3df",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S7_ALT_all_metrics.csv": "9b0f063685167d60f1395b77a46bf50a816ec7bd64895c376ca4c5e7e226f40f",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_PERFORMANCE_SUPPORT.csv": "6ae90addc4c3f61d2d2c91d3788a47f6d672e51471ebc32a73916f01d7de0864",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Baseline_observed_characteristics.csv": "8fdef8baad771ea5a17993651c8f06a86d0a7e69ddd57afc6023e184ac93e8f8",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_geography_paired_INCREMENT_POINTS.csv": "0de5a0ccbf0673c0982d1ca4eab412f63fca3721f1079e3b287832c33f18e144",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S4_LLM_all24_calibrated_points.csv": "dbb8da9c423ab09ce00b394d768ea0151d69e5369d5660c37259d492cbcce6f8",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S3_POD1_LR_points.csv": "d828df5239d410446f47dcdd6a92f2dd474c09ed3667f492af48ca2d160db501",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/LLM_temporal_all_raw_calibrated_and_comparators.csv": "d1b4c025931b3462bf55f9361c7734304172630d104d468fd16e51a1eacc36df",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Table_S1_input_dictionary.csv": "d23505fbae5b3ed4c6d5f1e1c05e3192d38d30102a7d1f7d1eb7d882a0ed7c10",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F2_preoperative_differences.csv": "f258c56c442df1fb5894fd449dc94564388efd4581246ac68fa231a0e6d6bdea",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_PUBLIC9_REVIEWED_SUMMARY.csv": "17befbadb7b3d7845577d10732e673659602b25613f20e3ea046fa6a7b7c067c",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Table_3_stage_and_input_differences.csv": "1bfed48b4ab62dccce38ac942d3304d8c2b78814c59cc800b7bc69b6efaf03cd",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S4_LLM_all24_calibrated_intervals.csv": "81f9cdf470a2d8e1f875908aec3408bcca2ea142271f321fff417374ca7fba7a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S9_TIPPING_POINT_SUMMARY.csv": "dad90c3d594d5ace97faf2beb1d3680c358dd8ee0ab0b247dd83e18ee1e73658",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/F4_allocation_16_scenarios.csv": "25f9389c841e6a64961b7dbd251ac2c35d515c58ce34fcfa6f7f745fa727017e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S6_recorded_window_points.csv": "56fc11cfb18983a1772343915d772bfc0128adc8873edfea958235027ea14c2a",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/LLM_all54_comparisons_all_metrics.csv": "e7b97f03be78ac9baf5a88a1a48f09ecb80d97793f3584277be319e76e56a2df",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_temporal_paired_INCREMENT_POINTS.csv": "ce8e9b4fc8be0b6451964c9545f2e0cfaaeea7e75b2144d425be5046df24f183",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Translation_INSPIRE_common6_INVERSE_CAPTURE_REVIEW_CURVE.csv": "6159e3d5b5a9f552a4dff6df878bd3113e7b976c6952ae1e9b6a1069687c8bca",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/S2_calibration_update_points.csv": "52d7996dfb75dfbd3a33b490c2c96ea855b11424fb32baeb46b8aebe7046d5a4",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/manuscript_final_20261031_v1/source_data/Coded9_POINT_ESTIMATES.csv": "a780a1753138fd349a5e45b98c9b91d8e73cde0764f5713b15e63692f05f5d3e",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/POLICY_PAIRED_DIFFERENCES.csv": "e0af34fac202cb5266dd1d4ea836f8bd140729716929540822c2b53ace8c5594",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/LOW_RISK_EVENTS.csv": "58bed4f0608653df47a2a9240816d85e1ea71976564df6aef8c681bbf61c08e5",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/MIMIC_DELETION_SENSITIVITY.csv": "aea26a2a372366a8bcbda2ad86fd6fbe822ff1445ebf1c5ba430ae08007e70ab",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/results/DAILY_SUMMARY.csv": "dc93cb91f20d8436a89bd53df8b8b2ca19293bba3214667d4e992d345e413c6e"
+  },
+  "export_script_sha256": "077abbe9b845ce171ec33788372a25fcc50a9a788085d6a264366ff82ddabc51",
+  "compose_script_sha256": "2b09a90857232e08930bcba24e504337c90c30781a4fa65f5087ffe77e4e836d",
+  "new_statistics": 0,
+  "frozen_numerical_artists_and_intervals_unchanged": true,
+  "source_hashes_unchanged": true,
+  "font_files_bundled": false,
+  "body_text_not_scaled": true,
+  "vector_page_assembly_no_rasterization": true,
+  "final_visual_review": "PASS",
+  "contact_sheets": 8,
+  "accepted_utc": "2026-11-08T09:21:43.071997+00:00",
+  "canonical_standalone_panel_paths": true,
+  "visual_review_sha256": "7cadbaf81483d496aca979753e802b8e4e0d1fb16804fd52eb1705baabb85879",
+  "nature_source_validation_sha256": "7759c566ca077c7cb43d1060f57e14a5fc084313877f985b361ab99b59d3dad5",
+  "skill_application_sha256": "bbb95bba583804aac90c6e0263c7b1c48a992db50af891d5a92e8333b5f9713f"
+}

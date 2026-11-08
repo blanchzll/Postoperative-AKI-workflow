@@ -12,3 +12,5 @@
 The aggregate check detects arithmetic/transcription inconsistencies in the supplied tables. It does not validate the complete modelling process or estimate intervention effects.
 
 The final reporting update preserves all source estimates. It adds explicit table metrics and a 160-mm export for the last three supplementary figures, plus source and final-size checks. Raw review-conversation payloads and patient-level clinical records are excluded.
+
+The current JNO export preserves all numeric artists and source annotations in 53 supplemental panels. The Word supplement embeds 31 native editable SVG pages; actual rendered PDF text was verified as Arial 10 point. Source-dependent workflows retain their declared server/project bindings. Font files and original patient-level sources are separate authorized runtime dependencies, not public code assets.

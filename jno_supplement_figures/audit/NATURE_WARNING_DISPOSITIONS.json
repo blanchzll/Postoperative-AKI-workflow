@@ -1,0 +1,29 @@
+{
+  "status": "PASS_WITH_EXPLICIT_TARGET_JOURNAL_DISPOSITIONS",
+  "source_validation_summary": {
+    "ready": true,
+    "strict": false,
+    "counts": {
+      "PASS": 11,
+      "WARN": 3,
+      "FAIL": 0
+    }
+  },
+  "items": [
+    {
+      "check": "EXPORT-RASTER",
+      "disposition": "PDF/SVG are the submitted graph formats; TIFF is not required for these vector graphs. PNG is a300dpi compatibility/QA preview."
+    },
+    {
+      "check": "RASTER-DPI",
+      "disposition": "The preview is300dpi; primary PDF/SVG have native editable vector text/data and no rasterized whole figures.600dpi Nature raster default does not govern these JNO vector exports."
+    },
+    {
+      "check": "FINAL-WIDTH",
+      "disposition": "Static heuristic misreads numeric170/25.4 as170in; all53 PDF panels and31 pages were actually parsed as170mm. JNO document body width and explicit current contract govern final size."
+    }
+  ],
+  "actual_width_mm": 170,
+  "actual_minimum_text_pt": 10,
+  "primary_graphs_vector": true
+}

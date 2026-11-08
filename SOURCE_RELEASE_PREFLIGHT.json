@@ -1,10 +1,10 @@
 {
-  "status": "PASS_CURRENT_COMPLETE_CODE_COVERAGE_AND_CREDENTIAL_PATTERN_SCAN",
-  "package_executable_paths": 374,
-  "public_python_file_copies": 401,
+  "status": "PASS_COMPLETE_CURRENT_CODE_COVERAGE_AST_AND_CREDENTIAL_PATTERN_SCAN",
+  "package_executable_paths": 384,
+  "public_python_source_copies": 421,
   "all_python_AST_pass": true,
   "credential_pattern_hits": [],
-  "coverage": "STUDY_CODE_COVERAGE.csv",
-  "prior_receipts": "provenance/historical/",
-  "patient_level_inputs_and_trained_states_excluded": true
+  "patient_level_states_and_font_binaries_excluded": true,
+  "source_snapshots": "STUDY_CODE_COVERAGE.csv",
+  "actual_JNO_fonts_and_vector_checks": "jno_supplement_figures/ACCEPTANCE.json"
 }

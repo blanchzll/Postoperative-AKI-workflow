@@ -1,0 +1,62 @@
+{
+  "task": "AKI_JNO_SUPPLEMENT_FORMAT_20261108_V1",
+  "locked_utc": "2026-11-08T08:50:34.761263+00:00",
+  "scientific_acceptance_sha256": "e1bea0d540cbe005e694eda24da405a53382bc7315522202d7db657b690b6a6c",
+  "primary_journal_source": "https://jamanetwork.com/journals/jamanetworkopen/pages/instructions-for-authors",
+  "font": "Arial",
+  "body_font_pt": 10,
+  "page_width_mm": 170,
+  "preferred_page_height_max_mm": 180,
+  "absolute_page_height_max_mm": 220,
+  "max_panels_per_page": 2,
+  "exports": [
+    "editable-text SVG",
+    "embedded-font vector PDF",
+    "PNG compatibility preview"
+  ],
+  "units": "existing operation-level estimates; original patient-group/other intervals remain unchanged",
+  "source_scripts": [
+    {
+      "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/probabilistic_integration_20261105_v1/package/02_Code_and_aggregate_data/figure_code/build_figures.py",
+      "sha256": "3cd61da804b1fe05d94866c69b0a335fd9fc1d499b0d48140b96a84b457dfa90"
+    },
+    {
+      "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/probabilistic_integration_20261105_v1/package/02_Code_and_aggregate_data/figure_code/gen_fig_novelty.py",
+      "sha256": "b1812ab91062176eae50edf7b27c18a56a38fc0e253351ed2c5be4688403fe38"
+    },
+    {
+      "path": "/home/lei/codex-workspaces/aki-prediction-manuscript/correction_runs/clinical_supplement_20261108_v1/code/plot_supplement.py",
+      "sha256": "26f6a1bdf803bb1150b23271623e10a9b0bf0a285d5589355687de99e3a6e079"
+    }
+  ],
+  "changes_allowed": [
+    "font family and final physical sizes",
+    "panel layout, margins, title/label whitespace and legend placement",
+    "vector page composition with no scaling of 10pt panel text"
+  ],
+  "changes_prohibited": [
+    "model fitting",
+    "new resampling",
+    "simulation",
+    "point or interval changes",
+    "silently removing numerical/uncertainty artists",
+    "editing writing-owned package or published release"
+  ],
+  "skill_routing": [
+    "phd-skills evidence discipline",
+    "scipilot-figure-skill chart/panel decision and actual pixel review",
+    "scientific-visualization typography/vector/export discipline",
+    "ScientificFigureLibrary0.9.1 reference search only",
+    "nature-figure Python backend and source validator; JNO10pt overrides generic Nature typography",
+    "ks-omics-figure-studio figure contract, source/panel map and read-only QA"
+  ],
+  "figure_selection": "Retain source-grounded clinical cohort diagram, forest contrasts, calibration/resource curves and monitoring tradeoff displays. Reflow native panels for legibility; no new chart type, statistical estimand or imported template code.",
+  "private_font_files": {
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/final_source_audit_20261108_v1/fonts/Arial.ttf": "525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9",
+    "/home/lei/codex-workspaces/aki-prediction-manuscript/writing_runs/final_source_audit_20261108_v1/fonts/Arial Bold.ttf": "d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0"
+  },
+  "CPU_affinity_count": 48,
+  "MemAvailable": "MemAvailable:   56880584 kB",
+  "expected_own_peak_RSS_MiB": 1200,
+  "GPU": "No supported throughput gain for exact native Matplotlib vector serialization; other GPU jobs preserved."
+}

@@ -12,6 +12,8 @@ body=[n for n in tree.body if isinstance(n,(ast.Import,ast.ImportFrom,ast.Functi
 ns={};exec(compile(ast.Module(body=body,type_ignores=[]),str(helper),'exec'),ns)
 style_doc,add_md,write=[ns[n] for n in ['style_doc','add_md','write']]
 from docx.shared import Mm,Pt
+from docx.enum.section import WD_SECTION_START,WD_ORIENT
+from jno_document_format import style_supplement,style_table_document,insert_svg
 main=(S/'MANUSCRIPT_EN.md').read_text()
 title=main.splitlines()[0][2:]
 body=main.split('## Introduction\n',1)[1].split('## Acknowledgment\n',1)[0]
@@ -23,8 +25,14 @@ supps=[x for x in parts if x.startswith('## eFigure ')]
 assert len(mains)==5
 assert wc<=3000,(wc,'main text over journal limit')
 d=style_doc();d.add_heading(title,0)
-for text in ['Authors, highest academic degrees, and affiliations: [AUTHOR INPUT NEEDED]','Corresponding author: [AUTHOR INPUT NEEDED: name, postal address, email, telephone]',f'Main text word count: {wc}','Article type: Original Investigation']:
- d.add_paragraph(text)
+facts_path=A/'ORIGINAL_AUTHOR_STATEMENTS.json'
+if facts_path.exists():
+ facts=json.loads(facts_path.read_text())
+ for text in [facts['author_line'],*facts['affiliations'],facts['equal_contribution'],facts['correspondence'],'Highest academic degrees, full mailing address and telephone: [AUTHOR CONFIRM]',f'Main text word count: {wc}','Article type: Original Investigation']:
+  d.add_paragraph(text)
+else:
+ for text in ['Authors, highest academic degrees, and affiliations: [AUTHOR INPUT NEEDED]','Corresponding author: [AUTHOR INPUT NEEDED: name, postal address, email, telephone]',f'Main text word count: {wc}','Article type: Original Investigation']:
+  d.add_paragraph(text)
 add_md(d,'\n'.join(main.splitlines()[1:]),break_main=True)
 d.add_page_break();add_md(d,'# Figure legends\n\n'+'\n'.join(mains))
 write(d,J/'MANUSCRIPT.docx')
@@ -33,9 +41,9 @@ cd=style_doc(letter=True);add_md(cd,(S/'COVER_LETTER.md').read_text().replace('#
 mt=(S/'MAIN_TABLES.md').read_text()
 td=style_doc();add_md(td,mt,break_tables=True)
 dest=J/'Supplementary_tables';dest.mkdir(exist_ok=True)
-write(td,dest/'EDITABLE_THREE_LINE_TABLES.docx')
+style_table_document(td);write(td,dest/'EDITABLE_THREE_LINE_TABLES.docx')
 for i,chunk in enumerate(re.split(r'(?=^## )',mt,flags=re.M)[1:],1):
- dd=style_doc();add_md(dd,chunk);write(dd,dest/f'SUPPLEMENTARY_TABLE_{i}.docx')
+ dd=style_doc();add_md(dd,chunk);style_table_document(dd);write(dd,dest/f'SUPPLEMENTARY_TABLE_{i}.docx')
 sd=style_doc(supp=True);sd.add_heading('Supplement 1',0);sd.add_paragraph(title)
 sd.add_heading('Contents',1)
 for text in ['eMethods. Detailed methods and development protocol','eResults. Supporting analyses']:
@@ -47,20 +55,39 @@ methods=(S/'EMETHODS.md').read_text()
 before,separator,refs=methods.partition('## eReferences')
 sd.add_page_break();add_md(sd,before)
 sd.add_page_break();add_md(sd,(S/'ERESULTS.md').read_text())
-add_md(sd,(S/'ETABLES.md').read_text(),break_tables=True)
+for chunk in re.split(r'(?=^## eTable \d+\.)',(S/'ETABLES.md').read_text(),flags=re.M):
+ if not chunk.strip():continue
+ cols=max([len(line.strip('|').split('|')) for line in chunk.splitlines() if line.startswith('|')]+[0])
+ sec=sd.add_section(WD_SECTION_START.NEW_PAGE)
+ sec.orientation=WD_ORIENT.LANDSCAPE if cols>=7 else WD_ORIENT.PORTRAIT
+ sec.page_width=Mm(297 if cols>=7 else 210)
+ sec.page_height=Mm(210 if cols>=7 else 297)
+ sec.left_margin=sec.right_margin=Mm(20)
+ add_md(sd,chunk,break_tables=False)
+# Figures return to portrait; each vector page is placed at its native width.
+sec=sd.add_section(WD_SECTION_START.NEW_PAGE);sec.orientation=WD_ORIENT.PORTRAIT;sec.page_width=Mm(210);sec.page_height=Mm(297)
+sec.left_margin=sec.right_margin=Mm(20)
 images=[]
+page_manifest=P/'05_Figure_assets/JNO_VECTOR_PAGES/PAGE_AND_PANEL_MANIFEST.json'
+if not page_manifest.exists():
+ raise SystemExit('JNO Arial10 vector-page manifest pending; do not substitute raster figures')
+page_spec=json.loads(page_manifest.read_text())
+first_page=True
 for part in supps:
  label=re.match(r'## (eFigure \d+)\.',part).group(1)
- folder=P/'05_Figure_assets'/label.replace(' ','_')
- pngs=sorted(folder.glob('*.png'))
- assert pngs,(label,folder)
- image=pngs[0]
- sd.add_page_break();sd.add_heading(part.splitlines()[0][3:],1)
- sd.add_picture(str(image),width=Mm(160 if label in ['eFigure 16','eFigure 17','eFigure 18'] else 170))
- add_md(sd,'\n'.join(part.splitlines()[1:]))
- images.append({'figure':label,'file':str(image.relative_to(P)),'sha256':hashlib.sha256(image.read_bytes()).hexdigest()})
+ key=label.replace(' ','_')
+ entries=sorted([q for q in page_spec['pages'] if q['figure']==key],key=lambda q:q['page'])
+ assert entries,(label,'missing JNO vector pages')
+ for i,spec in enumerate(entries):
+  if not first_page:sd.add_page_break()
+  first_page=False
+  sd.add_heading(part.splitlines()[0][3:]+(' (continued)' if i else ''),1)
+  svg=page_manifest.parent/spec['svg'];png=page_manifest.parent/spec['png']
+  insert_svg(sd,svg,png,spec['width_mm'])
+  if i==len(entries)-1:add_md(sd,'\n'.join(part.splitlines()[1:]))
+  images.append({'figure':label,'page':spec['page'],'svg':str(svg.relative_to(P)),'width_mm':spec['width_mm'],'svg_sha256':hashlib.sha256(svg.read_bytes()).hexdigest()})
 if separator:sd.add_page_break();add_md(sd,'# eReferences'+refs)
-write(sd,J/'SUPPLEMENT_1.docx')
+style_supplement(sd);write(sd,J/'SUPPLEMENT_1.docx')
 zd=style_doc();add_md(zd,(S/'MANUSCRIPT_ZH.md').read_text());write(zd,A/'MANUSCRIPT_ZH.docx')
 for lang,md in [('EN',main),('ZH',(S/'MANUSCRIPT_ZH.md').read_text())]:
  sections=re.split(r'(?=^## )',md,flags=re.M)

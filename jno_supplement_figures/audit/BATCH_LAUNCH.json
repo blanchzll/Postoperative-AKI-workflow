@@ -1,0 +1,12 @@
+{
+  "started_utc": "2026-11-08T09:09:28.904569+00:00",
+  "CPU_affinity": 48,
+  "MemAvailable_bytes": 57558077440,
+  "reserved_headroom_bytes": 14389519360,
+  "qualification_observed_peak_MiB": 209,
+  "reserved_MiB_per_worker": 600,
+  "workers": 18,
+  "tasks": 18,
+  "threads_per_worker": 1,
+  "new_statistics": 0
+}

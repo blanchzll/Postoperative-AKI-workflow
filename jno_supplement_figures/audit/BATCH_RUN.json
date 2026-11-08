@@ -1,0 +1,124 @@
+{
+  "started_utc": "2026-11-08T09:09:28.904569+00:00",
+  "CPU_affinity": 48,
+  "MemAvailable_bytes": 57558077440,
+  "reserved_headroom_bytes": 14389519360,
+  "qualification_observed_peak_MiB": 209,
+  "reserved_MiB_per_worker": 600,
+  "workers": 18,
+  "tasks": 18,
+  "threads_per_worker": 1,
+  "new_statistics": 0,
+  "outcomes": [
+    {
+      "figure": "eFigure_1",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_1.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_1"
+    },
+    {
+      "figure": "eFigure_2",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_2.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_2"
+    },
+    {
+      "figure": "eFigure_3",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_3.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_3"
+    },
+    {
+      "figure": "eFigure_4",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_4.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_4"
+    },
+    {
+      "figure": "eFigure_5",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_5.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_5"
+    },
+    {
+      "figure": "eFigure_6",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_6.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_6"
+    },
+    {
+      "figure": "eFigure_7",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_7.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_7"
+    },
+    {
+      "figure": "eFigure_8",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_8.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_8"
+    },
+    {
+      "figure": "eFigure_9",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_9.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_9"
+    },
+    {
+      "figure": "eFigure_10",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_10.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_10"
+    },
+    {
+      "figure": "eFigure_11",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_11.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_11"
+    },
+    {
+      "figure": "eFigure_12",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_12.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_12"
+    },
+    {
+      "figure": "eFigure_13",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_13.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_13"
+    },
+    {
+      "figure": "eFigure_14",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_14.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_14"
+    },
+    {
+      "figure": "eFigure_15",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_15.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_15"
+    },
+    {
+      "figure": "eFigure_16",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_16.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_16"
+    },
+    {
+      "figure": "eFigure_17",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_17.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_17"
+    },
+    {
+      "figure": "eFigure_18",
+      "returncode": 0,
+      "log": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/logs/eFigure_18.log",
+      "root": "/home/lei/codex-workspaces/aki-prediction-manuscript/outputs/final_workbuddy_delivery_20261108_v1/figures_jno_20261108_v1/workers/eFigure_18"
+    }
+  ],
+  "seconds": 8.296224117279053,
+  "all_owned_workers_joined": true
+}

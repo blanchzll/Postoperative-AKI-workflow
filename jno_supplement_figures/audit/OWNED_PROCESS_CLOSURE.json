@@ -1,0 +1,9 @@
+{
+  "utc": "2026-11-08T09:21:43.071997+00:00",
+  "owned_export_worker_PIDs_live": [],
+  "batch_worker_pool_joined": true,
+  "all_owned_export_processes_exited": true,
+  "other_jobs_signaled": false,
+  "shared_GPU_models_unloaded": false,
+  "current_MemAvailable": "MemAvailable:   56678020 kB"
+}

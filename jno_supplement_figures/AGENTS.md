@@ -1,0 +1,2 @@
+# JNO supplemental figure format repair
+User authorizes all final figure/code work; coordinated division gives this thread exclusive ownership of18 supplemental figure exports. Preserve frozen source estimates, uncertainty, labels and units. Only typography/layout/vector export, Arial10pt actual170mm pages, each panel PDF/SVG/PNG. Writing thread alone owns manuscript, Word integration, and public upload. Fonts are private runtime assets and must not enter public archive. No models, bootstrap or new simulations.
