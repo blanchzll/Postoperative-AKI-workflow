@@ -96,3 +96,7 @@ figure_reproduction_20261111/AKI_Figure_Reproduction_20261111.zip supplies the r
 After extraction, install requirements.txt and run python run_figures.py. The --only option selects figure identifiers, and --output chooses the destination. The release locates installed Arial or accepts --font-dir. Notebook execution uses the same entry point.
 
 Figure1A presents eight selected-workflow AUROCs and saved intervals in four matched comparisons. The eFigure8B label correction is documented in verification/PRESENTATION_CHANGES.json. Complete and single-figure Notebook runs passed, including source checks for plotted AUROCs and SHAP contributions. The release retains source and reference records.
+
+## WorkBuddy panel-design implementation V6
+
+figure_reproduction_20261111/WORKBUDDY_V6_CODE.zip supplies the updated five-main-figure implementation with171mm canvases, Arial text at least8pt, metric-specific INSPIRE comparisons, empirical step curves, shared signed cost-grid scales, separate capture and paired-difference axes, and Wilson monitoring-loss intervals. It contains94 frozen aggregate inputs and executable Jupyter notebooks. The full notebook generated five main and26 supplementary figures across41 native supplement pages. WORKBUDDY_V6_README_ZH.md gives the server workflow and exact output path.
