@@ -1,0 +1,41 @@
+{
+  "release": "20261111_shap_and_three_workflow_choice",
+  "files": [
+    {
+      "path": "workflow_selection_20261111/FOUR_WORKFLOW_SHAP.csv",
+      "bytes": 25818,
+      "sha256": "8221542477fb820e7e54eba9ff498b9eaef1b2434ef58c4fde625de119d3b3f3",
+      "git_blob_sha1": "f1be0b2a4aaf39c977945dcba6731e82f493d848"
+    },
+    {
+      "path": "workflow_selection_20261111/PRESENTATION_CODE_20261108_10.zip",
+      "bytes": 445123,
+      "sha256": "01c793206f23752a77e44b3de55386cae0549797cc4e90fcace0d74d6b61e8b0",
+      "git_blob_sha1": "de7029ba25c56e773a727373cdcd536d1dad0ba4"
+    },
+    {
+      "path": "workflow_selection_20261111/README.md",
+      "bytes": 2526,
+      "sha256": "34cc634122c3c3f3fb97b039fbca3f29ebadd7e25411c250122620c1ba744972",
+      "git_blob_sha1": "cea4e4e6f0d3ddb243f9fef373cca2abef029a8b"
+    },
+    {
+      "path": "workflow_selection_20261111/STRATEGY_SELECTION_SUMMARY.json",
+      "bytes": 3124,
+      "sha256": "636e2c0e9b880844167e5c438f102c53c3ebcca505b2095603e7d5eb3802782c",
+      "git_blob_sha1": "4d7f01e4e3de2f8964e349f83b78359aa891beae"
+    },
+    {
+      "path": "workflow_selection_20261111/WORKFLOW_CHOICE_AND_SHAP_CODE.zip",
+      "bytes": 165986,
+      "sha256": "5533c3a761a7dc4e1634bfcaa9d6f8820fd733f1ad58677fb2b78ae01a7e2ca9",
+      "git_blob_sha1": "491cd2dff277853527b97d8a9533ecc9d9182df6"
+    },
+    {
+      "path": "workflow_selection_20261111/select_workflow.py",
+      "bytes": 1651,
+      "sha256": "29927fa8acffd2c1db1d2d10f1eb241531ad5529914f286b0db846a55b2c1038",
+      "git_blob_sha1": "a2a0a3310716c2beee13371ae91e9af6841de0b9"
+    }
+  ]
+}

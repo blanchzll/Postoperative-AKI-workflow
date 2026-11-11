@@ -1,0 +1,60 @@
+{
+  "base_commit": "f2785e68b0eb713c5807a4288c50bc7f40a856de",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 10692,
+      "sha256": "ed1c4b57009e570ea1bb44a3ed135d17c0415ddf46db9e478724dea9b086348c"
+    },
+    {
+      "path": "figure_reproduction_20261111/AKI_Figure_Reproduction_20261111.zip",
+      "bytes": 9637682,
+      "sha256": "981f2b7bf4ee56845fff860e7941fabbf215bbae4b9a84bf26526be0a8a9ec62"
+    },
+    {
+      "path": "figure_reproduction_20261111/FIGURE_CODE_INDEX.csv",
+      "bytes": 12584,
+      "sha256": "3b9b85c4887c3aa71987a4dc2795b4661a1c66b5d80b21ddaa20804669c25f31"
+    },
+    {
+      "path": "figure_reproduction_20261111/README_ZH.md",
+      "bytes": 2068,
+      "sha256": "d9087ec43854acd99d2a4df7b6de84cf6dded9f0bf712592d3f4d58720c35c1c"
+    },
+    {
+      "path": "workflow_selection_20261111/FOUR_WORKFLOW_SHAP.csv",
+      "bytes": 25818,
+      "sha256": "8221542477fb820e7e54eba9ff498b9eaef1b2434ef58c4fde625de119d3b3f3"
+    },
+    {
+      "path": "workflow_selection_20261111/PRESENTATION_CODE_20261108_10.zip",
+      "bytes": 445123,
+      "sha256": "01c793206f23752a77e44b3de55386cae0549797cc4e90fcace0d74d6b61e8b0"
+    },
+    {
+      "path": "workflow_selection_20261111/README.md",
+      "bytes": 2526,
+      "sha256": "34cc634122c3c3f3fb97b039fbca3f29ebadd7e25411c250122620c1ba744972"
+    },
+    {
+      "path": "workflow_selection_20261111/RELEASE_MANIFEST.json",
+      "bytes": 1606,
+      "sha256": "7ced98121150079505ad8863a04e67e170493bd524894fa96274ba285fb16f60"
+    },
+    {
+      "path": "workflow_selection_20261111/STRATEGY_SELECTION_SUMMARY.json",
+      "bytes": 3124,
+      "sha256": "636e2c0e9b880844167e5c438f102c53c3ebcca505b2095603e7d5eb3802782c"
+    },
+    {
+      "path": "workflow_selection_20261111/WORKFLOW_CHOICE_AND_SHAP_CODE.zip",
+      "bytes": 165986,
+      "sha256": "5533c3a761a7dc4e1634bfcaa9d6f8820fd733f1ad58677fb2b78ae01a7e2ca9"
+    },
+    {
+      "path": "workflow_selection_20261111/select_workflow.py",
+      "bytes": 1651,
+      "sha256": "29927fa8acffd2c1db1d2d10f1eb241531ad5529914f286b0db846a55b2c1038"
+    }
+  ]
+}
