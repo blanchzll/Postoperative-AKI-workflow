@@ -88,15 +88,3 @@ python3 workflow_selection_20261111/select_workflow.py --evaluation geography --
 The command reads the aggregate grid directly from the supplied ZIP using the Python standard library. It returns observed event capture, paired uncertainty and selection support. Cost ratios are explicit planning scenarios. At 20% budget and both cost ratios .15, geographic evaluation captures 33, 13 and 15 events with 9, 27 and 38 inputs, respectively. Temporal evaluation captures 20, 9 and 9. The complete grid retains ties and overlapping intervals. Bootstrap selection shares describe resampling uncertainty.
 
 FOUR_WORKFLOW_SHAP.csv retains 188 aggregate feature-importance rows for raw and calibrated predictions across four workflows. The added figure displays 36 calibrated contributions. Full-pipeline SHAP explains the saved models on their original development populations. The completed submission package contains 26 supplementary figures across 41 native vector pages. Patient-level inputs and licensed fonts require authorized access for data-dependent reproduction.
-
-## Independently runnable figure and Notebook package (November 11, 2026)
-
-figure_reproduction_20261111/AKI_Figure_Reproduction_20261111.zip supplies the relative-path plotting release for all five main and 26 supplementary figures, with 94 saved aggregate inputs, pinned dependencies, two editable Jupyter notebooks and numerical verification. Native supplementary composition produces 41 pages. FIGURE_CODE_INDEX.csv maps every figure to its renderer, inputs and output path.
-
-After extraction, install requirements.txt and run python run_figures.py. The --only option selects figure identifiers, and --output chooses the destination. The release locates installed Arial or accepts --font-dir. Notebook execution uses the same entry point.
-
-Figure1A presents eight selected-workflow AUROCs and saved intervals in four matched comparisons. The eFigure8B label correction is documented in verification/PRESENTATION_CHANGES.json. Complete and single-figure Notebook runs passed, including source checks for plotted AUROCs and SHAP contributions. The release retains source and reference records.
-
-## WorkBuddy panel-design implementation V6
-
-figure_reproduction_20261111/WORKBUDDY_V6_CODE.zip supplies the updated five-main-figure implementation with171mm canvases, Arial text at least8pt, metric-specific INSPIRE comparisons, empirical step curves, shared signed cost-grid scales, separate capture and paired-difference axes, and Wilson monitoring-loss intervals. It contains94 frozen aggregate inputs and executable Jupyter notebooks. The full notebook generated five main and26 supplementary figures across41 native supplement pages. WORKBUDDY_V6_README_ZH.md gives the server workflow and exact output path.
