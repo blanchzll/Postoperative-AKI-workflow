@@ -88,3 +88,7 @@ python3 workflow_selection_20261111/select_workflow.py --evaluation geography --
 The command reads the aggregate grid directly from the supplied ZIP using the Python standard library. It returns observed event capture, paired uncertainty and selection support. Cost ratios are explicit planning scenarios. At 20% budget and both cost ratios .15, geographic evaluation captures 33, 13 and 15 events with 9, 27 and 38 inputs, respectively. Temporal evaluation captures 20, 9 and 9. The complete grid retains ties and overlapping intervals. Bootstrap selection shares describe resampling uncertainty.
 
 FOUR_WORKFLOW_SHAP.csv retains 188 aggregate feature-importance rows for raw and calibrated predictions across four workflows. The added figure displays 36 calibrated contributions. Full-pipeline SHAP explains the saved models on their original development populations. The completed submission package contains 26 supplementary figures across 41 native vector pages. Patient-level inputs and licensed fonts require authorized access for data-dependent reproduction.
+
+## Current manuscript analyses
+
+[Analysis code and reproduction instructions](analysis_v16/README.md) cover paired AKI capture at the same assessment capacity, assessment volume at the same AKI yield, and the fixed-input-count sensitivity analyses.
